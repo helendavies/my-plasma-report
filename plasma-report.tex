@@ -4,6 +4,8 @@
 %\geometry{landscape}                		% Activate for rotated page geometry
 \usepackage[parfill]{parskip}    		% Activate to begin paragraphs with an empty line rather than an indent
 \usepackage{graphicx}				% Use pdf, png, jpg, or eps§ with pdflatex; use eps in DVI mode
+\usepackage{caption}
+\usepackage{subcaption}
 \graphicspath{ {Users/hld523/Reports/my-plasma-report/Figures/} }								% TeX will automatically convert eps --> pdf in pdflatex		
 
 \usepackage{amssymb}
@@ -21,7 +23,241 @@
 \begin{document}
 \maketitle
 \section{Introduction}
+
+\subsection{What is plasma?}
+
+\begin{itemize}
+\item Plasma is the fourth state of matter, following gases. When gases become ionised, ie, lose electrons, plasma is formed. Plasma therefore consists of a mixture of charged (electrons and ions) and uncharged (neutrals) particles. Free electrons in the plasma mean that electricity can be conducted through the plasma medium and the fact that there are moving charged particles means that plasmas also have associated magnetic fields.
+\item Plasmas are said to be quasineutral. This means that while there are positively and negatively charged particles in the plasma, the overall charge of the system is neutral.
+\item Plasmas are formed due to ionisation. In an electric field, electrons that are the results of ionisation of atoms or molecules accelerate across the potential difference of the field, thus gaining energy.
+Electrons can then collide with other species present, such as other neutrals, and if the energy is sufficient, themselves cause further ionisation.
+This results in a chain reaction of increasing ionisation and sustaining of the plasma.
+\item However, electrons are also lost from the plasma due to recombination with other species in the plasma.
+This means that there is an overall relatively stable electron density for the plasma. 
+The electron density of the plasma is related to the energy of the system.
+\item In high energy, high temperature plasmas, such as the sun, the degree of ionisation reaches nearly 100\%, meaning that there are no neutral species present in the plasma, everything is ionised to ions and electrons. 
+However, in lower energy, low temperature plasmas, the degree of ionisation is much smaller, typically ???.
+\item All the electrons within a plasma have differing energies, resulting in an electron energy distribution function (EEDF), such as that shown in **a figure I am going to add!*. Electrons of differing energies have different effects when they collide with other things in the plasma as follows:
+\begin{enumerate}
+\item Dissociation - splitting of atoms/molecules
+\item Excitation - electron impact results in an electron in the atom/molecule hit being excited to a higher energy level electron shell by absorbing the electrons energy. The visible light in plasma is due to these excited atoms/molecules relaxing back down to a lower, more stable energy level by the emission of a photon. The wavelength of the photon determines the colour of the light emitted.
+\item Ionisation - This is reserved for only the highest energy electrons as they need to have energy greater than the ionisation energy of the atom/molecules to be ionised.
+\end{enumerate}
+
+\end{itemize}
+
+
+
+
+\subsection{Low Temperature Atmospheric Pressure Plasmas}
+
+\begin{itemize}
+
+\item Of interest to this project are low temperature, atmospheric pressure plasmas.
+\item These plasmas have low degrees of ionisation and are said to be in non-thermodynamic equlibrium. 
+Whilst electrons accelerate across the potential difference and therefore gain energy/ increase in temperature, the huge mass difference between electrons and other particles in the plasma means that the energy exchange between electrons and everything else is very small. 
+This poor energy transfer results in hot electrons and relatively cool gas/ion temperature of approximately room temperature. $T_e >> T_g$ (where $T_e$ is electron temperature and $T_g$ is gas temperature).
+\item This contrasts strongly with hot plasmas which have high degrees of ionisation and are said to be in thermodynamic equilibrium, that is, where $T_e \approx T_g$.
+
+\end{itemize}
+
+\subsection{Biomedical Applications of Low Temperature Plasmas}
+
+\begin{itemize}
+
+\item One reason for the booming research interest into low temperature plasmas is the potential for biomedical applications of these plasmas.
+\item Plasmas have been used in the field of biomedicine for sterilisation, cauterisation etc in the past. However, these plasmas operate at temperatures which exclude them from being used directly on biological tissues, such as the skin.
+\item Low temperature plasmas mean that this is no longer an issue as they operate at non-harmful temperatures meaning that they can be used directly in contact with biological samples. 
+For example KinPen and PlasmaDerm....
+
+\item The potential biomedical applications come from the fact that these plasmas are a source of UV radiation, electrical fields and, of particular interest to this project, they are a potent source of reactive oxygen and nitrogen species. All of these things have potential to influence biomolecules such as DNA which can in turn play a role in killing of bacteria, for example to promote wound healing, or killing of cancer cells, to provide an alternative to conventional therapies. 
+The multimodal nature of plasma treatment could mean that resistance to treatment by it may not occur. 
+This would be beneficial in this era of increasing antibiotic resistance.
+
+\end{itemize}
+
+
+\subsection{Reactive Oxygen and Nitrogen Species}
+RONS in biology are very important. Originally thought to be only damaging (aging and radicals etc) but now there is evidence that they are also important for normal physiological functioning, eg use by the immune system in bactericidal mechanisms.
+The following are of particular importance/interest:
+
+\subsubsection{Superoxide}
+Brief summary
+\subsubsection{Hydroxyl}
+Brief summary
+
+\subsection{Measuring RONS in plasma}
+
+\subsection{Biologically relevant concentrations of hydroxyl radical}
+
+\subsection{Project Hypotheses and Aims}
+
+
 \section{Materials and Methods}
+
+\subsection{Plasma Source}
+The plasma source (described previously (Niemi2013)) used consists of two plane-parallel electrodes which are 30mm long and 11mm wide. 
+The gap between the electrodes is 1 mm and the gaps at either side are covered by ultraviolet (UV) transparent windows, thereby forming a channel for plasma formation with dimensions of 1 x 11 x 30 mm.
+One electrode is driven by a 13.56 MHz radio frequency (RF) generator via an impedence matching box, whilst the other electrode is grounded. 
+The helium feed gas used in the plasma can consist of a mixture of dry and humid helium. Humidification of the gas can be achieved by diverting some of the helium through a bubbler (a closed water-containing chamber) in order to pick up water vapour before rejoining the original flow and carrying on to the plasma source.
+The dry and humid helium flows were controlled by two separate mass flow controllers.
+The gas inlet to the source is at the bottom of the plasma channel and the gas travels through the 30 mm long channel to the gas outlet and is removed by an extractor.
+
+
+
+
+\begin{figure}
+    \centering
+    \includegraphics[width=\textwidth]{Figures/PlasmaSetup.JPG}
+    \caption{Plasma Setup...This will be a proper diagram...}
+    \label{fig:my_label}
+\end{figure}
+
+
+\subsection{Power Measurements}
+
+Whilst the RF generator gives an indication of the power being supplied to the plasma source, it is not very accurate and is unable to account for power losses in cables and other equipment.
+To counteract this, the actual power delivered to the plasma can be accurately measured using a Solayl probe which is connected between the matching box and the plasma source.
+Using this, the actual power delivered to the plasma was calibrated to the output stated on the output dial (see figure \ref{fig:OutputDial}) of the RF generator. 
+This was done by changing the output from 50 - 160 in steps of 10 on the RF generator output dial and measuring the power at each point 5 times, then taking the average power for each output.
+For this, the plasma was operated with a gas flow of 5 slm helium containing 5400ppm water.
+This calibration is shown in figure \ref{fig:SolaylPower}.
+The relationship between the output and actual power showed a linear relationship and by fitting a line to the measured data, the actual power delivered to the plasma for each output value can be predicted. 
+All powers stated in this report are real powers calculated from this calibration.
+
+\begin{figure}
+    \centering
+    \includegraphics[width=0.4\textwidth]{Figures/OutputDial.png}
+    \caption{Picture showing the Output dial on the RF generator used for calibrating output from the RF generator to the actual power supplying the plasma}
+    \label{fig:OutputDial}
+\end{figure}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=\textwidth]{Figures/SolaylPower.eps}
+    \caption{There is a linear relationship between the output on the RF generator and the actual power supplied to the plasma. The range of outputs for the plasma set up is 58-97. Using the equation of the line of best fit (y = 0.1227x + 1.0229) this equates to a power range of 8.1-12.9W. Powers shown are the average of 5 measurements.}
+    \label{fig:SolaylPower}
+\end{figure}
+
+Following this calibration, it was necessary to check that the power delivered to the plasma was unaffected by changing the water content of the feed gas by altering the proportion of the 5 slm helium which is passed through the bubbler.
+This was checked at two different powers. 
+For each power, the RF generator output was kept constant and the volume of helium passing through the bubbler was varied.
+The results shown in figure \ref{fig:BubblerPower} show that the water content has very little, if any effect on the power supplied to the plasma.
+
+\begin{figure}
+    \centering
+    \includegraphics[width=\textwidth]{Figures/BubblerPower.eps}
+    \caption{The water content of the feed gas has no effect on the power supplied to the plasma. The water content of the feed gas was varied at high and low power. For each of the two powers, the output of the RF generator was kept constant and only the water content of the feed gas changed.}
+    \label{fig:BubblerPower}
+\end{figure}
+
+\subsection{UV Absorption Spectroscopy}
+To investigate the density of hydroxyl radicals present in the plasma, an ultraviolet (UV) light emitting diode (LED) with central wavelength of 309 nm (a wavelength absorbed by free hydroxyl radicals (Hatano2010)) was used for absorption spectroscopy.
+The principle of this method is to measure the intensity of light before and after passing through the plasma, in order to see how much has been absorbed within the plasma by the species of interest.
+In this case, the species of interest is the hydroxyl radical, therefore, the more hydroxyl radicals present in the plasma, the greater the absorbance of LED.
+The UV beam passes through the plasma and a series of optics, then signal is detected by an imaging spectrograph with a (CCD) camera.
+
+The transmittance of light beam and it's relationship to the absorbance is shown as follows:
+
+
+\begin{equation} \label{eqn:Transmittance}
+    T = \frac{I_T}{I_0} = e^{-A}
+\end{equation}
+Where $T$ is transmittance, $I_T$ and $I_0$ are the intensities of the transmitted and incident light, respectively and $A$ is the absorbance of light by the plasma.
+
+In order to measure $I_T$ and $I_0$ for the plasma setup, it is necessary to measure four different parameters as follows:
+\begin{itemize}
+    \item $I_{PL}$ - The intensity of light reaching the CCD when both the LED and the plasma are on (figure \ref{subfig:Ipl})
+    \item $I_{P}$ - The intensity of light reaching the CCD when the LED is off and the plasma is on (figure \ref{subfig:Ip})
+    \item $I_L$ - The intensity of light reaching the CCD when the LED is on and the plasma is off (figure \ref{subfig:Il})
+    \item $I_{BG}$ - The intensity of background light when both the LED and plasma are off (figure \ref{subfig:Ibg})
+\end{itemize}
+
+\begin{figure}
+	\begin{subfigure}{0.2\textwidth}
+  	  	\includegraphics[width=\textwidth]{Figures/Ipl.pdf}
+   	 	\caption{$I_{PL}$}
+    		\label{subfig:Ipl}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}{0.2\textwidth}
+    		\includegraphics[width=\textwidth]{Figures/Ip.pdf}
+    		\caption{$I_{P}$}
+    		\label{subfig:Ip}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}{0.2\textwidth}
+		\includegraphics[width=\textwidth]{Figures/Il.pdf}
+    		\caption{$I_{L}$}
+		\label{subfig:Il}
+	\end{subfigure}
+	\hfill
+    	\begin{subfigure}{0.2\textwidth}
+    		\includegraphics[width=\textwidth]{Figures/Ibg.pdf}
+    		\caption{$I_{BG}$}
+    		\label{subfig:Ibg}
+	\end{subfigure}
+	\caption{Rectangle represents plasma channel. Splodges are important bits of plasma. Green line is LED.}
+\end{figure}
+
+Using these measurements, the equation defining the relationship between transmittance and absorbance becomes:
+
+\begin{equation} \label{eqn:4ParamTransmittance}
+    T = \frac{I_T}{I_0} = \frac{I_{PL} - I_P}{I_L - I_{BG}} = e^{-A}
+\end{equation}
+
+All four parameters are measured in series, under the control of a function generator.
+This function generator controls a shutter to block the LED and the RF generator to turn the plasma on and off. It also controls external triggering of the camera and a shutter at the entrance to the spectrometer to block all light to the CCD while the system changes from one parameter to the next. 
+
+Data is then acquired as a series of 80 measurements resulting in 20 repeats for each of the four parameters.
+Matlab is then used to average all 20 repeats for each parameter then calculate absorbance at each wavelength of the LED as follows:
+
+\begin{equation}\label{eqn:Absorbance}
+    A = -ln(\frac{I_{PL} - I_P}{I_L - I_{BG}})
+\end{equation}
+
+\subsection{Spectral fitting and radical density determination}
+
+Once the absorbances for each wavelength have been calculated, a simulated spectrum can then be fitted to the data to provide a spectrum of absorbance for hydroxyl radicals (see figure \ref{fig:SpectrumFitting}). 
+The spectrum shows absorption due to ground state hydroxyl radicals becoming rotationally and/or vibrationally excited.
+In fitting this spectrum, the programme calculates the density of hydroxyl radicals present in the plasma.
+
+\begin{figure}
+    \centering
+    \includegraphics[width=\textwidth]{Figures/SpectrumFitting.png}
+    \caption{An example of a simulated spectrum (green) fitted to the measured absorbances (white dots). Wavelength is shown along the x axis and absorbance along the y axis.}
+    \label{fig:SpectrumFitting}
+\end{figure}
+
+\subsection{Calculating the Water Content of Helium}
+\label{subsec:CalculatingWaterContent}
+
+
+To calculate the water content of helium passing through the bubbler, firstly, the flow of water must be determined. For this, the pressure of water vapour in the bubbler ($P_{water}$) is calculated using the following:
+
+\begin{equation}
+	e_w = 6.1094 e^{\frac{17.625t}{243.04 + t}}
+\end{equation}
+Where $e_w$ is the water vapour pressure in hPa, above a plane surface of pure water, and $t$ is the temperature in degrees celsius.
+
+The pressure of helium ($P_{He}$) is taken to be $P_{atmosphere} - P_{water}$. Since the ratio of flow to pressure for helium must be the same as for water, the flow of water can be calculated as follows:
+
+\begin{equation}
+    F_{water} = \frac{F_{He} * P_{water}}{P_{He}}
+\end{equation}
+
+Where $F_{water}$ and $F_{He}$ are the flows of water and helium in slm, respectively. The percentage of gas flow that is water, and the concentration of water in parts per million can then be determined.
+The relationship between the flow of helium through the bubbler and the concentration of water in ppm is shown in figure \ref{fig:WaterContent}.
+
+\begin{figure}
+    \centering
+    \includegraphics[width=\textwidth]{Figures/WaterContent.eps}
+    \caption{The water content of the helium passing through the bubbler increases linearly with the volume of helium passing through the bubbler. Water content calculated using equation from Alduchov paper and procedure described in the text.}
+    \label{fig:WaterContent}
+\end{figure}
+
+
+
 
 \section{Results}
 
@@ -157,7 +393,6 @@ Look at how percentage dissociation changes with amount of water in plasmas. Fig
 
 
 \section{Discussion}
-
 
 
 \end{document}  

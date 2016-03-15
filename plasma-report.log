@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.7)  15 MAR 2016 12:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.7)  15 MAR 2016 18:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -86,6 +86,27 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen111
 \Gin@req@width=\dimen112
 )
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen113
+\captionmargin@=\dimen114
+\captionwidth=\dimen115
+\caption@tempdima=\dimen116
+\caption@indent=\dimen117
+\caption@parindent=\dimen118
+\caption@hangindent=\dimen119
+)
+\c@ContinuedFloat=\count91
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+\c@subfigure=\count92
+\c@subtable=\count93
+)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
@@ -108,46 +129,46 @@ Package: amstext 2000/06/29 v2.01
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks17
-\ex@=\dimen113
+\ex@=\dimen120
 ))
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen114
+\pmbraise@=\dimen121
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count91
+\inf@bad=\count94
 LaTeX Info: Redefining \frac on input line 210.
-\uproot@=\count92
-\leftroot@=\count93
+\uproot@=\count95
+\leftroot@=\count96
 LaTeX Info: Redefining \overline on input line 306.
-\classnum@=\count94
-\DOTSCASE@=\count95
+\classnum@=\count97
+\DOTSCASE@=\count98
 LaTeX Info: Redefining \ldots on input line 378.
 LaTeX Info: Redefining \dots on input line 381.
 LaTeX Info: Redefining \cdots on input line 466.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
-\big@size=\dimen115
+\big@size=\dimen122
 LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
-\macc@depth=\count96
-\c@MaxMatrixCols=\count97
+\macc@depth=\count99
+\c@MaxMatrixCols=\count100
 \dotsspace@=\muskip10
-\c@parentequation=\count98
-\dspbrk@lvl=\count99
+\c@parentequation=\count101
+\dspbrk@lvl=\count102
 \tag@help=\toks18
-\row@=\count100
-\column@=\count101
-\maxfields@=\count102
+\row@=\count103
+\column@=\count104
+\maxfields@=\count105
 \andhelp@=\toks19
-\eqnshift@=\dimen116
-\alignsep@=\dimen117
-\tagshift@=\dimen118
-\tagwidth@=\dimen119
-\totwidth@=\dimen120
-\lineht@=\dimen121
+\eqnshift@=\dimen123
+\alignsep@=\dimen124
+\tagshift@=\dimen125
+\tagwidth@=\dimen126
+\totwidth@=\dimen127
+\lineht@=\dimen128
 \@envbody=\toks20
 \multlinegap=\skip44
 \multlinetaggap=\skip45
@@ -158,18 +179,18 @@ LaTeX Info: Redefining \] on input line 2666.
 (./plasma-report.aux)
 \openout1 = `plasma-report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -207,16 +228,16 @@ LaTeX Font Info:    ... okay on input line 21.
 
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count103
-\scratchdimen=\dimen122
+\scratchcounter=\count106
+\scratchdimen=\dimen129
 \scratchbox=\box28
-\nofMPsegments=\count104
-\nofMParguments=\count105
+\nofMPsegments=\count107
+\nofMParguments=\count108
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count106
-\MPscratchDim=\dimen123
-\MPnumerator=\count107
-\makeMPintoPDFobject=\count108
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen130
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
 \everyMPtoPDFconversion=\toks23
 ) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
@@ -262,22 +283,141 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for U+msa on input line 22.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 24.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 22.
+LaTeX Font Info:    Try loading font information for U+msb on input line 24.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<Figures/OHSpatialwithSim.jpg, id=1, 587.5551pt x 506.3718pt>
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 30.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
+ [1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+
+<Figures/PlasmaSetup.JPG, id=20, 3276.24pt x 2457.18pt>
+File: Figures/PlasmaSetup.JPG Graphic file (type jpg)
+
+<use Figures/PlasmaSetup.JPG>
+Package pdftex.def Info: Figures/PlasmaSetup.JPG used on input line 111.
+(pdftex.def)             Requested size: 430.00462pt x 322.48158pt.
+ [4 <./Figures/PlasmaSetup.JPG>]
+<Figures/OutputDial.png, id=24, 661.9932pt x 496.7358pt>
+File: Figures/OutputDial.png Graphic file (type png)
+
+<use Figures/OutputDial.png>
+Package pdftex.def Info: Figures/OutputDial.png used on input line 130.
+(pdftex.def)             Requested size: 171.99922pt x 129.0573pt.
+Package epstopdf Info: Source file: <Figures/SolaylPower.eps>
+(epstopdf)                    date: 2016-03-08 15:32:19
+(epstopdf)                    size: 17756 bytes
+(epstopdf)             Output file: <Figures/SolaylPower-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-03-15 14:37:46
+(epstopdf)                    size: 6460 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figures/SolaylPower-eps-co
+nverted-to.pdf Figures/SolaylPower.eps>
+(epstopdf)             \includegraphics on input line 137.
+Package epstopdf Info: Output file is already uptodate.
+
+<Figures/SolaylPower-eps-converted-to.pdf, id=26, 803.0pt x 417.56pt>
+File: Figures/SolaylPower-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Figures/SolaylPower-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/SolaylPower-eps-converted-to.pdf used on input
+ line 137.
+(pdftex.def)             Requested size: 430.00462pt x 223.60582pt.
+Package epstopdf Info: Source file: <Figures/BubblerPower.eps>
+(epstopdf)                    date: 2016-03-08 15:40:59
+(epstopdf)                    size: 15627 bytes
+(epstopdf)             Output file: <Figures/BubblerPower-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2016-03-15 14:37:46
+(epstopdf)                    size: 7023 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figures/BubblerPower-eps-c
+onverted-to.pdf Figures/BubblerPower.eps>
+(epstopdf)             \includegraphics on input line 149.
+Package epstopdf Info: Output file is already uptodate.
+
+<Figures/BubblerPower-eps-converted-to.pdf, id=27, 803.0pt x 417.56pt>
+File: Figures/BubblerPower-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Figures/BubblerPower-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/BubblerPower-eps-converted-to.pdf used on inpu
+t line 149.
+(pdftex.def)             Requested size: 430.00462pt x 223.60582pt.
+ [5 <./Figures/OutputDial.png>]
+[6 <./Figures/SolaylPower-eps-converted-to.pdf>] [7 <./Figures/BubblerPower-eps
+-converted-to.pdf>] <Figures/Ipl.pdf, id=49, 656.4525pt x 259.97125pt>
+File: Figures/Ipl.pdf Graphic file (type pdf)
+
+<use Figures/Ipl.pdf>
+Package pdftex.def Info: Figures/Ipl.pdf used on input line 178.
+(pdftex.def)             Requested size: 85.9996pt x 34.05528pt.
+ <Figures/Ip.pdf, id=50, 656.4525pt x 258.9675pt>
+File: Figures/Ip.pdf Graphic file (type pdf)
+
+<use Figures/Ip.pdf>
+Package pdftex.def Info: Figures/Ip.pdf used on input line 184.
+(pdftex.def)             Requested size: 85.9996pt x 33.9238pt.
+ <Figures/Il.pdf, id=51, 656.4525pt x 255.95625pt>
+File: Figures/Il.pdf Graphic file (type pdf)
+
+<use Figures/Il.pdf>
+Package pdftex.def Info: Figures/Il.pdf used on input line 190.
+(pdftex.def)             Requested size: 85.9996pt x 33.52933pt.
+ <Figures/Ibg.pdf, id=52, 656.4525pt x 258.9675pt>
+File: Figures/Ibg.pdf Graphic file (type pdf)
+
+<use Figures/Ibg.pdf>
+Package pdftex.def Info: Figures/Ibg.pdf used on input line 196.
+(pdftex.def)             Requested size: 85.9996pt x 33.9238pt.
+ [8 <./Figures/Ipl.pdf> <./Figures/Ip.pdf> <./Figures/Il.pdf> <./Figures/Ibg.pd
+f>]
+<Figures/SpectrumFitting.png, id=765, 670.6656pt x 225.9642pt>
+File: Figures/SpectrumFitting.png Graphic file (type png)
+
+<use Figures/SpectrumFitting.png>
+Package pdftex.def Info: Figures/SpectrumFitting.png used on input line 227.
+(pdftex.def)             Requested size: 430.00462pt x 144.87863pt.
+ [9 <./Figures/SpectrumFitting.png>]
+Package epstopdf Info: Source file: <Figures/WaterContent.eps>
+(epstopdf)                    date: 2016-03-08 14:13:32
+(epstopdf)                    size: 15705 bytes
+(epstopdf)             Output file: <Figures/WaterContent-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2016-03-15 15:02:07
+(epstopdf)                    size: 6917 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figures/WaterContent-eps-c
+onverted-to.pdf Figures/WaterContent.eps>
+(epstopdf)             \includegraphics on input line 254.
+Package epstopdf Info: Output file is already uptodate.
+
+<Figures/WaterContent-eps-converted-to.pdf, id=770, 803.0pt x 380.42125pt>
+File: Figures/WaterContent-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Figures/WaterContent-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/WaterContent-eps-converted-to.pdf used on inpu
+t line 254.
+(pdftex.def)             Requested size: 430.00462pt x 203.7178pt.
+
+<Figures/OHSpatialwithSim.jpg, id=771, 587.5551pt x 506.3718pt>
 File: Figures/OHSpatialwithSim.jpg Graphic file (type jpg)
 
 <use Figures/OHSpatialwithSim.jpg>
-Package pdftex.def Info: Figures/OHSpatialwithSim.jpg used on input line 32.
+Package pdftex.def Info: Figures/OHSpatialwithSim.jpg used on input line 268.
 (pdftex.def)             Requested size: 430.00462pt x 370.5987pt.
+ [10 <./Figures/WaterContent-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/OHdecay.eps>
 (epstopdf)                    date: 2016-03-14 10:27:00
 (epstopdf)                    size: 85336 bytes
@@ -286,27 +426,16 @@ Package epstopdf Info: Source file: <Figures/OHdecay.eps>
 (epstopdf)                    size: 10053 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/OHdecay-eps-conver
 ted-to.pdf Figures/OHdecay.eps>
-(epstopdf)             \includegraphics on input line 39.
+(epstopdf)             \includegraphics on input line 275.
 Package epstopdf Info: Output file is already uptodate.
-
-<Figures/OHdecay-eps-converted-to.pdf, id=2, 803.0pt x 372.39125pt>
+ <Figures/OHdecay-eps-converted-to.pdf, id=782, 803.0pt x 372.39125pt>
 File: Figures/OHdecay-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figures/OHdecay-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/OHdecay-eps-converted-to.pdf used on input lin
-e 39.
+e 275.
 (pdftex.def)             Requested size: 430.00462pt x 199.4177pt.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 50.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 50.
- [1
-
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2 <./F
-igures/OHSpatialwithSim.jpg>]
+ [11] [12 <./Figures/OHSpatialwithSim.jpg>]
 Package epstopdf Info: Source file: <Figures/SpatialDissociation2.eps>
 (epstopdf)                    date: 2016-03-15 11:21:32
 (epstopdf)                    size: 18700 bytes
@@ -316,17 +445,17 @@ Package epstopdf Info: Source file: <Figures/SpatialDissociation2.eps>
 (epstopdf)                    size: 7169 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/SpatialDissociatio
 n2-eps-converted-to.pdf Figures/SpatialDissociation2.eps>
-(epstopdf)             \includegraphics on input line 73.
+(epstopdf)             \includegraphics on input line 309.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/SpatialDissociation2-eps-converted-to.pdf, id=16, 803.0pt x 381.425pt>
+<Figures/SpatialDissociation2-eps-converted-to.pdf, id=789, 803.0pt x 381.425pt
+>
 File: Figures/SpatialDissociation2-eps-converted-to.pdf Graphic file (type pdf)
 
-<use Figures/SpatialDissociation2-eps-converted-to.pdf>
+ <use Figures/SpatialDissociation2-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/SpatialDissociation2-eps-converted-to.pdf used
- on input line 73.
+ on input line 309.
 (pdftex.def)             Requested size: 430.00462pt x 204.25533pt.
- [3 <./Figures/OHdecay-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/PowerVariation.eps>
 (epstopdf)                    date: 2016-03-08 16:48:55
 (epstopdf)                    size: 79702 bytes
@@ -336,18 +465,19 @@ f>
 (epstopdf)                    size: 8045 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/PowerVariation-eps
 -converted-to.pdf Figures/PowerVariation.eps>
-(epstopdf)             \includegraphics on input line 90.
+(epstopdf)             \includegraphics on input line 326.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/PowerVariation-eps-converted-to.pdf, id=30, 803.0pt x 427.5975pt>
+<Figures/PowerVariation-eps-converted-to.pdf, id=790, 803.0pt x 427.5975pt>
 File: Figures/PowerVariation-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figures/PowerVariation-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/PowerVariation-eps-converted-to.pdf used on in
-put line 90.
+put line 326.
 (pdftex.def)             Requested size: 430.00462pt x 228.98097pt.
- [4 <./Figures/SpatialDissociation2-eps-converted-to.pdf>] [5 <./Figures/PowerV
-ariation-eps-converted-to.pdf>]
+ [13 <./Figures/OHdecay-eps-converted-to.pdf>] [14 <./Figures/SpatialDissociati
+on2-eps-converted-to.pdf>]
+[15 <./Figures/PowerVariation-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/PowerDissociation.eps>
 (epstopdf)                    date: 2016-03-08 14:27:01
 (epstopdf)                    size: 15847 bytes
@@ -357,17 +487,16 @@ Package epstopdf Info: Source file: <Figures/PowerDissociation.eps>
 (epstopdf)                    size: 7136 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/PowerDissociation-
 eps-converted-to.pdf Figures/PowerDissociation.eps>
-(epstopdf)             \includegraphics on input line 114.
+(epstopdf)             \includegraphics on input line 350.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/PowerDissociation-eps-converted-to.pdf, id=52, 803.0pt x 380.42125pt>
+<Figures/PowerDissociation-eps-converted-to.pdf, id=824, 803.0pt x 380.42125pt>
 File: Figures/PowerDissociation-eps-converted-to.pdf Graphic file (type pdf)
-
 <use Figures/PowerDissociation-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/PowerDissociation-eps-converted-to.pdf used on
- input line 114.
+ input line 350.
 (pdftex.def)             Requested size: 430.00462pt x 203.7178pt.
- [6 <./Figures/PowerDissociation-eps-converted-to.pdf>]
+ [16 <./Figures/PowerDissociation-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/BubblerVariation.eps>
 (epstopdf)                    date: 2016-03-15 12:13:26
 (epstopdf)                    size: 78427 bytes
@@ -377,17 +506,16 @@ pdf>
 (epstopdf)                    size: 8107 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/BubblerVariation-e
 ps-converted-to.pdf Figures/BubblerVariation.eps>
-(epstopdf)             \includegraphics on input line 129.
+(epstopdf)             \includegraphics on input line 365.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/BubblerVariation-eps-converted-to.pdf, id=61, 803.0pt x 391.4625pt>
+<Figures/BubblerVariation-eps-converted-to.pdf, id=833, 803.0pt x 391.4625pt>
 File: Figures/BubblerVariation-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figures/BubblerVariation-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/BubblerVariation-eps-converted-to.pdf used on 
-input line 129.
+input line 365.
 (pdftex.def)             Requested size: 430.00462pt x 209.63046pt.
- [7 <./Figures/BubblerVariation-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/BubblerDissociation.eps>
 (epstopdf)                    date: 2016-03-08 14:49:06
 (epstopdf)                    size: 15596 bytes
@@ -397,37 +525,44 @@ to.pdf>
 (epstopdf)                    size: 7698 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/BubblerDissociatio
 n-eps-converted-to.pdf Figures/BubblerDissociation.eps>
-(epstopdf)             \includegraphics on input line 145.
+(epstopdf)             \includegraphics on input line 381.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/BubblerDissociation-eps-converted-to.pdf, id=75, 803.0pt x 398.48875pt
->
+<Figures/BubblerDissociation-eps-converted-to.pdf, id=834, 803.0pt x 398.48875p
+t>
 File: Figures/BubblerDissociation-eps-converted-to.pdf Graphic file (type pdf)
  <use Figures/BubblerDissociation-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/BubblerDissociation-eps-converted-to.pdf used 
-on input line 145.
+on input line 381.
 (pdftex.def)             Requested size: 430.00462pt x 213.39307pt.
- [8 <./Figures/BubblerDissociation-eps-converted-to.pdf>] [9] (./plasma-report.
-aux) ) 
+ [17 <./Figures/BubblerVariation-eps-converted-to.pdf>] [18 <./Figures/BubblerD
+issociation-eps-converted-to.pdf>] (./plasma-report.aux) ) 
 Here is how much of TeX's memory you used:
- 2933 strings out of 493089
- 40799 string characters out of 6134843
- 106125 words of memory out of 5000000
- 6357 multiletter control sequences out of 15000+600000
- 11352 words of font info for 43 fonts, out of 8000000 for 9000
+ 4107 strings out of 493089
+ 62349 string characters out of 6134843
+ 127830 words of memory out of 5000000
+ 7511 multiletter control sequences out of 15000+600000
+ 13051 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,6n,26p,783b,227s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10
-.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.
-pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pf
-b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></
-usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr
-/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on plasma-report.pdf (9 pages, 816285 bytes).
+ 38i,7n,38p,783b,464s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2
+015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/20
+15/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/201
+5/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2015/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2015/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2015/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2015/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2015/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmsy8.pfb>
+Output written on plasma-report.pdf (18 pages, 4947720 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
+ 898 PDF objects out of 1000 (max. 8388607)
+ 534 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
