@@ -1,3 +1,41 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{Graves2012}
+David~B Graves.
+\newblock The emerging role of reactive oxygen and nitrogen species in redox
+  biology and some implications for plasma applications to medicine and
+  biology.
+\newblock {\em Journal of Physics D: Applied Physics}, 45(26):263001, 2012.
+
+\bibitem{Attri2015}
+Pankaj Attri, Yong~Hee Kim, Dae~Hoon Park, Ji~Hoon Park, Young~J Hong, Han~Sup
+  Uhm, Kyoung-Nam Kim, Alexander Fridman, and Eun~Ha Choi.
+\newblock Generation mechanism of hydroxyl radical species and its lifetime
+  prediction during the plasma-initiated ultraviolet (uv) photolysis.
+\newblock {\em Scientific reports}, 5, 2015.
+
+\bibitem{Graves2014}
+David~B. Graves.
+\newblock Low temperature plasma biomedicine: A tutorial reviewa).
+\newblock {\em Physics of Plasmas}, 21(8), 2014.
+
+\bibitem{Cho2004}
+Min Cho, Hyenmi Chung, Wonyong Choi, and Jeyong Yoon.
+\newblock Linear correlation between inactivation of e. coli and \{OH\} radical
+  concentration in tio2 photocatalytic disinfection.
+\newblock {\em Water Research}, 38(4):1069 -- 1077, 2004.
+
+\bibitem{Cho2003}
+Min Cho, Hyenmi Chung, and Jeyong Yoon.
+\newblock Disinfection of water containing natural organic matter by using
+  ozone-initiated radical reactions.
+\newblock {\em Applied and Environmental Microbiology}, 69(4):2284--2291, 2003.
+
+\bibitem{Zweier1988}
+J~L Zweier, P~Kuppusamy, and G~A Lutty.
+\newblock Measurement of endothelial cell free radical generation: evidence for
+  a central mechanism of free radical injury in postischemic tissues.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  85(11):4046--4050, 1988.
 
 \end{thebibliography}
