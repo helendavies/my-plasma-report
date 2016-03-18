@@ -333,6 +333,81 @@ The relationship between the flow of helium through the bubbler and the concentr
 
 \section{Results}
 
+\subsection{Increasing the power to the plasma increases hydroxyl radical density}
+
+Following investigation of the spatial resolution of hydroxyl radicals, the effects of power variation were then investigated.
+It was of interest to see how varying the power would affect the density of hydroxyl radicals and the percentage dissociation of water to hydroxyl.
+The 20mm position was chosen to investigate as at this point, as the spatial resolution data shown in figure \ref{fig:SpatialRes} show that $\cdot$OH densities seem to level off slightly. 
+The full range of powers for the plasma were tested from 6.5W (minimum power for sustaining the plasma) to 10.9 W (maximum power before arcing occurs) and results of this are shown in figure \ref{fig:PowerVariation}.
+
+The results show that the density of $\cdot$OH increase non-linearly with increasing power being supplied to the plasma, with a density range of approximately 3.25 - 4.5 x 10\textsuperscript{20} m\textsuperscript{-3}.
+The experiment was repeated four times, meaning that a mean and standard deviation could be calculated from the data and is shown in the figure. 
+This also gives an indication of the expected error in the experiment which is approximately $\pm$ 0.5 x 10\textsuperscript{20} m\textsuperscript{-3}.
+
+\begin{figure}
+    \centering
+    \includegraphics[width=\textwidth]{Figures/PowerVariationBig.eps}
+    \caption{Power increases $\cdot$OH density in the plasma region in a non-linear manner. Absorption spectroscopy was performed at a point 20mm from the gas inlet while power being dissipated in the plasma was varied within the range of 6.5 - 10.9W, as shown on the x axis (CHANGE POWERS ON GRAPH). Total gas flow to the plasma was kept constant at 5slm helium with 5400ppm water. The experiment was repeated four times. The graph shows the average density (shown on the y axis in m\textsuperscript{-3}) for each power and the error bars represent one standard deviation.}
+    \label{fig:PowerVariation}
+\end{figure}
+
+
+\subsection{Increasing the water content of the plasma gas feed increases hydroxyl radical density}
+
+To investigate whether increasing the water being fed to the plasma increases the hydroxyl radical density, the ratio of dry and humid helium entering the plasma channel was altered by changing the proportion of the total 5 slm helium that passed through the bubbler. The range of water concentrations entering the plasma was approximately 2700 - 13400 ppm. The results are shown in figure \ref{fig:BubblerVariation}.
+
+The powers had to be carefully chosen due to the effects of adding in additional molecules into the plasma which can act as energy sinks when they absorb energy to change rotational and vibrational states. 
+Therefore, higher water contents require higher powers to ignite as the system becomes less efficient when more molecules are added.
+Two different powers were used to investigate the effects of altering the water content. Firstly, 8.7W was used as this was sufficient to sustain the plasma at high water contents, without causing arcing at low contents. Secondly, the power was increased to 10.9W to see how the density increased at the higher power. 
+
+The results shown in figure \ref{fig:BubblerVariation} suggest that $\cdot$OH density increases when the water content of the feed gas increases. This is not unreasonable as in section \ref{subsec:SpatialRes}, it was discussed that the main reaction that resulted in $\cdot$OH production is electron impact with water, therefore the more water present, the greater the $\cdot$OH production.
+The graph shows a similar, non-linear trend to both the high and low power data sets, whereby the density increases with increasing water content.
+%However, particularly at the lower power, it appears that the densities increase fairly quickly between approximately 2500 - 7000 ppm of water, before starting to level off.
+%This would suggest that maybe lower water contents would be interesting to investigate?
+
+\begin{figure}
+    \centering
+    \includegraphics[width=\textwidth]{Figures/BubblerVariationBig}
+    \caption{Increasing the water content of the plasma feed gas increases $\cdot$OH density in the plasma. Absorption spectroscopy of the plasma was performed at 20mm from the gas inlet to determine $\cdot$OH density (shown on the y axis). A total gas flow of 5 slm was maintained throughout, with differing water contents, ranging from 2700 - 13400 ppm (shown on the x axis). The powers used were 8.7W (red dots) and 10.9W (blue dots)}
+    \label{fig:BubblerVariation}
+\end{figure}
+
+
+\subsubsection{Dissociation}
+
+The degree of dissociation of water to hydroxyl radicals was then investigated by comparing the concentration of water entering the plasma (in this case 5400ppm), with the concentration of $\cdot$OH in the plasma.
+The percentage dissociation was then calculated as follows:
+
+\begin{equation} \label{eqn:PercentDiss}
+	\frac{concentration \cdot OH}{concentration  H_2O} \times 100
+\end{equation}
+
+
+
+Once again, the percentage dissociation of water to $\cdot$OH was calculated using \ref{eqn:PercentDiss} and the results are shown in \ref{fig:BubblerDissociation}.
+Interestingly, with increasing water content, the percentage dissociation decreases in the plasma, despite the density of $\cdot$OH increasing.
+This is seen for both the low and high power, though the percentages are higher for the higher power, as expected.
+
+The decrease in percentage dissociation could be explained by the fact that increasing the water content of the plasma, increases the number of molecules present which, in turn, decreases the efficiency of the system.
+The increase in water content means that more of the energy in the plasma system can be absorbed by the molecules in rotationally and vibrationally excited states.
+This results in less energy available for electron processes such as dissociation, electronic excitation and ionisation (see section \ref{section:LowTempPlasmas}).
+
+
+
+
+\begin{figure}
+    \centering
+    \includegraphics[width=\textwidth]{Figures/BubblerDissociationBig.eps}
+    \caption{The percentage dissociation of water to hydroxyl radicals decreases as the water content increases. Absorption spectroscopy was carried out at a point 20mm from the gas inlet. The plasma was operated with a total of 5slm helium with water contents of 2700 - 13400 ppm. The experiment was repeated at two different powers of 8.7W (red crosses) and 10.9W (blue circles). (CHANGE GRAPH TO PPM WATER)}
+    \label{fig:BubblerDissociation}
+\end{figure}
+
+\begin{itemize}
+    \item Percentage dissociation decreases with increasing water content, despite the density of hydroxyl radicals increasing (see figure \ref{fig:BubblerVariation}). However, the water content increases more than the density, therefore the ratio of hydroxyl radical to water still decreases.
+    \item The dissociation is higher for the higher power than the lower power, as would be expected. 
+    \item Dissociation may also decrease due to the increase in energy absorption by molecules. The increase in water content means that more of the energy in the plasma system can be absorbed by the molecules in rotationally and vibrationally excited states. Could add oxygen into the feed gas. In theory, oxygen addition could increase hydroxyl radical density as, when water dissociates, there is a spare hydrogen which could combine with oxygen to form hydroxyl. However, this may have the opposite effect because, once again, a molecule is being added which could contribute further to the absorption of energy from the system. The oxygen would also require energy to be atomised before it could form $\cdot$OH with the spare hydrogen from water.
+\end{itemize}
+
 \subsection{Spatial Resolution of Hydroxyl Radicals} \label{subsec:SpatialRes}
 
 \begin{figure}
@@ -380,107 +455,6 @@ Another difference between the model and the experimental setup for this decay r
 
 Lifetime??
 
-
-\subsubsection{The percentage dissociation is very small}
-
-The degree of dissociation of water to hydroxyl radicals was then investigated by comparing the concentration of water entering the plasma (in this case 5400ppm), with the concentration of $\cdot$OH in the plasma.
-The percentage dissociation was then calculated as follows:
-
-\begin{equation} \label{eqn:PercentDiss}
-	\frac{concentration \cdot OH}{concentration  H_2O} \times 100
-\end{equation}
-
-By calculating this for each point along the channel, it showed that the percentage dissociation of water to $\cdot$OH was very small (\textless 0.35\%), see figure \ref{fig:SpatialDissociation}.
-However, while these numbers seemingly show that only a small amount of the water is dissociating, it may also be that $\cdot$OH are recombining with other things very rapidly and are therefore being lost.
-
-\begin{figure}
-	\centering
-	\includegraphics[width=\textwidth]{Figures/SpatialDissociation2.eps}
-	\caption{The figure shows the percentage dissociation of water to hydroxyl radicals, calculated as ppm hydroxyl radicals divided by ppm water in, all multiplied by 100. Since the ppm of water stays the same at all positions, the graph shows the same trend as the equivalent density graph.}
-	\label{fig:SpatialDissociation}
-\end{figure}
-
-
-\subsection{Increasing the power to the plasma increases hydroxyl radical density}
-
-Following investigation of the spatial resolution of hydroxyl radicals, the effects of power variation were then investigated.
-It was of interest to see how varying the power would affect the density of hydroxyl radicals and the percentage dissociation of water to hydroxyl.
-The 20mm position was chosen to investigate as at this point, as the spatial resolution data shown in figure \ref{fig:SpatialRes} show that $\cdot$OH densities seem to level off slightly. 
-The full range of powers for the plasma were tested from 6.5W (minimum power for sustaining the plasma) to 10.9 W (maximum power before arcing occurs) and results of this are shown in figure \ref{fig:PowerVariation}.
-
-The results show that the density of $\cdot$OH increase non-linearly with increasing power being supplied to the plasma, with a density range of approximately 3.25 - 4.5 x 10\textsuperscript{20} m\textsuperscript{-3}.
-The experiment was repeated four times, meaning that a mean and standard deviation could be calculated from the data and is shown in the figure. 
-This also gives an indication of the expected error in the experiment which is approximately $\pm$ 0.5 x 10\textsuperscript{20} m\textsuperscript{-3}.
-
-\begin{figure}
-    \centering
-    \includegraphics[width=\textwidth]{Figures/PowerVariation.eps}
-    \caption{Power increases $\cdot$OH density in the plasma region in a non-linear manner. Absorption spectroscopy was performed at a point 20mm from the gas inlet while power being dissipated in the plasma was varied within the range of 6.5 - 10.9W, as shown on the x axis (CHANGE POWERS ON GRAPH). Total gas flow to the plasma was kept constant at 5slm helium with 5400ppm water. The experiment was repeated four times. The graph shows the average density (shown on the y axis in m\textsuperscript{-3}) for each power and the error bars represent one standard deviation.}
-    \label{fig:PowerVariation}
-\end{figure}
-
-\subsubsection{Dissociation}
-
-As in section \ref{subsec:SpatialRes}, the percentage dissociation of water to $\cdot$OH was calculated using equation \ref{eqn:PercentDiss}, and the percentage dissociation at the corresponding powers are shown in figure \ref{fig:PowerDissociation}.
-Once again, the percentages seem extremely small at 0.24 - 0.34\% which, as mentioned previously, could be due to a genuine low level of dissociation, or it may be that the $\cdot$OH molecules are recombining too rapidly to be seen.
-%Would it be possible to measure water content in the feed gas and the undissociated water in the plasma to see how much is actually left undissociated?
-There is a trend of increasing dissociation with increasing power, however, unfortunately the power cannot be increased any further in this setup due to arcing occurring at powers higher than 10.9W.
-Instead of this, it would be of interest to increase the frequency driving the electrodes and see what effect this has on the $\cdot$OH density.
-Like increasing the power, increasing the frequency should increase the energy in the system which should, in turn increase the dissociation of water and increase the density of $\cdot$OH.
-
-\begin{figure}
-    \centering
-    \includegraphics[width=\textwidth]{Figures/PowerDissociation.eps}
-    \caption{The percentage dissociation of water to $\cdot$OH increases with increasing power. Absorption spectroscopy was performed at a point 20mm from the gas inlet. The plasma was operated with a total gas flow of 5slm helium plus 5400ppm water. The power range was 6.5 - 10.9W, as shown on the x axis and the corresponding percentage dissociation (calculated using equation \ref{eqn:PercentDiss} and the average $\cdot$OH densities shown in figure \ref{fig:PowerVariation}) is shown on the y axis. (CHANGE POWERS ON GRAPH)}
-    \label{fig:PowerDissociation}
-\end{figure}
-
-\subsection{Increasing the water content of the plasma gas feed increases hydroxyl radical density}
-
-To investigate whether increasing the water being fed to the plasma increases the hydroxyl radical density, the ratio of dry and humid helium entering the plasma channel was altered by changing the proportion of the total 5 slm helium that passed through the bubbler. The range of water concentrations entering the plasma was approximately 2700 - 13400 ppm. The results are shown in figure \ref{fig:BubblerVariation}.
-
-The powers had to be carefully chosen due to the effects of adding in additional molecules into the plasma which can act as energy sinks when they absorb energy to change rotational and vibrational states. 
-Therefore, higher water contents require higher powers to ignite as the system becomes less efficient when more molecules are added.
-Two different powers were used to investigate the effects of altering the water content. Firstly, 8.7W was used as this was sufficient to sustain the plasma at high water contents, without causing arcing at low contents. Secondly, the power was increased to 10.9W to see how the density increased at the higher power. 
-
-The results shown in figure \ref{fig:BubblerVariation} suggest that $\cdot$OH density increases when the water content of the feed gas increases. This is not unreasonable as in section \ref{subsec:SpatialRes}, it was discussed that the main reaction that resulted in $\cdot$OH production is electron impact with water, therefore the more water present, the greater the $\cdot$OH production.
-The graph shows a similar, non-linear trend to both the high and low power data sets, whereby the density increases with increasing water content.
-%However, particularly at the lower power, it appears that the densities increase fairly quickly between approximately 2500 - 7000 ppm of water, before starting to level off.
-%This would suggest that maybe lower water contents would be interesting to investigate?
-
-\begin{figure}
-    \centering
-    \includegraphics[width=\textwidth]{Figures/BubblerVariation}
-    \caption{Increasing the water content of the plasma feed gas increases $\cdot$OH density in the plasma. Absorption spectroscopy of the plasma was performed at 20mm from the gas inlet to determine $\cdot$OH density (shown on the y axis). A total gas flow of 5 slm was maintained throughout, with differing water contents, ranging from 2700 - 13400 ppm (shown on the x axis). The powers used were 8.7W (red, filled dots) and 10.9W (blue, open dots)}
-    \label{fig:BubblerVariation}
-\end{figure}
-
-
-\subsubsection{Dissociation}
-
-Once again, the percentage dissociation of water to $\cdot$OH was calculated using \ref{eqn:PercentDiss} and the results are shown in \ref{fig:BubblerDissociation}.
-Interestingly, with increasing water content, the percentage dissociation decreases in the plasma, despite the density of $\cdot$OH increasing.
-This is seen for both the low and high power, though the percentages are higher for the higher power, as expected.
-
-The decrease in percentage dissociation could be explained by the fact that increasing the water content of the plasma, increases the number of molecules present which, in turn, decreases the efficiency of the system.
-The increase in water content means that more of the energy in the plasma system can be absorbed by the molecules in rotationally and vibrationally excited states.
-This results in less energy available for electron processes such as dissociation, electronic excitation and ionisation (see section \ref{section:LowTempPlasmas}).
-
-
-
-
-\begin{figure}
-    \centering
-    \includegraphics[width=\textwidth]{Figures/BubblerDissociation.eps}
-    \caption{The percentage dissociation of water to hydroxyl radicals decreases as the water content increases. Absorption spectroscopy was carried out at a point 20mm from the gas inlet. The plasma was operated with a total of 5slm helium with water contents of 2700 - 13400 ppm. The experiment was repeated at two different powers of 8.7W (red crosses) and 10.9W (blue circles). (CHANGE GRAPH TO PPM WATER)}
-    \label{fig:BubblerDissociation}
-\end{figure}
-
-\begin{itemize}
-    \item Percentage dissociation decreases with increasing water content, despite the density of hydroxyl radicals increasing (see figure \ref{fig:BubblerVariation}). However, the water content increases more than the density, therefore the ratio of hydroxyl radical to water still decreases.
-    \item The dissociation is higher for the higher power than the lower power, as would be expected. 
-    \item Dissociation may also decrease due to the increase in energy absorption by molecules. The increase in water content means that more of the energy in the plasma system can be absorbed by the molecules in rotationally and vibrationally excited states. Could add oxygen into the feed gas. In theory, oxygen addition could increase hydroxyl radical density as, when water dissociates, there is a spare hydrogen which could combine with oxygen to form hydroxyl. However, this may have the opposite effect because, once again, a molecule is being added which could contribute further to the absorption of energy from the system. The oxygen would also require energy to be atomised before it could form $\cdot$OH with the spare hydrogen from water.
-\end{itemize}
 
 
 

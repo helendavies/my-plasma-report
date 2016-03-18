@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.7)  18 MAR 2016 13:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.7)  18 MAR 2016 15:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -404,12 +404,81 @@ File: Figures/WaterContent-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: Figures/WaterContent-eps-converted-to.pdf used on inpu
 t line 320.
 (pdftex.def)             Requested size: 430.00462pt x 203.7178pt.
+Package epstopdf Info: Source file: <Figures/PowerVariationBig.eps>
+(epstopdf)                    date: 2016-03-18 14:19:16
+(epstopdf)                    size: 78272 bytes
+(epstopdf)             Output file: <Figures/PowerVariationBig-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2016-03-18 14:19:25
+(epstopdf)                    size: 8729 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figures/PowerVariationBig-
+eps-converted-to.pdf Figures/PowerVariationBig.eps>
+(epstopdf)             \includegraphics on input line 353.
+Package epstopdf Info: Output file is already uptodate.
 
-<Figures/OHSpatialwithSim.jpg, id=771, 587.5551pt x 506.3718pt>
+<Figures/PowerVariationBig-eps-converted-to.pdf, id=771, 803.0pt x 353.32pt>
+File: Figures/PowerVariationBig-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Figures/PowerVariationBig-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/PowerVariationBig-eps-converted-to.pdf used on
+ input line 353.
+(pdftex.def)             Requested size: 430.00462pt x 189.20494pt.
+ [12] [13 <./Figures/WaterContent-eps-converted-to.pdf>] [14 <./Figures/PowerVa
+riationBig-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Figures/BubblerVariationBig.eps>
+(epstopdf)                    date: 2016-03-18 14:49:47
+(epstopdf)                    size: 84105 bytes
+(epstopdf)             Output file: <Figures/BubblerVariationBig-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2016-03-18 14:49:51
+(epstopdf)                    size: 9481 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figures/BubblerVariationBi
+g-eps-converted-to.pdf Figures/BubblerVariationBig.eps>
+(epstopdf)             \includegraphics on input line 374.
+Package epstopdf Info: Output file is already uptodate.
+
+<Figures/BubblerVariationBig-eps-converted-to.pdf, id=798, 803.0pt x 440.64626p
+t>
+File: Figures/BubblerVariationBig-eps-converted-to.pdf Graphic file (type pdf)
+ <use Figures/BubblerVariationBig-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/BubblerVariationBig-eps-converted-to.pdf used 
+on input line 374.
+(pdftex.def)             Requested size: 430.00462pt x 235.96866pt.
+ [15 <./Figures/BubblerVariationBig-eps-converted-to.pdf>]
+
+LaTeX Warning: Reference `section:LowTempPlasmas' on page 16 undefined on input
+ line 397.
+
+Package epstopdf Info: Source file: <Figures/BubblerDissociationBig.eps>
+(epstopdf)                    date: 2016-03-18 15:01:31
+(epstopdf)                    size: 19414 bytes
+(epstopdf)             Output file: <Figures/BubblerDissociationBig-eps-convert
+ed-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=Figures/BubblerDissociatio
+nBig-eps-converted-to.pdf Figures/BubblerDissociationBig.eps>
+(epstopdf)             \includegraphics on input line 404.
+runsystem(repstopdf --outfile=Figures/BubblerDissociationBig-eps-converted-to.p
+df Figures/BubblerDissociationBig.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <Figures/BubblerDissociationBig-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2016-03-18 15:01:46
+(epstopdf)                    size: 8803 bytes.
+
+<Figures/BubblerDissociationBig-eps-converted-to.pdf, id=811, 803.0pt x 420.571
+24pt>
+File: Figures/BubblerDissociationBig-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use Figures/BubblerDissociationBig-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/BubblerDissociationBig-eps-converted-to.pdf us
+ed on input line 404.
+(pdftex.def)             Requested size: 430.00462pt x 225.21837pt.
+ [16 <./Figures/BubblerDissociationBig-eps-converted-to.pdf>]
+<Figures/OHSpatialwithSim.jpg, id=820, 587.5551pt x 506.3718pt>
 File: Figures/OHSpatialwithSim.jpg Graphic file (type jpg)
 
 <use Figures/OHSpatialwithSim.jpg>
-Package pdftex.def Info: Figures/OHSpatialwithSim.jpg used on input line 344.
+Package pdftex.def Info: Figures/OHSpatialwithSim.jpg used on input line 419.
 (pdftex.def)             Requested size: 430.00462pt x 370.5987pt.
 Package epstopdf Info: Source file: <Figures/OHdecay.eps>
 (epstopdf)                    date: 2016-03-14 10:27:00
@@ -419,142 +488,28 @@ Package epstopdf Info: Source file: <Figures/OHdecay.eps>
 (epstopdf)                    size: 10053 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/OHdecay-eps-conver
 ted-to.pdf Figures/OHdecay.eps>
-(epstopdf)             \includegraphics on input line 351.
+(epstopdf)             \includegraphics on input line 426.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/OHdecay-eps-converted-to.pdf, id=772, 803.0pt x 372.39125pt>
+<Figures/OHdecay-eps-converted-to.pdf, id=821, 803.0pt x 372.39125pt>
 File: Figures/OHdecay-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figures/OHdecay-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/OHdecay-eps-converted-to.pdf used on input lin
-e 351.
+e 426.
 (pdftex.def)             Requested size: 430.00462pt x 199.4177pt.
- [12] [13 <./Figures/WaterContent-eps-converted-to.pdf>] [14 <./Figures/OHSpati
-alwithSim.jpg>] [15 <./Figures/OHdecay-eps-converted-to.pdf>]
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 397.
-
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omlcmr.fd
-File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 397.
-Package epstopdf Info: Source file: <Figures/SpatialDissociation2.eps>
-(epstopdf)                    date: 2016-03-15 11:21:32
-(epstopdf)                    size: 18700 bytes
-(epstopdf)             Output file: <Figures/SpatialDissociation2-eps-converted
--to.pdf>
-(epstopdf)                    date: 2016-03-15 11:22:37
-(epstopdf)                    size: 7169 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/SpatialDissociatio
-n2-eps-converted-to.pdf Figures/SpatialDissociation2.eps>
-(epstopdf)             \includegraphics on input line 402.
-Package epstopdf Info: Output file is already uptodate.
-
-<Figures/SpatialDissociation2-eps-converted-to.pdf, id=802, 803.0pt x 381.425pt
->
-File: Figures/SpatialDissociation2-eps-converted-to.pdf Graphic file (type pdf)
-
- <use Figures/SpatialDissociation2-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/SpatialDissociation2-eps-converted-to.pdf used
- on input line 402.
-(pdftex.def)             Requested size: 430.00462pt x 204.25533pt.
- [16]
-Package epstopdf Info: Source file: <Figures/PowerVariation.eps>
-(epstopdf)                    date: 2016-03-08 16:48:55
-(epstopdf)                    size: 79702 bytes
-(epstopdf)             Output file: <Figures/PowerVariation-eps-converted-to.pd
-f>
-(epstopdf)                    date: 2016-03-14 16:34:07
-(epstopdf)                    size: 8045 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/PowerVariation-eps
--converted-to.pdf Figures/PowerVariation.eps>
-(epstopdf)             \includegraphics on input line 421.
-Package epstopdf Info: Output file is already uptodate.
-
-<Figures/PowerVariation-eps-converted-to.pdf, id=806, 803.0pt x 427.5975pt>
-File: Figures/PowerVariation-eps-converted-to.pdf Graphic file (type pdf)
-
-<use Figures/PowerVariation-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/PowerVariation-eps-converted-to.pdf used on in
-put line 421.
-(pdftex.def)             Requested size: 430.00462pt x 228.98097pt.
- [17 <./Figures/SpatialDissociation2-eps-converted-to.pdf>] [18 <./Figures/Powe
-rVariation-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <Figures/PowerDissociation.eps>
-(epstopdf)                    date: 2016-03-08 14:27:01
-(epstopdf)                    size: 15847 bytes
-(epstopdf)             Output file: <Figures/PowerDissociation-eps-converted-to
-.pdf>
-(epstopdf)                    date: 2016-03-15 11:46:47
-(epstopdf)                    size: 7136 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/PowerDissociation-
-eps-converted-to.pdf Figures/PowerDissociation.eps>
-(epstopdf)             \includegraphics on input line 437.
-Package epstopdf Info: Output file is already uptodate.
-
-<Figures/PowerDissociation-eps-converted-to.pdf, id=827, 803.0pt x 380.42125pt>
-File: Figures/PowerDissociation-eps-converted-to.pdf Graphic file (type pdf)
-<use Figures/PowerDissociation-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/PowerDissociation-eps-converted-to.pdf used on
- input line 437.
-(pdftex.def)             Requested size: 430.00462pt x 203.7178pt.
- [19 <./Figures/PowerDissociation-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <Figures/BubblerVariation.eps>
-(epstopdf)                    date: 2016-03-15 12:13:26
-(epstopdf)                    size: 78427 bytes
-(epstopdf)             Output file: <Figures/BubblerVariation-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2016-03-15 12:13:36
-(epstopdf)                    size: 8107 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/BubblerVariation-e
-ps-converted-to.pdf Figures/BubblerVariation.eps>
-(epstopdf)             \includegraphics on input line 457.
-Package epstopdf Info: Output file is already uptodate.
-
-<Figures/BubblerVariation-eps-converted-to.pdf, id=837, 803.0pt x 391.4625pt>
-File: Figures/BubblerVariation-eps-converted-to.pdf Graphic file (type pdf)
-
-<use Figures/BubblerVariation-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/BubblerVariation-eps-converted-to.pdf used on 
-input line 457.
-(pdftex.def)             Requested size: 430.00462pt x 209.63046pt.
-
-
-LaTeX Warning: Reference `section:LowTempPlasmas' on page 20 undefined on input
- line 471.
-
-Package epstopdf Info: Source file: <Figures/BubblerDissociation.eps>
-(epstopdf)                    date: 2016-03-08 14:49:06
-(epstopdf)                    size: 15596 bytes
-(epstopdf)             Output file: <Figures/BubblerDissociation-eps-converted-
-to.pdf>
-(epstopdf)                    date: 2016-03-15 12:26:01
-(epstopdf)                    size: 7698 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/BubblerDissociatio
-n-eps-converted-to.pdf Figures/BubblerDissociation.eps>
-(epstopdf)             \includegraphics on input line 478.
-Package epstopdf Info: Output file is already uptodate.
-
-<Figures/BubblerDissociation-eps-converted-to.pdf, id=838, 803.0pt x 398.48875p
-t>
-File: Figures/BubblerDissociation-eps-converted-to.pdf Graphic file (type pdf)
- <use Figures/BubblerDissociation-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/BubblerDissociation-eps-converted-to.pdf used 
-on input line 478.
-(pdftex.def)             Requested size: 430.00462pt x 213.39307pt.
- [20] [21 <./Figures/BubblerVariation-eps-converted-to.pdf>] [22 <./Figures/Bub
-blerDissociation-eps-converted-to.pdf>] (./plasma-report.bbl [23] [24]) [25] (.
-/plasma-report.aux)
+ [17] [18 <./Figures/OHSpatialwithSim.jpg>] [19 <./Figures/OHdecay-eps-converte
+d-to.pdf>] [20] (./plasma-report.bbl
+[21]) [22] (./plasma-report.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4147 strings out of 493089
- 62846 string characters out of 6134843
- 128910 words of memory out of 5000000
- 7545 multiletter control sequences out of 15000+600000
+ 4119 strings out of 493089
+ 62093 string characters out of 6134843
+ 128890 words of memory out of 5000000
+ 7522 multiletter control sequences out of 15000+600000
  13397 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,7n,38p,1143b,464s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -572,10 +527,10 @@ ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive
 /2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
 2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/20
 15/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on plasma-report.pdf (25 pages, 4987071 bytes).
+Output written on plasma-report.pdf (22 pages, 4976948 bytes).
 PDF statistics:
- 919 PDF objects out of 1000 (max. 8388607)
- 549 compressed objects within 6 object streams
+ 897 PDF objects out of 1000 (max. 8388607)
+ 534 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
