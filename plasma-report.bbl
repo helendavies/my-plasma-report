@@ -46,18 +46,34 @@ David~B Graves.
   biology.
 \newblock {\em Journal of Physics D: Applied Physics}, 45(26):263001, 2012.
 
-\bibitem{Niemi2013}
-K.~Niemi, D.~O\&apos;Connell, N.~de~Oliveira, D.~Joyeux, L.~Nahon, J.~P. Booth,
-  and T.~Gans.
-\newblock Absolute atomic oxygen and nitrogen densities in radio-frequency
-  driven atmospheric pressure cold plasmas: Synchrotron vacuum ultra-violet
-  high-resolution fourier-transform absorption measurements.
-\newblock {\em Applied Physics Letters}, 103(3), 2013.
+\bibitem{BrehmerHD2015}
+F~Brehmer, HA~Haenssle, G~Daeschlein, R~Ahmed, S~Pfeiffer, A~G{\"o}rlitz,
+  D~Simon, MP~Sch{\"o}n, D~Wandke, and S~Emmert.
+\newblock Alleviation of chronic venous leg ulcers with a hand-held dielectric
+  barrier discharge plasma generator (plasmaderm{\textregistered} vu-2010):
+  results of a monocentric, two-armed, open, prospective, randomized and
+  controlled trial (nct01415622).
+\newblock {\em Journal of the European Academy of Dermatology and Venereology},
+  29(1):148--155, 2015.
 
 \bibitem{Halliwell2007}
 B~Halliwell and J.M.C Gutteridge.
 \newblock {\em Free Radicals in Biology and Medicine}.
 \newblock Oxford University Press, 4th edition, 2007.
+
+\bibitem{Zweier1988}
+J~L Zweier, P~Kuppusamy, and G~A Lutty.
+\newblock Measurement of endothelial cell free radical generation: evidence for
+  a central mechanism of free radical injury in postischemic tissues.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  85(11):4046--4050, 1988.
+
+\bibitem{Attri2015}
+Pankaj Attri, Yong~Hee Kim, Dae~Hoon Park, Ji~Hoon Park, Young~J Hong, Han~Sup
+  Uhm, Kyoung-Nam Kim, Alexander Fridman, and Eun~Ha Choi.
+\newblock Generation mechanism of hydroxyl radical species and its lifetime
+  prediction during the plasma-initiated ultraviolet (uv) photolysis.
+\newblock {\em Scientific reports}, 5, 2015.
 
 \bibitem{Cho2004}
 Min Cho, Hyenmi Chung, Wonyong Choi, and Jeyong Yoon.
@@ -71,12 +87,13 @@ Min Cho, Hyenmi Chung, and Jeyong Yoon.
   ozone-initiated radical reactions.
 \newblock {\em Applied and Environmental Microbiology}, 69(4):2284--2291, 2003.
 
-\bibitem{Zweier1988}
-J~L Zweier, P~Kuppusamy, and G~A Lutty.
-\newblock Measurement of endothelial cell free radical generation: evidence for
-  a central mechanism of free radical injury in postischemic tissues.
-\newblock {\em Proceedings of the National Academy of Sciences},
-  85(11):4046--4050, 1988.
+\bibitem{Niemi2013}
+K.~Niemi, D.~O\&apos;Connell, N.~de~Oliveira, D.~Joyeux, L.~Nahon, J.~P. Booth,
+  and T.~Gans.
+\newblock Absolute atomic oxygen and nitrogen densities in radio-frequency
+  driven atmospheric pressure cold plasmas: Synchrotron vacuum ultra-violet
+  high-resolution fourier-transform absorption measurements.
+\newblock {\em Applied Physics Letters}, 103(3), 2013.
 
 \bibitem{Hatano2010}
 Y.~Hatano, Y.~Katsumura, and A.~Mozumder.
