@@ -148,12 +148,14 @@ Further to this, the concentrations seen in these experiments may then be compar
 \section{Materials and Methods}
 
 \subsection{Plasma Source}
-The plasma source (described previously \cite{Niemi2013}) used consists of two plane-parallel electrodes which are 30mm long and 11mm wide. 
+The plasma source used (described previously \cite{Niemi2013}) consists of two plane-parallel electrodes which are 30 mm long and 11 mm wide. 
 The gap between the electrodes is 1 mm and the gaps at either side are covered by ultraviolet (UV) transparent windows, thereby forming a channel for plasma formation with dimensions of 1 x 11 x 30 mm.
 One electrode is driven by a 13.56 MHz radio frequency (RF) generator via an impedence matching box, whilst the other electrode is grounded. 
 The helium feed gas used in the plasma can consist of a mixture of dry and humid helium. Humidification of the gas can be achieved by diverting some of the helium through a bubbler (a closed water-containing chamber) in order to pick up water vapour before rejoining the original flow and carrying on to the plasma source.
 The dry and humid helium flows were controlled by two separate mass flow controllers.
 The gas inlet to the source is at the bottom of the plasma channel and the gas travels through the 30 mm long channel to the gas outlet and is removed by an extractor.
+
+ADD PICTURE OF SOURCE
 
 
 
@@ -173,16 +175,23 @@ To counteract this, the actual power delivered to the plasma can be accurately m
 Using these probes, the power supplied to the plasma can be accurately assessed using the equation:
 
 \begin{equation}
-P = I \times V \times cos\theta
+P = I \times V \times cos(\theta)
 \end{equation}
 
 where $P$ is power, $I$ is current, $V$ is voltage and $\theta$ is the phase difference between the voltage and current (calculated by connecting the setup to a capacitor with a known phase difference, to which the voltage and current measurements can be compared).
 Measurements are taken firstly with the plasma on, then with the plasma off to calculate power lost in the equipment, then finally with the capacitor connected.
 The actual power is then determined by using the equation above then subtracting the background losses (obtained during the plasma off measurements), from the measurements with the plasma on.
+The challenge with this method of power measurements is measuring the phase difference as it requires an extremely fast oscilloscope with sufficient resolution. ?? Numbers??
+
+To accurately get power need to accurately get phase difference. This is hard cos oscilloscope only samples at whatever rate and phase difference between voltage and current is very small. Also, with the jets, the phase difference is near to -90 degrees which would mean that cos theta is nearly 0 therefore needs to be accurate as small changes in phase give big changes in power.
+
+Instead of fitting to the sampled points, do a fast fourier transform which translates the V and I waveforms from time to frequency and also tells you phase difference using capacitor.
+
+Therefore, to get accurate measurements, need to have a fast oscilloscope and/or lots of cycles recorded in order to do the FFT to get the most accurate power measurements.
 
 Using this, the actual power delivered to the plasma was calibrated to the output stated on the output dial (see figure \ref{fig:OutputDial}) of the RF generator. 
 This was done by changing the output from 50 - 200 in steps of 10 on the RF generator output dial.
-For this, the plasma was operated with a gas flow of 5 slm helium containing 5400ppm water.
+For this, the plasma was operated with a gas flow of 5 slm helium containing 5400 ppm water.
 This calibration is shown in figure \ref{fig:SolaylPower}.
 The relationship between the output and actual power showed a linear relationship and by fitting a line to the measured data, the actual power delivered to the plasma for each output value can be predicted using the line with equation y = 0.1127x - 0.0437 fitted to the data.
 All powers stated in this report are real powers calculated from this calibration.
@@ -190,21 +199,21 @@ All powers stated in this report are real powers calculated from this calibratio
 \begin{figure}
     \centering
     \includegraphics[width=0.4\textwidth]{Figures/OutputDial.png}
-    \caption{Picture showing the Output dial on the RF generator used for calibrating output from the RF generator to the actual power supplying the plasma}
+    \caption{Picture showing the output dial on the RF generator used for calibrating output from the RF generator to the actual power supplying the plasma}
     \label{fig:OutputDial}
 \end{figure}
 
 \begin{figure}
     \centering
-    \includegraphics[width=\textwidth]{Figures/ActualPower.eps}
-    \caption{There is a linear relationship between the output on the RF generator and the actual power supplied to the plasma. The x axis shows the value for the output on the RF generator (see figure \ref{fig:OutputDial} in arbitrary units and the y axis shows the corresponding power supplied to the plasma, corrected for losses in equiment. The line of best fit shown has the equation y = 0.1127x - 0.0437.)}
+    \includegraphics[width=\textwidth]{Figures/ActualPowerBig.eps}
+    \caption{Plasma power as a function of RF generator power determined for a helium and 0.54\% water admixture. The line of best fit has the equation y = 0.1127x - 0.0437. The x axis shows the output from the RF generator (see figure \ref{fig:OutputDial}.and the y axis shows the corresponding power supplied to the plasma (plasma power) corrected for losses in equipment.}
     \label{fig:SolaylPower}
 \end{figure}
 
 Following this calibration, it was necessary to check that the power delivered to the plasma was unaffected by changing the water content of the feed gas by altering the proportion of the 5 slm helium which is passed through the bubbler.
 This was checked at two different powers. 
 For each power, the RF generator output was kept constant and the volume of helium passing through the bubbler was varied.
-The results suggest that the water content has very little, if any effect on the power supplied to the plasma (data not shown).
+The results show that the water content has very little, if any effect on the power supplied to the plasma (data not shown).
 
 %\begin{figure}
    % \centering
@@ -214,18 +223,22 @@ The results suggest that the water content has very little, if any effect on the
 %\end{figure}
 
 \subsection{UV Absorption Spectroscopy}
-To investigate the density of hydroxyl radicals present in the plasma, an ultraviolet (UV) light emitting diode (LED) with central wavelength of 309 nm (a wavelength specifically absorbed by free hydroxyl radicals \cite{Hatano2010}) was used for absorption spectroscopy.
-The principle of this method is to measure the intensity of light before and after passing through the plasma, in order to see how much has been absorbed within the plasma by the species of interest.
+
+To investigate the density of hydroxyl radicals present in the plasma, absorption spectroscopy was used. An ultraviolet (UV) light emitting diode (LED) with central wavelength of 309 nm was used as this wavelength is specifically absorbed by free hydroxyl radicals \cite{Hatano2010}.
+The principle of this method is to measure the intensity of light before and after passing through the plasma, in order to see how much has been absorbed within the plasma by the species of interest \cite{ReuterSSH2015}.
 In this case, the species of interest is the hydroxyl radical, therefore, the more hydroxyl radicals present in the plasma, the greater the absorbance of LED.
-The UV beam passes through the plasma and a series of optics, then signal is detected by an imaging spectrograph with a (CCD) camera.
 
-The transmittance of light beam and it's relationship to the absorbance is shown as follows:
+The absorbance is determined using the Beer-Lambert law, and is therefore dependent on the absorption path length (the distance the light has to travel through the plasma), the absorption cross section of the species (the effective area of the species capable of absorbing light) and the density of the species.
 
+The transmittance of light beam and it's relationship to the absorbance, according to the Beer-Lambert law, is shown as follows:
 
 \begin{equation} \label{eqn:Transmittance}
-    T = \frac{I_T}{I_0} = e^{-A}
+    T= \frac{I_T}{I_0} = e^{A(\lambda)} = e^{\sigma(\lambda) \cdot L \cdot n}
 \end{equation}
-Where $T$ is transmittance, $I_T$ and $I_0$ are the intensities of the transmitted and incident light, respectively and $A$ is the absorbance of light by the plasma.
+Where $T$ is transmittance, $I_T$ and $I_0$ are the intensities of the transmitted and incident light, respectively, $A$ is the absorbance of light by the plasma which is related to the absorbance cross section ($\sigma(\lambda)$), absorption path length ($L$) and the density of the absorbing species ($N$).
+
+The UV beam passes through the plasma and a series of optics, then signal is detected by an imaging spectrograph with a (CCD) camera. THIS NEEDS A BIG DIAGRAM. ???Include the 2 beams??? 
+
 
 In order to measure $I_T$ and $I_0$ for the plasma setup, it is necessary to measure four different parameters as follows:
 \begin{itemize}
@@ -236,36 +249,36 @@ In order to measure $I_T$ and $I_0$ for the plasma setup, it is necessary to mea
 \end{itemize}
 
 \begin{figure}
-	\begin{subfigure}{0.2\textwidth}
+	\begin{subfigure}{0.45\textwidth}
   	  	\includegraphics[width=\textwidth]{Figures/Ipl.pdf}
    	 	\caption{$I_{PL}$}
     		\label{subfig:Ipl}
 	\end{subfigure}
 	\hfill
-	\begin{subfigure}{0.2\textwidth}
+	\begin{subfigure}{0.45\textwidth}
     		\includegraphics[width=\textwidth]{Figures/Ip.pdf}
     		\caption{$I_{P}$}
     		\label{subfig:Ip}
 	\end{subfigure}
 	\hfill
-	\begin{subfigure}{0.2\textwidth}
+	\begin{subfigure}{0.45\textwidth}
 		\includegraphics[width=\textwidth]{Figures/Il.pdf}
     		\caption{$I_{L}$}
 		\label{subfig:Il}
 	\end{subfigure}
 	\hfill
-    	\begin{subfigure}{0.2\textwidth}
+    	\begin{subfigure}{0.45\textwidth}
     		\includegraphics[width=\textwidth]{Figures/Ibg.pdf}
     		\caption{$I_{BG}$}
     		\label{subfig:Ibg}
 	\end{subfigure}
-	\caption{Rectangle represents plasma channel. Splodges are important bits of plasma. Green line is LED.}
+	\caption{Diagram showing the different measurements taken to determine absorbance using equation \ref{eqn:Absorbance}, showing the LED (green beam), plasma channel (black rectangle), plasma emission (pink lines), spectrometer, shutters and camera. The pink dashed box denotes the plasma region containing electrons, ions and neutrals (coloured circles).}
 \end{figure}
 
 Using these measurements, the equation defining the relationship between transmittance and absorbance becomes:
 
 \begin{equation} \label{eqn:4ParamTransmittance}
-    T = \frac{I_T}{I_0} = \frac{I_{PL} - I_P}{I_L - I_{BG}} = e^{-A}
+    T = \frac{I_T}{I_0} = \frac{I_{PL} - I_P}{I_L - I_{BG}} = e^{-A} = e^{\sigma(\lambda) \cdot L \cdot n}
 \end{equation}
 
 All four parameters are measured in series, under the control of a function generator.
@@ -282,7 +295,7 @@ Matlab is then used to average all 20 repeats for each parameter then calculate 
 
 Once the absorbances for each wavelength have been calculated, a simulated spectrum can then be fitted to the data to provide a spectrum of absorbance for hydroxyl radicals (see figure \ref{fig:SpectrumFitting}). 
 The spectrum shows absorption due to ground state hydroxyl radicals becoming rotationally and/or vibrationally excited.
-In fitting this spectrum, the programme calculates the density of hydroxyl radicals present in the plasma.
+In fitting this spectrum, the programme calculates the density of hydroxyl radicals present in the plasma using the absorption cross section of $\cdot$OH and the absorption path length of the plasma, as per equation \ref{eqn:Transmittance}.
 
 \begin{figure}
     \centering
@@ -347,7 +360,7 @@ This also gives an indication of the expected error in the experiment which is a
 \begin{figure}
     \centering
     \includegraphics[width=\textwidth]{Figures/PowerVariationBig.eps}
-    \caption{Power increases $\cdot$OH density in the plasma region in a non-linear manner. Absorption spectroscopy was performed at a point 20mm from the gas inlet while power being dissipated in the plasma was varied within the range of 6.5 - 10.9W, as shown on the x axis (CHANGE POWERS ON GRAPH). Total gas flow to the plasma was kept constant at 5slm helium with 5400ppm water. The experiment was repeated four times. The graph shows the average density (shown on the y axis in m\textsuperscript{-3}) for each power and the error bars represent one standard deviation.}
+    \caption{Power increases $\cdot$OH density in the plasma region in a non-linear manner. Absorption spectroscopy was performed at a point 20mm from the gas inlet while power being dissipated in the plasma was varied within the range of 6.5 - 10.9 W, as shown on the x axis. Total gas flow to the plasma was kept constant at 5 slm helium with 5400 ppm water. The experiment was repeated four times. The graph shows the average density (shown on the y axis in m\textsuperscript{-3}) for each power and the error bars represent one standard deviation.}
     \label{fig:PowerVariation}
 \end{figure}
 
@@ -368,29 +381,29 @@ The graph shows a similar, non-linear trend to both the high and low power data 
 \begin{figure}
     \centering
     \includegraphics[width=\textwidth]{Figures/BubblerVariationBig}
-    \caption{Increasing the water content of the plasma feed gas increases $\cdot$OH density in the plasma. Absorption spectroscopy of the plasma was performed at 20mm from the gas inlet to determine $\cdot$OH density (shown on the y axis). A total gas flow of 5 slm was maintained throughout, with differing water contents, ranging from 2700 - 13400 ppm (shown on the x axis). The powers used were 8.7W (red dots) and 10.9W (blue dots)}
+    \caption{Increasing the water content of the plasma feed gas increases $\cdot$OH density in the plasma. Absorption spectroscopy of the plasma was performed at 20mm from the gas inlet to determine $\cdot$OH density (shown on the y axis). A total gas flow of 5 slm was maintained throughout, with differing water contents, ranging from 2700 - 13400 ppm (shown on the x axis). The powers used were 8.7W (blue dots) and 10.9W (red dots)}
     \label{fig:BubblerVariation}
 \end{figure}
 
 
-\subsubsection{Dissociation}
+\subsubsection{Percentage Dissociation}
 
-The degree of dissociation of water to hydroxyl radicals was then investigated by comparing the concentration of water entering the plasma (in this case 5400ppm), with the concentration of $\cdot$OH in the plasma.
-The percentage dissociation was then calculated as follows:
+The degree of dissociation of water to hydroxyl radicals was then investigated by comparing the concentration of water entering the plasma, with the concentration of $\cdot$OH in the plasma.
+The percentage dissociation is calculated as follows:
 
 \begin{equation} \label{eqn:PercentDiss}
 	\frac{concentration \cdot OH}{concentration  H_2O} \times 100
 \end{equation}
 
-
-
-Once again, the percentage dissociation of water to $\cdot$OH was calculated using \ref{eqn:PercentDiss} and the results are shown in \ref{fig:BubblerDissociation}.
-Interestingly, with increasing water content, the percentage dissociation decreases in the plasma, despite the density of $\cdot$OH increasing.
-This is seen for both the low and high power, though the percentages are higher for the higher power, as expected.
-
-The decrease in percentage dissociation could be explained by the fact that increasing the water content of the plasma, increases the number of molecules present which, in turn, decreases the efficiency of the system.
+The results of this calculation for each of the water contents measured are shown in figure \ref{fig:BubblerDissociation}.
+Firstly, the results show that the percentage dissociation of water to $\cdot$OH is very small (\textless 0.4\%). This may be due to the very highly reactive nature of $\cdot$OH which means that it is destroyed very shortly after being made therefore is, very quickly, undetectable.
+Secondly, the graph shows that the percentage dissociation decreases as the water content increases, for both the low and high power.
+This is more surprising due to the fact that the opposite is seen when considering $\cdot$OH density (see figure \ref{fig:BubblerVariation}).
+However, The decrease in percentage dissociation could be explained by the fact that increasing the water content of the plasma, increases the number of molecules present which, in turn, decreases the efficiency of the system.
 The increase in water content means that more of the energy in the plasma system can be absorbed by the molecules in rotationally and vibrationally excited states.
-This results in less energy available for electron processes such as dissociation, electronic excitation and ionisation (see section \ref{section:LowTempPlasmas}).
+This results in less energy available for electron processes such as dissociation, electronic excitation and ionisation (see section \ref{section:LowTempPlasmas}), seen here by a decreased dissociation of water.
+%Adding in oxygen
+
 
 
 
@@ -398,43 +411,38 @@ This results in less energy available for electron processes such as dissociatio
 \begin{figure}
     \centering
     \includegraphics[width=\textwidth]{Figures/BubblerDissociationBig.eps}
-    \caption{The percentage dissociation of water to hydroxyl radicals decreases as the water content increases. Absorption spectroscopy was carried out at a point 20mm from the gas inlet. The plasma was operated with a total of 5slm helium with water contents of 2700 - 13400 ppm. The experiment was repeated at two different powers of 8.7W (red crosses) and 10.9W (blue circles). (CHANGE GRAPH TO PPM WATER)}
+    \caption{The percentage dissociation of water to hydroxyl radicals decreases as the water content increases. Absorption spectroscopy was carried out at a point 20mm from the gas inlet. The plasma was operated with a total of 5slm helium with water contents of 2700 - 13400 ppm. The experiment was repeated at two different powers of 8.7 W (blue dots) and 10.9 W (red dots).}
     \label{fig:BubblerDissociation}
 \end{figure}
 
-\begin{itemize}
-    \item Percentage dissociation decreases with increasing water content, despite the density of hydroxyl radicals increasing (see figure \ref{fig:BubblerVariation}). However, the water content increases more than the density, therefore the ratio of hydroxyl radical to water still decreases.
-    \item The dissociation is higher for the higher power than the lower power, as would be expected. 
-    \item Dissociation may also decrease due to the increase in energy absorption by molecules. The increase in water content means that more of the energy in the plasma system can be absorbed by the molecules in rotationally and vibrationally excited states. Could add oxygen into the feed gas. In theory, oxygen addition could increase hydroxyl radical density as, when water dissociates, there is a spare hydrogen which could combine with oxygen to form hydroxyl. However, this may have the opposite effect because, once again, a molecule is being added which could contribute further to the absorption of energy from the system. The oxygen would also require energy to be atomised before it could form $\cdot$OH with the spare hydrogen from water.
-\end{itemize}
 
 \subsection{Spatial Resolution of Hydroxyl Radicals} \label{subsec:SpatialRes}
 
 \begin{figure}
     \centering
-    \includegraphics[width=\textwidth]{Figures/OHSpatialwithSim.jpg}
-    \caption{Figure showing the effects of distance from gas inlet on the density of $\cdot$OH in plasma. Absorption spectroscopy was performed at 0.5 - 1mm intervals along the 30mm length of the electrodes (0-30mm), plus at 0.5mm intervals beyond the end of the plasma region (30.5-33.5mm). The position along the plasma channel in mm is shown on the x axis, and the corresponding $\cdot$OH density is shown in m\textsuperscript{-3} on the y axis. The plasma was operated at 10.9W with a feed gas flow rate of 5slm with 5400ppm water.}
+    \includegraphics[width=\textwidth]{Figures/OHSpatialwithSimReal}
+    \caption{Figure showing $\cdot$OH density as a function of distance along the plasma channel from the gas inlet. Absorption spectroscopy was performed at 0.5 - 1 mm intervals along the 30 mm length of the electrodes (0-30 mm), plus at 0.5 mm intervals beyond the end of the plasma region (30.5-33.5 mm). The position along the plasma channel in mm is shown on the x axis, and the corresponding $\cdot$OH density is shown in m\textsuperscript{-3} on the y axis. The plasma was operated at 10.9 W with a feed gas flow rate of 5 slm with 5400 ppm water.}
     \label{fig:SpatialRes}
 \end{figure}
 
 \begin{figure}
 	\centering
 	\includegraphics[width=\textwidth]{Figures/OHdecay.eps}
-	\caption{Figure showing the rapid decay of $\cdot$OH beyond the ends of the plasma channel. The position in the plasma source is shown on the x axis in mm, and the corresponding $\cdot$OH density is shown in m\textsuperscript{-3} on the y axis. The 30mm point is the end of the electrodes and 33.5mm is the last point where the measurement could be taken before the LED was blocked by the casing of the plasma source. The plasma was operated at 10.9W with a feed gas flow rate of 5slm with 5400ppm water.}
+	\caption{Figure showing the rapid decay of $\cdot$OH beyond the ends of the plasma channel. The position in the plasma source is shown on the x axis in mm, and the corresponding $\cdot$OH density is shown in m\textsuperscript{-3} on the y axis. The 30 mm point is the end of the electrodes and 33.5 mm is the last point where the measurement could be taken before the LED was blocked by the casing of the plasma source. The plasma was operated at 10.9 W with a feed gas flow rate of 5slm with 5400 ppm water.}
 	\label{fig:OH decay}
 \end{figure}
 
-The aim of this experiment was to show how the distance from the gas inlet, and therefore, the position along the 30mm electrode, affects the density of hydroxyl radicals. Figure \ref{fig:SpatialRes}.
-Further to this, it was also possible to assess the densities of $\cdot$OH up to 3.5mm beyond the end of the electrodes, in order to assess the rate of decay of $\cdot$OH beyond the end of the plasma channel.
+The aim of this experiment was to show how the distance from the gas inlet, and therefore, the position along the 30 mm electrode, affects the density of hydroxyl radicals. Figure \ref{fig:SpatialRes}.
+Further to this, it was also possible to assess the densities of $\cdot$OH up to 3.5 mm beyond the end of the electrodes, in order to assess the rate of decay of $\cdot$OH beyond the end of the plasma channel.
 This is relevant when considering treatments using plasma jets where the biological sample is likely to be a short distance away from the end of the jet therefore, the species present at this point need to be assessed.
 It also is able to provide information on the decay rate of hydroxyl radicals at the end of the electrodes.
 
 To carry out the experiment, the highest power that can be supplied to the setup before causing arcing was used, 10.9W.
-In addition to the measurements taken during the experiment, the data was also simulated using a model developed by Sandra Schr\"{o}ter (REFERENCE???).
-This is a global model of the plasma which contains over 300 reactions for the production of $\cdot$OH along with their rate constants (probabilities that they will happen). It also takes into account the plasma conditions such as plasma volume, feed gas flow rate and power. 
+In addition to the measurements taken during the experiment, the data was also simulated using a model developed and run by Sandra Schr\"{o}ter \footnote{Sandra wrote, developed and ran the model, I provided the parameters}.
+This is a global model of the plasma which contains over 300 reactions for the production of $\cdot$OH along with their rate constants (probabilities that they will happen). It also takes into account the plasma conditions such as plasma volume, feed gas flow rate and power. In addition, a pathway analysis can be completed to indicate the dominant processes for the production and destruction of individual species.
 
 The data acquired by both experiments (red triangles) and simulation (black dots) are shown in figure \ref{fig:SpatialRes}.
-The graph shows that there is a sharp increase from 0-2.5mm, followed by a smaller increase and decrease to give a little hump seen in both the experimental and simulated data. Following this there is an increase in density over the rest of the channel.
+The graph shows that there is a sharp increase from 0-2.5 mm, followed by a smaller increase and decrease to give a little hump seen in both the experimental and simulated data. Following this there is an increase in density over the rest of the channel.
 Whilst the simulation and experimental data seem to fit nicely, it would be interesting to do further repeats of the experiment in order to check the match between simulation and experiment, and to get an idea of the error that can be expected in the experiment.
 Overall there is the trend of a sharp increase at the start of the plasma channel, followed by a small increase and decrease, the a general increase in density to the end of the channel. 
 However, the change in density is very small (less than 1 x 10\textsuperscript{20} m\textsuperscript{-3}), therefore it seems that the position along the plasma channel does not have a massive effect on the $\cdot$OH density.
@@ -450,7 +458,7 @@ This would raise the question as to whether the model and experimental data actu
 This could be explained by an error in alignment during the experimental process, whereby what is seemingly the end of the plasma channel, in fact, isn't. 
 By elimating the first point from the analysis, it appears that the decay curve changes and looks less linear.
 In the future, it would be of use to be able to make sure the plasma source is definitely fully aligned somehow so that the limits of the electrodes are well known.
-Another difference between the model and the experimental setup for this decay region, is the fact that in the model, beyond the 30mm, there is no power at all. However, in the experimental setup, the casing of the source is acting as the grounded electrode and therefore continues further than the driven electrode. This could result in coupling between the driving and grounded electrode beyond the 30mm channel and influence $\cdot$OH.
+Another difference between the model and the experimental setup for this decay region, is the fact that in the model, beyond the 30 mm, there is no power at all. However, in the experimental setup, the casing of the source is acting as the grounded electrode and therefore continues further than the driven electrode. This could result in coupling between the driving and grounded electrode beyond the 30 mm channel and influence $\cdot$OH.
 
 
 Lifetime??
