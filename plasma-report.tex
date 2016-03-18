@@ -148,46 +148,53 @@ Further to this, the concentrations seen in these experiments may then be compar
 \section{Materials and Methods}
 
 \subsection{Plasma Source}
-The plasma source used (described previously \cite{Niemi2013}) consists of two plane-parallel electrodes which are 30 mm long and 11 mm wide. 
+The plasma source used (described previously \cite{Niemi2013} and shown in figure \ref{fig:PlasmaSource}) consists of two plane-parallel electrodes which are 30 mm long and 11 mm wide. 
 The gap between the electrodes is 1 mm and the gaps at either side are covered by ultraviolet (UV) transparent windows, thereby forming a channel for plasma formation with dimensions of 1 x 11 x 30 mm.
 One electrode is driven by a 13.56 MHz radio frequency (RF) generator via an impedence matching box, whilst the other electrode is grounded. 
 The helium feed gas used in the plasma can consist of a mixture of dry and humid helium. Humidification of the gas can be achieved by diverting some of the helium through a bubbler (a closed water-containing chamber) in order to pick up water vapour before rejoining the original flow and carrying on to the plasma source.
 The dry and humid helium flows were controlled by two separate mass flow controllers.
 The gas inlet to the source is at the bottom of the plasma channel and the gas travels through the 30 mm long channel to the gas outlet and is removed by an extractor.
 
-ADD PICTURE OF SOURCE
-
-
-
-
 \begin{figure}
-    \centering
-    \includegraphics[width=\textwidth]{Figures/PlasmaSetup.JPG}
-    \caption{Plasma Setup...This will be a proper diagram...}
-    \label{fig:my_label}
+	\includegraphics[width=\textwidth]{Figures/PlasmafromApiwat}
+	\caption{Diagram showing the RF plasma source from the side (left) and the top (right). Acknowledgements to Apiwat Wijaikhum for provision of the diagram.}
+	\label{fig:PlasmaSource}
 \end{figure}
+
+
+
+
+
+%\begin{figure}
+   % \centering
+   % \includegraphics[width=\textwidth]{Figures/PlasmaSetup.JPG}
+   % \caption{Plasma Setup...This will be a proper diagram...}
+   % \label{fig:my_label}
+%\end{figure}
 
 
 \subsection{Power Measurements}
 
 Whilst the RF generator gives an indication of the power being supplied to the plasma source, it is not very accurate and is unable to account for power losses in cables and other equipment.
-To counteract this, the actual power delivered to the plasma can be accurately measured using voltage and current probes connected between the matching box and the plasma source. 
+To counteract this, the actual power delivered to the plasma can be accurately measured using voltage and current probes connected between the matching box and the plasma source, all connected to an oscilloscope. 
 Using these probes, the power supplied to the plasma can be accurately assessed using the equation:
 
 \begin{equation}
 P = I \times V \times cos(\theta)
 \end{equation}
 
-where $P$ is power, $I$ is current, $V$ is voltage and $\theta$ is the phase difference between the voltage and current (calculated by connecting the setup to a capacitor with a known phase difference, to which the voltage and current measurements can be compared).
+where $P$ is power, $I$ is current, $V$ is voltage and $\theta$ is the phase difference between the voltage and current.
+The challenge with measuring the power supplied to the plasma using this method is accurately measuring the phase difference between the two waveforms as it is usually very small.
+It is therefore necessary to use an oscilloscope with a high enough resolution that it's sampling rate is sufficient to be able to tell the phase difference.
+A capacitor with a known phase difference of 90$^{\circ}$ is used to compare to the voltage and current waveforms to get an accurate measurement of their phase difference.
 Measurements are taken firstly with the plasma on, then with the plasma off to calculate power lost in the equipment, then finally with the capacitor connected.
 The actual power is then determined by using the equation above then subtracting the background losses (obtained during the plasma off measurements), from the measurements with the plasma on.
-The challenge with this method of power measurements is measuring the phase difference as it requires an extremely fast oscilloscope with sufficient resolution. ?? Numbers??
 
-To accurately get power need to accurately get phase difference. This is hard cos oscilloscope only samples at whatever rate and phase difference between voltage and current is very small. Also, with the jets, the phase difference is near to -90 degrees which would mean that cos theta is nearly 0 therefore needs to be accurate as small changes in phase give big changes in power.
+%To accurately get power need to accurately get phase difference. This is hard cos oscilloscope only samples at whatever rate and phase difference between voltage and current is very small. Also, with the jets, the phase difference is near to -90 degrees which would mean that cos theta is nearly 0 therefore needs to be accurate as small changes in phase give big changes in power.
 
-Instead of fitting to the sampled points, do a fast fourier transform which translates the V and I waveforms from time to frequency and also tells you phase difference using capacitor.
+%Instead of fitting to the sampled points, do a fast fourier transform which translates the V and I waveforms from time to frequency and also tells you phase difference using capacitor.
 
-Therefore, to get accurate measurements, need to have a fast oscilloscope and/or lots of cycles recorded in order to do the FFT to get the most accurate power measurements.
+%Therefore, to get accurate measurements, need to have a fast oscilloscope and/or lots of cycles recorded in order to do the FFT to get the most accurate power measurements.
 
 Using this, the actual power delivered to the plasma was calibrated to the output stated on the output dial (see figure \ref{fig:OutputDial}) of the RF generator. 
 This was done by changing the output from 50 - 200 in steps of 10 on the RF generator output dial.
@@ -206,14 +213,14 @@ All powers stated in this report are real powers calculated from this calibratio
 \begin{figure}
     \centering
     \includegraphics[width=\textwidth]{Figures/ActualPowerBig.eps}
-    \caption{Plasma power as a function of RF generator power determined for a helium and 0.54\% water admixture. The line of best fit has the equation y = 0.1127x - 0.0437. The x axis shows the output from the RF generator (see figure \ref{fig:OutputDial}.and the y axis shows the corresponding power supplied to the plasma (plasma power) corrected for losses in equipment.}
+    \caption{Plasma power as a function of RF generator power determined for a helium and 0.54\% water admixture. The line of best fit has the equation y = 0.1127x - 0.0437. The x axis shows the output from the RF generator (see figure \ref{fig:OutputDial}.and the y axis shows the corresponding power in W supplied to the plasma (plasma power) corrected for losses in equipment.}
     \label{fig:SolaylPower}
 \end{figure}
 
 Following this calibration, it was necessary to check that the power delivered to the plasma was unaffected by changing the water content of the feed gas by altering the proportion of the 5 slm helium which is passed through the bubbler.
 This was checked at two different powers. 
 For each power, the RF generator output was kept constant and the volume of helium passing through the bubbler was varied.
-The results show that the water content has very little, if any effect on the power supplied to the plasma (data not shown).
+The results show that varying the water content has very little, if any effect on the power supplied to the plasma (data not shown).
 
 %\begin{figure}
    % \centering
@@ -235,9 +242,20 @@ The transmittance of light beam and it's relationship to the absorbance, accordi
 \begin{equation} \label{eqn:Transmittance}
     T= \frac{I_T}{I_0} = e^{A(\lambda)} = e^{\sigma(\lambda) \cdot L \cdot n}
 \end{equation}
-Where $T$ is transmittance, $I_T$ and $I_0$ are the intensities of the transmitted and incident light, respectively, $A$ is the absorbance of light by the plasma which is related to the absorbance cross section ($\sigma(\lambda)$), absorption path length ($L$) and the density of the absorbing species ($N$).
+Where $T$ is transmittance, $I_T$ and $I_0$ are the intensities of the transmitted and incident light, respectively, $A$ is the absorbance of light by the plasma which is related to the absorbance cross section ($\sigma(\lambda)$), absorption path length ($L$) and the density of the absorbing species ($n$).
 
-The UV beam passes through the plasma and a series of optics, then signal is detected by an imaging spectrograph with a (CCD) camera. THIS NEEDS A BIG DIAGRAM. ???Include the 2 beams??? 
+The UV beam passes through the plasma and a series of optics, then signal is detected by an imaging spectrograph with a (CCD) camera as shown in figure \ref{fig:Setup}. 
+In this setup, there are two LED beams, termed the probe beam, which passes through the plasma source, and the reference beam, which bypasses the plasma.
+Both beams enter the spectrograph and are imaged on the CCD but at different vertical positions.
+The reference beam allows for a more accurate background measurement and therefore improves the signal-to-noise ratio.
+This particular absorption spectroscopy setup built in-house, allows for highly sensitive measurements due to it's two beam nature.
+This is particularly important for the spatially resolved densities presented below.
+
+\begin{figure}
+	\includegraphics[width=\textwidth]{Figures/SetupfromApiwat}
+	\caption{Diagram to show the absorption spectroscopy setup. The probe beam is shown by a solid green line, while the reference beam is shown by a dashed red line. Acknowledgements to Apiwat Wijaikhum for provision of the original diagram, adapted for this particular setup.}
+	\label{fig:Setup}
+\end{figure} 
 
 
 In order to measure $I_T$ and $I_0$ for the plasma setup, it is necessary to measure four different parameters as follows:
@@ -278,17 +296,17 @@ In order to measure $I_T$ and $I_0$ for the plasma setup, it is necessary to mea
 Using these measurements, the equation defining the relationship between transmittance and absorbance becomes:
 
 \begin{equation} \label{eqn:4ParamTransmittance}
-    T = \frac{I_T}{I_0} = \frac{I_{PL} - I_P}{I_L - I_{BG}} = e^{-A} = e^{\sigma(\lambda) \cdot L \cdot n}
+    T = \frac{I_T}{I_0} = \frac{I_{PL} - I_P}{I_L - I_{BG}} = e^{-A(\lambda)} = e^{\sigma(\lambda) \cdot L \cdot n}
 \end{equation}
 
 All four parameters are measured in series, under the control of a function generator.
-This function generator controls a shutter to block the LED and the RF generator to turn the plasma on and off. It also controls external triggering of the camera and a shutter at the entrance to the spectrometer to block all light to the CCD while the system changes from one parameter to the next. 
+This function generator controls a shutter to block the LED and the RF generator to turn the plasma on and off. It also controls external triggering of the camera and a shutter at the entrance to the spectrometer to block all light to the CCD while the system changes from one parameter to the next (see figure \ref{fig:Setup}). 
 
 Data is then acquired as a series of 80 measurements resulting in 20 repeats for each of the four parameters.
 Matlab is then used to average all 20 repeats for each parameter then calculate absorbance at each wavelength of the LED as follows:
 
 \begin{equation}\label{eqn:Absorbance}
-    A = -ln(\frac{I_{PL} - I_P}{I_L - I_{BG}})
+    A(\lambda) = -ln(\frac{I_{PL} - I_P}{I_L - I_{BG}})
 \end{equation}
 
 \subsection{Spectral fitting and radical density determination}
@@ -326,7 +344,7 @@ The relationship between the flow of helium through the bubbler and the concentr
 
 \begin{figure}
     \centering
-    \includegraphics[width=\textwidth]{Figures/WaterContent.eps}
+    \includegraphics[width=\textwidth]{Figures/WaterContentBig.eps}
     \caption{The water content of the helium passing through the bubbler increases linearly with the volume of helium passing through the bubbler. Water content calculated using equation from \cite{Alduchov1996} and procedure described in the text.}
     \label{fig:WaterContent}
 \end{figure}
