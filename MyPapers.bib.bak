@@ -22,6 +22,7 @@
   journal =   {Scientific reports},
   year =      {2015},
   volume =    {5},
+  file =      {:/Users/hld523/Google Drive/Rotation 1 Plasmaaaa/Papers/Attri2015 Generation mechanism of hydroxyl radical species and its lifetime prediction during the plasma-initiated ultraviolet (UV) photolysis.pdf:PDF},
   publisher = {Nature Publishing Group}
 }
 
@@ -35,6 +36,13 @@
   pages =     {42--47},
   file =      {:/Users/hld523/Google Drive/Rotation 1 Plasmaaaa/Papers/Babior2004 NADPH oxidase.pdf:PDF},
   publisher = {Elsevier}
+}
+
+@Book{Block2001,
+  title =     {Disinfection, sterilization, and preservation},
+  publisher = {Lippincott Williams \& Wilkins},
+  year =      {2001},
+  author =    {Block, Seymour Stanton}
 }
 
 @Article{BrehmerHD2015,
@@ -262,6 +270,17 @@
   url =     {http://scitation.aip.org/content/aip/journal/apl/103/3/10.1063/1.4813817}
 }
 
+@InProceedings{Ono1998,
+  author =       {Ono, Ryo and Oda, Tetsuji},
+  title =        {Measurement of hydroxyl radicals in an atmospheric pressure discharge plasma by using laser-induced fluorescence},
+  booktitle =    {Industry Applications Conference, 1998. Thirty-Third IAS Annual Meeting. The 1998 IEEE},
+  year =         {1998},
+  volume =       {3},
+  pages =        {1777--1783},
+  organization = {IEEE},
+  file =         {:/Users/hld523/Google Drive/Rotation 1 Plasmaaaa/Papers/Ono1998 Measurement of Hydroxyl Radicals in an Atmospheric Pressure Discharge Plasma by Using Laser-Induced Fluorescence .pdf:PDF}
+}
+
 @Article{PhamHuy2008,
   author =    {Pham-Huy, Lien Ai and He, Hua and Pham-Huy, Chuong},
   title =     {Free Radicals, Antioxidants in Disease and Health},
@@ -273,7 +292,7 @@
   publisher = {Master Publishing Group}
 }
 
-@Article{ReuterSSH2015,
+@Article{Reuter2015,
   author =   {Stephan Reuter and Joao Santos Sousa and Gabi Daniel Stancu and Jean-Pierre Hubertus van Helden},
   title =    {Review on VUV to MIR absorption spectroscopy of atmospheric pressure plasma jets},
   journal =  {Plasma Sources Science and Technology},
@@ -284,6 +303,13 @@
   abstract = {Absorption spectroscopy (AS) represents a reliable method for the characterization of cold atmospheric pressure plasma jets. The method’s simplicity stands out in comparison to competing diagnostic techniques. AS is an in situ , non-invasive technique giving absolute densities, free of calibration procedures, which other diagnostics, such as laser-induced fluorescence or optical emission spectroscopy, have to rely on. Ground state densities can be determined without the knowledge of the influence of collisional quenching. Therefore, absolute densities determined by absorption spectroscopy can be taken as calibration for other methods. In this paper, fundamentals of absorption spectroscopy are presented as an entrance to the topic. In the second part of the manuscript, a review of AS performed on cold atmospheric pressure plasma jets, as they are used e.g. in the field of plasma medicine, is presented. The focus is set on special techniques overcoming not only the drawback of spectrally overlapping absorbing species, but also the line-of-sight densities that AS usually provides or the necessity of sufficiently long absorption lengths. Where references are not available for measurements on cold atmospheric pressure plasma jets, other plasma sources including low-pressure plasmas are taken as an example to give suggestions for possible approaches. The final part is a table summarizing examples of absorption spectroscopic measurements on cold atmospheric pressure plasma jets. With this, the paper provides a ‘best practice’ guideline and gives a compendium of works by groups performing absorption spectroscopy on cold atmospheric pressure plasma jets.},
   file =     {:/Users/hld523/Google Drive/Rotation 1 Plasmaaaa/Papers/Reuter2015 Review on VUV to MIR absorption spectroscopy of atmospheric pressure plasma jets.pdf:PDF},
   url =      {http://stacks.iop.org/0963-0252/24/i=5/a=054001}
+}
+
+@InBook{Schroter2015,
+  title =     {Atomic oxygen and hydroxyl density measurements in an atmospheric pressure RF-plasma with water admixtures using UV and synchrotron VUV absorption spectroscopy},
+  year =      {2015},
+  author =    {Sandra Schröter and M. Foucher and Kari Niemi and Dedrick, {James Peter} and {de Oliveira}, Nelson and Denis Joyeux and Laurent Nahon and Erik Wagenaars and Timo Gans and Jean-Paul Booth and Deborah O'Connell},
+  booktitle = {Proc 22nd ISPC}
 }
 
 @Article{SousaNCAGO2011,

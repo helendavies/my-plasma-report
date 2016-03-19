@@ -3,44 +3,49 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: plasma-report.aux
 The style file: unsrt.bst
 Database file #1: MyPapers.bib
-You've used 18 entries,
+Warning--I didn't find a database entry for ""
+Warning--I didn't find a database entry for "ReuterSSH2015"
+Warning--empty chapter and pages in Schroter2015
+Warning--empty publisher in Schroter2015
+You've used 19 entries,
             1791 wiz_defined-function locations,
-            579 strings with 7582 characters,
-and the built_in function-call counts, 3984 in all, are:
-= -- 318
-> -- 228
-< -- 0
-+ -- 83
-- -- 65
-* -- 299
-:= -- 676
-add.period$ -- 55
-call.type$ -- 18
-change.case$ -- 15
+            585 strings with 7888 characters,
+and the built_in function-call counts, 4254 in all, are:
+= -- 340
+> -- 243
+< -- 2
++ -- 89
+- -- 70
+* -- 297
+:= -- 709
+add.period$ -- 60
+call.type$ -- 19
+change.case$ -- 14
 chr.to.int$ -- 0
-cite$ -- 18
-duplicate$ -- 164
-empty$ -- 378
-format.name$ -- 65
-if$ -- 865
+cite$ -- 21
+duplicate$ -- 190
+empty$ -- 404
+format.name$ -- 70
+if$ -- 936
 int.to.chr$ -- 0
-int.to.str$ -- 18
-missing$ -- 23
-newline$ -- 94
-num.names$ -- 18
-pop$ -- 47
+int.to.str$ -- 19
+missing$ -- 26
+newline$ -- 100
+num.names$ -- 19
+pop$ -- 65
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 55
+skip$ -- 72
 stack$ -- 0
-substring$ -- 215
-swap$ -- 18
-text.length$ -- 0
+substring$ -- 189
+swap$ -- 32
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 0
-while$ -- 30
-width$ -- 20
-write$ -- 198
+warning$ -- 2
+while$ -- 32
+width$ -- 21
+write$ -- 210
+(There were 4 warnings)
