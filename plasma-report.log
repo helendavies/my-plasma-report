@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.7)  20 MAR 2016 10:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.7)  20 MAR 2016 18:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -347,12 +347,9 @@ File: Figures/ActualPowerBig-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: Figures/ActualPowerBig-eps-converted-to.pdf used on in
 put line 225.
 (pdftex.def)             Requested size: 430.00462pt x 189.74245pt.
-
-
-LaTeX Warning: Citation `ReuterSSH2015' on page 8 undefined on input line 245.
-
-[8] [9 <./Figures/OutputDial.png> <./Figures/ActualPowerBig-eps-converted-to.pd
-f>] <Figures/SetupfromApiwat.png, id=56, 722.7pt x 443.256pt>
+ [8] [9 <./Figures/OutputDial.png> <./Figures/ActualPowerBig-eps-converted-to.p
+df>]
+<Figures/SetupfromApiwat.png, id=56, 722.7pt x 443.256pt>
 File: Figures/SetupfromApiwat.png Graphic file (type png)
 
 <use Figures/SetupfromApiwat.png>
@@ -440,7 +437,7 @@ to.pdf>
 (epstopdf)                    size: 9481 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/BubblerVariationBi
 g-eps-converted-to.pdf Figures/BubblerVariationBig.eps>
-(epstopdf)             \includegraphics on input line 411.
+(epstopdf)             \includegraphics on input line 413.
 Package epstopdf Info: Output file is already uptodate.
 
 <Figures/BubblerVariationBig-eps-converted-to.pdf, id=791, 803.0pt x 440.64626p
@@ -448,17 +445,16 @@ t>
 File: Figures/BubblerVariationBig-eps-converted-to.pdf Graphic file (type pdf)
  <use Figures/BubblerVariationBig-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/BubblerVariationBig-eps-converted-to.pdf used 
-on input line 411.
+on input line 413.
 (pdftex.def)             Requested size: 430.00462pt x 235.96866pt.
- [16 <./Figures/BubblerVariationBig-eps-converted-to.pdf>]
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 427.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 429.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 427.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 429.
 Package epstopdf Info: Source file: <Figures/BubblerDissociationBig.eps>
 (epstopdf)                    date: 2016-03-18 15:01:31
 (epstopdf)                    size: 19414 bytes
@@ -468,87 +464,79 @@ ed-to.pdf>
 (epstopdf)                    size: 8803 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/BubblerDissociatio
 nBig-eps-converted-to.pdf Figures/BubblerDissociationBig.eps>
-(epstopdf)             \includegraphics on input line 441.
+(epstopdf)             \includegraphics on input line 443.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/BubblerDissociationBig-eps-converted-to.pdf, id=804, 803.0pt x 420.571
+<Figures/BubblerDissociationBig-eps-converted-to.pdf, id=792, 803.0pt x 420.571
 24pt>
 File: Figures/BubblerDissociationBig-eps-converted-to.pdf Graphic file (type pd
 f)
  <use Figures/BubblerDissociationBig-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/BubblerDissociationBig-eps-converted-to.pdf us
-ed on input line 441.
+ed on input line 443.
 (pdftex.def)             Requested size: 430.00462pt x 225.21837pt.
-
-<Figures/OHSpatialwithSimReal.jpg, id=805, 587.5551pt x 508.7808pt>
+ [16] [17 <./Figures/BubblerVariationBig-eps-converted-to.pdf>]
+<Figures/OHSpatialwithSimReal.jpg, id=808, 587.5551pt x 508.7808pt>
 File: Figures/OHSpatialwithSimReal.jpg Graphic file (type jpg)
 
 <use Figures/OHSpatialwithSimReal.jpg>
 Package pdftex.def Info: Figures/OHSpatialwithSimReal.jpg used on input line 45
-1.
+3.
 (pdftex.def)             Requested size: 430.00462pt x 372.36179pt.
-Package epstopdf Info: Source file: <Figures/OHdecay.eps>
-(epstopdf)                    date: 2016-03-14 10:27:00
-(epstopdf)                    size: 85336 bytes
-(epstopdf)             Output file: <Figures/OHdecay-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-03-15 11:02:58
-(epstopdf)                    size: 10053 bytes
-(epstopdf)             Command: <repstopdf --outfile=Figures/OHdecay-eps-conver
-ted-to.pdf Figures/OHdecay.eps>
-(epstopdf)             \includegraphics on input line 458.
+Package epstopdf Info: Source file: <Figures/OHDecayBig.eps>
+(epstopdf)                    date: 2016-03-20 18:55:17
+(epstopdf)                    size: 90035 bytes
+(epstopdf)             Output file: <Figures/OHDecayBig-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-03-20 18:55:34
+(epstopdf)                    size: 10156 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figures/OHDecayBig-eps-con
+verted-to.pdf Figures/OHDecayBig.eps>
+(epstopdf)             \includegraphics on input line 460.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/OHdecay-eps-converted-to.pdf, id=806, 803.0pt x 372.39125pt>
-File: Figures/OHdecay-eps-converted-to.pdf Graphic file (type pdf)
+<Figures/OHDecayBig-eps-converted-to.pdf, id=809, 803.0pt x 372.39125pt>
+File: Figures/OHDecayBig-eps-converted-to.pdf Graphic file (type pdf)
 
-<use Figures/OHdecay-eps-converted-to.pdf>
-Package pdftex.def Info: Figures/OHdecay-eps-converted-to.pdf used on input lin
-e 458.
+<use Figures/OHDecayBig-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/OHDecayBig-eps-converted-to.pdf used on input 
+line 460.
 (pdftex.def)             Requested size: 430.00462pt x 199.4177pt.
- [17] [18 <./Figures/BubblerDissociationBig-eps-converted-to.pdf>] [19 <./Figur
-es/OHSpatialwithSimReal.jpg>]
-[20 <./Figures/OHdecay-eps-converted-to.pdf>] [21] [22] (./plasma-report.bbl
-[23]
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ¶ in font cmr10!
+ [18 <./Figures/BubblerDissociationBig-eps-converted-to.pdf>] [19 <./Figures/OH
+SpatialwithSimReal.jpg>] [20 <./Figures/OHDecayBig-eps-converted-to.pdf>] [21] 
+[22] [23] [24]
+(./plasma-report.bbl [25]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [24]) [25] (./plasma-report.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+ [26]) [27] (./plasma-report.aux) ) 
 Here is how much of TeX's memory you used:
- 4162 strings out of 493089
- 62899 string characters out of 6134843
- 129948 words of memory out of 5000000
- 7556 multiletter control sequences out of 15000+600000
+ 4166 strings out of 493089
+ 62973 string characters out of 6134843
+ 128976 words of memory out of 5000000
+ 7560 multiletter control sequences out of 15000+600000
  14942 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,8n,38p,693b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></u
-sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
-/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/l
-ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
-al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local
-/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texl
-ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive
-/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/20
-15/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/201
-5/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on plasma-report.pdf (25 pages, 4126958 bytes).
+ 38i,8n,38p,746b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti
+10.pfb>
+Output written on plasma-report.pdf (27 pages, 4131276 bytes).
 PDF statistics:
- 900 PDF objects out of 1000 (max. 8388607)
- 532 compressed objects within 6 object streams
+ 906 PDF objects out of 1000 (max. 8388607)
+ 536 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 

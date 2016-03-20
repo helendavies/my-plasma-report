@@ -57,7 +57,7 @@ F~Brehmer, HA~Haenssle, G~Daeschlein, R~Ahmed, S~Pfeiffer, A~G{\"o}rlitz,
   29(1):148--155, 2015.
 
 \bibitem{Schroter2015}
-Sandra Schröter, M.~Foucher, Kari Niemi, {James Peter} Dedrick, Nelson {de
+Sandra Schr\"{o}ter, M.~Foucher, Kari Niemi, {James Peter} Dedrick, Nelson {de
   Oliveira}, Denis Joyeux, Laurent Nahon, Erik Wagenaars, Timo Gans, Jean-Paul
   Booth, and Deborah O'Connell.
 \newblock {\em Atomic oxygen and hydroxyl density measurements in an
@@ -88,6 +88,13 @@ Pankaj Attri, Yong~Hee Kim, Dae~Hoon Park, Ji~Hoon Park, Young~J Hong, Han~Sup
   prediction during the plasma-initiated ultraviolet (uv) photolysis.
 \newblock {\em Scientific reports}, 5, 2015.
 
+\bibitem{Zweier1988}
+J~L Zweier, P~Kuppusamy, and G~A Lutty.
+\newblock Measurement of endothelial cell free radical generation: evidence for
+  a central mechanism of free radical injury in postischemic tissues.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  85(11):4046--4050, 1988.
+
 \bibitem{Ono1998}
 Ryo Ono and Tetsuji Oda.
 \newblock Measurement of hydroxyl radicals in an atmospheric pressure discharge
@@ -103,8 +110,8 @@ Stephan Reuter, Joao~Santos Sousa, Gabi~Daniel Stancu, and Jean-Pierre~Hubertus
 \newblock {\em Plasma Sources Science and Technology}, 24(5):054001, 2015.
 
 \bibitem{Niemi2013}
-K.~Niemi, D.~O\&apos;Connell, N.~de~Oliveira, D.~Joyeux, L.~Nahon, J.~P. Booth,
-  and T.~Gans.
+K.~Niemi, D.~O'Connell, N.~de~Oliveira, D.~Joyeux, L.~Nahon, J.~P. Booth, and
+  T.~Gans.
 \newblock Absolute atomic oxygen and nitrogen densities in radio-frequency
   driven atmospheric pressure cold plasmas: Synchrotron vacuum ultra-violet
   high-resolution fourier-transform absorption measurements.
@@ -122,5 +129,25 @@ Y.~Hatano, Y.~Katsumura, and A.~Mozumder.
 Oleg~A. Alduchov and Robert~E. Eskridge.
 \newblock Improved magnus form approximation of saturation vapor pressure.
 \newblock {\em Journal of Applied Meteorology}, 35(4):601--609, 1996.
+
+\bibitem{Phaniendra2015}
+Alugoju Phaniendra, Dinesh~Babu Jestadi, and Latha Periyasamy.
+\newblock Free radicals: properties, sources, targets, and their implication in
+  various diseases.
+\newblock {\em Indian Journal of Clinical Biochemistry}, 30(1):11--26, 2015.
+
+\bibitem{Hirst2016}
+Adam~M Hirst, Fiona~M Frame, Manit Arya, Norman~J Maitland, and Deborah
+  O'Connell.
+\newblock Low temperature plasmas as emerging cancer therapeutics: the state of
+  play and thoughts for the future.
+\newblock {\em Tumor Biology}, pages 1--11, 2016.
+
+\bibitem{Weltmann2009}
+K.-D. Weltmann, E.~Kindel, R.~Brandenburg, C.~Meyer, R.~Bussiahn, C.~Wilke, and
+  T.~von Woedtke.
+\newblock Atmospheric pressure plasma jet for medical therapy: Plasma
+  parameters and risk estimation.
+\newblock {\em Contributions to Plasma Physics}, 49(9):631--640, 2009.
 
 \end{thebibliography}
