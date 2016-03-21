@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.7)  20 MAR 2016 22:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.7)  21 MAR 2016 12:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -300,33 +300,28 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <Figures/EEDF.png, id=14, 449.0376pt x 321.3606pt>
 File: Figures/EEDF.png Graphic file (type png)
  <use Figures/EEDF.png>
-Package pdftex.def Info: Figures/EEDF.png used on input line 88.
+Package pdftex.def Info: Figures/EEDF.png used on input line 89.
 (pdftex.def)             Requested size: 301.00192pt x 215.41835pt.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 95.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 95.
- [3] [4 <./Figures/EEDF.png>]
-Overfull \hbox (2.33727pt too wide) in paragraph at lines 122--126
+[3]
+Overfull \hbox (2.33727pt too wide) in paragraph at lines 123--127
 []$\OMS/cmsy/m/n/10.95 ^^A$\OT1/cmr/m/n/10.95 OH is the most re-ac-tive oxy-gen
  rad-i-cal known and re-acts very rapidly with nearby molecules
  []
 
-[5] [6] <Figures/PlasmafromApiwat.png, id=35, 788.9475pt x 376.40625pt>
+[4 <./Figures/EEDF.png>] [5]
+<Figures/PlasmafromApiwat.png, id=30, 788.9475pt x 376.40625pt>
 File: Figures/PlasmafromApiwat.png Graphic file (type png)
 
 <use Figures/PlasmafromApiwat.png>
-Package pdftex.def Info: Figures/PlasmafromApiwat.png used on input line 168.
+Package pdftex.def Info: Figures/PlasmafromApiwat.png used on input line 167.
 (pdftex.def)             Requested size: 430.00462pt x 205.15169pt.
- [7 <./Figures/PlasmafromApiwat.png>]
-<Figures/OutputDial.png, id=41, 661.9932pt x 496.7358pt>
+ [6]
+<Figures/OutputDial.png, id=36, 661.9932pt x 496.7358pt>
 File: Figures/OutputDial.png Graphic file (type png)
 
 <use Figures/OutputDial.png>
-Package pdftex.def Info: Figures/OutputDial.png used on input line 217.
+Package pdftex.def Info: Figures/OutputDial.png used on input line 213.
 (pdftex.def)             Requested size: 171.99922pt x 129.0573pt.
 Package epstopdf Info: Source file: <Figures/ActualPowerBig.eps>
 (epstopdf)                    date: 2016-03-18 15:49:31
@@ -337,58 +332,66 @@ f>
 (epstopdf)                    size: 7319 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/ActualPowerBig-eps
 -converted-to.pdf Figures/ActualPowerBig.eps>
-(epstopdf)             \includegraphics on input line 224.
+(epstopdf)             \includegraphics on input line 220.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/ActualPowerBig-eps-converted-to.pdf, id=42, 803.0pt x 354.32375pt>
+<Figures/ActualPowerBig-eps-converted-to.pdf, id=37, 803.0pt x 354.32375pt>
 File: Figures/ActualPowerBig-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figures/ActualPowerBig-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/ActualPowerBig-eps-converted-to.pdf used on in
-put line 224.
+put line 220.
 (pdftex.def)             Requested size: 430.00462pt x 189.74245pt.
- [8 <./Figures/OutputDial.png>] [9 <./Figures/ActualPowerBig-eps-converted-to.p
-df>]
-<Figures/SetupfromApiwat.png, id=56, 722.7pt x 443.256pt>
+ [7 <./Figures/PlasmafromApiwat.png>] [8 <./Figures/OutputDial.png> <./Figures/
+ActualPowerBig-eps-converted-to.pdf>] <Figures/SetupfromApiwat.png, id=52, 722.
+7pt x 443.256pt>
 File: Figures/SetupfromApiwat.png Graphic file (type png)
 
 <use Figures/SetupfromApiwat.png>
-Package pdftex.def Info: Figures/SetupfromApiwat.png used on input line 264.
+Package pdftex.def Info: Figures/SetupfromApiwat.png used on input line 253.
 (pdftex.def)             Requested size: 430.00462pt x 263.73721pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 261.
 
-<Figures/Ipl.pdf, id=57, 656.4525pt x 255.95625pt>
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 261.
+
+<Figures/Ipl.pdf, id=53, 656.4525pt x 255.95625pt>
 File: Figures/Ipl.pdf Graphic file (type pdf)
  <use Figures/Ipl.pdf>
-Package pdftex.def Info: Figures/Ipl.pdf used on input line 280.
+Package pdftex.def Info: Figures/Ipl.pdf used on input line 269.
 (pdftex.def)             Requested size: 193.50076pt x 75.44785pt.
 
-<Figures/Ip.pdf, id=58, 656.4525pt x 255.95625pt>
+<Figures/Ip.pdf, id=54, 656.4525pt x 255.95625pt>
 File: Figures/Ip.pdf Graphic file (type pdf)
  <use Figures/Ip.pdf>
-Package pdftex.def Info: Figures/Ip.pdf used on input line 286.
+Package pdftex.def Info: Figures/Ip.pdf used on input line 275.
 (pdftex.def)             Requested size: 193.50076pt x 75.44785pt.
 
-<Figures/Il.pdf, id=59, 656.4525pt x 255.95625pt>
+<Figures/Il.pdf, id=55, 656.4525pt x 255.95625pt>
 File: Figures/Il.pdf Graphic file (type pdf)
  <use Figures/Il.pdf>
-Package pdftex.def Info: Figures/Il.pdf used on input line 292.
+Package pdftex.def Info: Figures/Il.pdf used on input line 281.
 (pdftex.def)             Requested size: 193.50076pt x 75.44785pt.
 
-<Figures/Ibg.pdf, id=60, 656.4525pt x 255.95625pt>
+<Figures/Ibg.pdf, id=56, 656.4525pt x 255.95625pt>
 File: Figures/Ibg.pdf Graphic file (type pdf)
  <use Figures/Ibg.pdf>
-Package pdftex.def Info: Figures/Ibg.pdf used on input line 298.
+Package pdftex.def Info: Figures/Ibg.pdf used on input line 287.
 (pdftex.def)             Requested size: 193.50076pt x 75.44785pt.
 
-[10] [11 <./Figures/SetupfromApiwat.png>]
-<Figures/SpectrumFitting.png, id=68, 670.6656pt x 225.9642pt>
+[9] [10 <./Figures/SetupfromApiwat.png>] [11 <./Figures/Ipl.pdf> <./Figures/Ip.
+pdf> <./Figures/Il.pdf> <./Figures/Ibg.pdf>]
+<Figures/SpectrumFitting.png, id=759, 670.6656pt x 225.9642pt>
 File: Figures/SpectrumFitting.png Graphic file (type png)
 
 <use Figures/SpectrumFitting.png>
-Package pdftex.def Info: Figures/SpectrumFitting.png used on input line 329.
+Package pdftex.def Info: Figures/SpectrumFitting.png used on input line 318.
 (pdftex.def)             Requested size: 430.00462pt x 144.87863pt.
- [12 <./Figures/Ipl.pdf> <./Figures/Ip.pdf> <./Figures/Il.pdf> <./Figures/Ibg.p
-df>]
+ [12 <./Figures/SpectrumFitting.png>]
 Package epstopdf Info: Source file: <Figures/WaterContentBig.eps>
 (epstopdf)                    date: 2016-03-18 20:58:35
 (epstopdf)                    size: 15931 bytes
@@ -398,17 +401,17 @@ df>
 (epstopdf)                    size: 7645 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/WaterContentBig-ep
 s-converted-to.pdf Figures/WaterContentBig.eps>
-(epstopdf)             \includegraphics on input line 356.
+(epstopdf)             \includegraphics on input line 345.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/WaterContentBig-eps-converted-to.pdf, id=763, 803.0pt x 354.32375pt>
+<Figures/WaterContentBig-eps-converted-to.pdf, id=765, 803.0pt x 354.32375pt>
 File: Figures/WaterContentBig-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figures/WaterContentBig-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/WaterContentBig-eps-converted-to.pdf used on i
-nput line 356.
+nput line 345.
 (pdftex.def)             Requested size: 430.00462pt x 189.74245pt.
- [13 <./Figures/SpectrumFitting.png>]
+ [13 <./Figures/WaterContentBig-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/PowerVariationBig.eps>
 (epstopdf)                    date: 2016-03-18 14:19:16
 (epstopdf)                    size: 78272 bytes
@@ -418,81 +421,73 @@ Package epstopdf Info: Source file: <Figures/PowerVariationBig.eps>
 (epstopdf)                    size: 8729 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/PowerVariationBig-
 eps-converted-to.pdf Figures/PowerVariationBig.eps>
-(epstopdf)             \includegraphics on input line 389.
+(epstopdf)             \includegraphics on input line 376.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/PowerVariationBig-eps-converted-to.pdf, id=770, 803.0pt x 353.32pt>
+<Figures/PowerVariationBig-eps-converted-to.pdf, id=775, 803.0pt x 353.32pt>
 File: Figures/PowerVariationBig-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figures/PowerVariationBig-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/PowerVariationBig-eps-converted-to.pdf used on
- input line 389.
+ input line 376.
 (pdftex.def)             Requested size: 430.00462pt x 189.20494pt.
- [14 <./Figures/WaterContentBig-eps-converted-to.pdf>] [15 <./Figures/PowerVari
-ationBig-eps-converted-to.pdf>]
+ [14 <./Figures/PowerVariationBig-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/WaterVariationBig.eps>
 (epstopdf)                    date: 2016-03-20 21:56:49
 (epstopdf)                    size: 19443 bytes
 (epstopdf)             Output file: <Figures/WaterVariationBig-eps-converted-to
 .pdf>
+(epstopdf)                    date: 2016-03-20 22:24:54
+(epstopdf)                    size: 8424 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/WaterVariationBig-
 eps-converted-to.pdf Figures/WaterVariationBig.eps>
-(epstopdf)             \includegraphics on input line 412.
-runsystem(repstopdf --outfile=Figures/WaterVariationBig-eps-converted-to.pdf Fi
-gures/WaterVariationBig.eps)...executed safely (allowed).
+(epstopdf)             \includegraphics on input line 399.
+Package epstopdf Info: Output file is already uptodate.
 
-Package epstopdf Info: Result file: <Figures/WaterVariationBig-eps-converted-to
-.pdf>
-(epstopdf)                    date: 2016-03-20 22:24:54
-(epstopdf)                    size: 8424 bytes.
-
-<Figures/WaterVariationBig-eps-converted-to.pdf, id=791, 803.0pt x 391.4625pt>
+<Figures/WaterVariationBig-eps-converted-to.pdf, id=788, 803.0pt x 391.4625pt>
 File: Figures/WaterVariationBig-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figures/WaterVariationBig-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/WaterVariationBig-eps-converted-to.pdf used on
- input line 412.
+ input line 399.
 (pdftex.def)             Requested size: 430.00462pt x 209.63046pt.
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 428.
+ [15 <./Figures/WaterVariationBig-eps-converted-to.pdf>]
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 415.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 428.
- [16] [17 <./Figures/WaterVariationBig-eps-converted-to.pdf>]
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 415.
 Package epstopdf Info: Source file: <Figures/WaterDissociation2.eps>
 (epstopdf)                    date: 2016-03-20 22:08:05
 (epstopdf)                    size: 19400 bytes
 (epstopdf)             Output file: <Figures/WaterDissociation2-eps-converted-t
 o.pdf>
+(epstopdf)                    date: 2016-03-20 22:24:54
+(epstopdf)                    size: 8797 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/WaterDissociation2
 -eps-converted-to.pdf Figures/WaterDissociation2.eps>
-(epstopdf)             \includegraphics on input line 442.
-runsystem(repstopdf --outfile=Figures/WaterDissociation2-eps-converted-to.pdf F
-igures/WaterDissociation2.eps)...executed safely (allowed).
+(epstopdf)             \includegraphics on input line 428.
+Package epstopdf Info: Output file is already uptodate.
 
-Package epstopdf Info: Result file: <Figures/WaterDissociation2-eps-converted-t
-o.pdf>
-(epstopdf)                    date: 2016-03-20 22:24:54
-(epstopdf)                    size: 8797 bytes.
-
-<Figures/WaterDissociation2-eps-converted-to.pdf, id=803, 803.0pt x 400.49625pt
+<Figures/WaterDissociation2-eps-converted-to.pdf, id=797, 803.0pt x 400.49625pt
 >
 File: Figures/WaterDissociation2-eps-converted-to.pdf Graphic file (type pdf)
  <use Figures/WaterDissociation2-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/WaterDissociation2-eps-converted-to.pdf used o
-n input line 442.
+n input line 428.
 (pdftex.def)             Requested size: 430.00462pt x 214.4681pt.
 
-<Figures/OHSpatialwithSimReal.jpg, id=804, 587.5551pt x 508.7808pt>
+<Figures/OHSpatialwithSimReal.jpg, id=798, 587.5551pt x 508.7808pt>
 File: Figures/OHSpatialwithSimReal.jpg Graphic file (type jpg)
 
 <use Figures/OHSpatialwithSimReal.jpg>
-Package pdftex.def Info: Figures/OHSpatialwithSimReal.jpg used on input line 45
-2.
+Package pdftex.def Info: Figures/OHSpatialwithSimReal.jpg used on input line 43
+8.
 (pdftex.def)             Requested size: 430.00462pt x 372.36179pt.
+ [16 <./Figures/WaterDissociation2-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/OHDecayBig.eps>
 (epstopdf)                    date: 2016-03-20 18:55:17
 (epstopdf)                    size: 90035 bytes
@@ -501,55 +496,101 @@ Package epstopdf Info: Source file: <Figures/OHDecayBig.eps>
 (epstopdf)                    size: 10156 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/OHDecayBig-eps-con
 verted-to.pdf Figures/OHDecayBig.eps>
-(epstopdf)             \includegraphics on input line 459.
+(epstopdf)             \includegraphics on input line 445.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/OHDecayBig-eps-converted-to.pdf, id=805, 803.0pt x 372.39125pt>
+<Figures/OHDecayBig-eps-converted-to.pdf, id=807, 803.0pt x 372.39125pt>
 File: Figures/OHDecayBig-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figures/OHDecayBig-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/OHDecayBig-eps-converted-to.pdf used on input 
-line 459.
+line 445.
 (pdftex.def)             Requested size: 430.00462pt x 199.4177pt.
- [18 <./Figures/WaterDissociation2-eps-converted-to.pdf>] [19 <./Figures/OHSpat
-ialwithSimReal.jpg>] [20 <./Figures/OHDecayBig-eps-converted-to.pdf>] [21] [22]
- [23] [24] (./plasma-report.bbl
-[25]
+ [17] [18 <./Figures/OHSpatialwithSimReal.jpg>] [19 <./Figures/OHDecayBig-eps-c
+onverted-to.pdf>] [20] [21]
+[22] (./plasma-report.bbl
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ì in font cmr10!
+ [23]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \hbox (badness 1867) in paragraph at lines 100--104
+[]\OT1/cmr/m/n/10.95 E Wa-ge-naars, T Gans, D O'Connell, and K Niemi.  Two-phot
+on ab-sorp-
+ []
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 100--104
+\OT1/cmr/m/n/10.95 tion laser-induced flu-o-res-cence mea-sure-ments of atomic 
+ni-tro-gen in a radio-
+ []
+
+[24]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
- [26]) [27] (./plasma-report.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no à in font cmr10!
+Missing character: There is no ë in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ≤ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ü in font cmr10!
+Missing character: There is no ê in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no Ö in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+ [25]) [26] (./plasma-report.aux) ) 
 Here is how much of TeX's memory you used:
- 4166 strings out of 493089
- 62943 string characters out of 6134843
- 129976 words of memory out of 5000000
- 7560 multiletter control sequences out of 15000+600000
+ 4174 strings out of 493089
+ 63061 string characters out of 6134843
+ 130006 words of memory out of 5000000
+ 7568 multiletter control sequences out of 15000+600000
  14942 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,8n,38p,746b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></u
-sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
-/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/l
-ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
-al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local
-/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texl
-ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive
-/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/20
-15/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/201
-5/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on plasma-report.pdf (27 pages, 4130671 bytes).
+ 38i,8n,38p,745b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti
+10.pfb>
+Output written on plasma-report.pdf (26 pages, 4129306 bytes).
 PDF statistics:
- 902 PDF objects out of 1000 (max. 8388607)
- 533 compressed objects within 6 object streams
+ 899 PDF objects out of 1000 (max. 8388607)
+ 531 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 

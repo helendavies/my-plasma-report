@@ -222,6 +222,17 @@
   url =       {https://books.google.co.uk/books?id=Vj154iUYdmwC}
 }
 
+@Article{Hirst2015,
+  author =    {Hirst, AM and Simms, MS and Mann, VM and Maitland, NJ and O'Connell, D and Frame, FM},
+  title =     {Low-temperature plasma treatment induces DNA damage leading to necrotic cell death in primary prostate epithelial cells},
+  journal =   {British journal of cancer},
+  year =      {2015},
+  volume =    {112},
+  number =    {9},
+  pages =     {1536--1545},
+  publisher = {Nature Publishing Group}
+}
+
 @Article{Hirst2016,
   author =    {Hirst, Adam M and Frame, Fiona M and Arya, Manit and Maitland, Norman J and O'Connell, Deborah},
   title =     {Low temperature plasmas as emerging cancer therapeutics: the state of play and thoughts for the future},
@@ -251,6 +262,21 @@
   doi =      {10.1007/s11090-014-9538-0},
   issn =     {1572-8986},
   url =      {http://dx.doi.org/10.1007/s11090-014-9538-0}
+}
+
+@Article{Ma2014,
+  author =    {Ma, Yonghao AND Ha, Chang Seung AND Hwang, Seok Won AND Lee, Hae June AND Kim, Gyoo Cheon AND Lee, Kyo-Won AND Song, Kiwon},
+  title =     {Non-Thermal Atmospheric Pressure Plasma Preferentially Induces Apoptosis in p53-Mutated Cancer Cells by Activating ROS Stress-Response Pathways},
+  journal =   {PLoS ONE},
+  year =      {2014},
+  volume =    {9},
+  number =    {4},
+  pages =     {1-14},
+  month =     {04},
+  abstract =  {<p>Non-thermal atmospheric pressure plasma (NTAPP) is an ionized gas at room temperature and has potential as a new apoptosis-promoting cancer therapy that acts by generating reactive oxygen species (ROS). However, it is imperative to determine its selectivity and standardize the components and composition of NTAPP. Here, we designed an NTAPP-generating apparatus combined with a He gas feeding system and demonstrated its high selectivity toward p53-mutated cancer cells. We first determined the proper conditions for NTAPP exposure to selectively induce apoptosis in cancer cells. The apoptotic effect of NTAPP was greater for p53-mutated cancer cells; artificial p53 expression in p53-negative HT29 cells decreased the pro-apoptotic effect of NTAPP. We also examined extra- and intracellular ROS levels in NTAPP-treated cells to deduce the mechanism of NTAPP action. While NTAPP-mediated increases in extracellular nitric oxide (NO) did not affect cell viability, intracellular ROS increased under NTAPP exposure and induced apoptotic cell death. This effect was dose-dependently reduced following treatment with ROS scavengers. NTAPP induced apoptosis even in doxorubicin-resistant cancer cell lines, demonstrating the feasibility of NTAPP as a potent cancer therapy. Collectively, these results strongly support the potential of NTAPP as a selective anticancer treatment, especially for p53-mutated cancer cells.</p>},
+  doi =       {10.1371/journal.pone.0091947},
+  publisher = {Public Library of Science},
+  url =       {http://dx.doi.org/10.1371%2Fjournal.pone.0091947}
 }
 
 @Article{Miller2007,
@@ -358,6 +384,33 @@
   issn =     {1357-2725},
   keywords = {Oxidative stress},
   url =      {http://www.sciencedirect.com/science/article/pii/S1357272506002196}
+}
+
+@Article{Wagenaars2012,
+  author =   {E Wagenaars and T Gans and D O'Connell and K Niemi},
+  title =    {Two-photon absorption laser-induced fluorescence measurements of atomic nitrogen in a radio-frequency atmospheric-pressure plasma jet},
+  journal =  {Plasma Sources Science and Technology},
+  year =     {2012},
+  volume =   {21},
+  number =   {4},
+  pages =    {042002},
+  abstract = {The first direct measurements of atomic nitrogen species in a radio-frequency atmospheric-pressure plasma jet (APPJ) are presented. Atomic nitrogen radicals play a key role in new plasma medicine applications of APPJs. The measurements were performed with a two-photon absorption laser-induced fluorescence diagnostic, using 206.65Â nm laser photons for the excitation of ground-state N atoms and observing fluorescence light around 744Â nm. The APPJ was run with a helium gas flow of 1Â slm and varying small admixtures of molecular nitrogen of 0â0.7Â vol%. A maximum in the measured N concentration was observed for an admixture of 0.25Â vol% N 2 .},
+  url =      {http://stacks.iop.org/0963-0252/21/i=4/a=042002}
+}
+
+@Article{Weltmann2009,
+  author =    {Weltmann, K.-D. and Kindel, E. and Brandenburg, R. and Meyer, C. and Bussiahn, R. and Wilke, C. and von Woedtke, T.},
+  title =     {Atmospheric Pressure Plasma Jet for Medical Therapy: Plasma Parameters and Risk Estimation},
+  journal =   {Contributions to Plasma Physics},
+  year =      {2009},
+  volume =    {49},
+  number =    {9},
+  pages =     {631--640},
+  doi =       {10.1002/ctpp.200910067},
+  issn =      {1521-3986},
+  keywords =  {Atmospheric pressure},
+  publisher = {WILEY-VCH Verlag},
+  url =       {http://dx.doi.org/10.1002/ctpp.200910067}
 }
 
 @Article{Zweier1988,

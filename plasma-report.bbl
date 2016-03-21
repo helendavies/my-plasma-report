@@ -19,6 +19,23 @@ Marian Valko, Dieter Leibfritz, Jan Moncol, Mark~T.D. Cronin, Milan Mazur, and
 \newblock {\em The International Journal of Biochemistry \& Cell Biology},
   39(1):44 -- 84, 2007.
 
+\bibitem{Floyd1999}
+Robert~A Floyd.
+\newblock Neuroinflammatory processes are important in neurodegenerative
+  diseases: an hypothesis to explain the increased formation of reactive oxygen
+  and nitrogen species as major factors involved in neurodegenerative disease
+  development.
+\newblock {\em Free Radical Biology and Medicine}, 26(9â10):1346 -- 1355,
+  1999.
+
+\bibitem{Ma2014}
+Yonghao Ma, Chang~Seung Ha, Seok~Won Hwang, Hae~June Lee, Gyoo~Cheon Kim,
+  Kyo-Won Lee, and Kiwon Song.
+\newblock Non-thermal atmospheric pressure plasma preferentially induces
+  apoptosis in p53-mutated cancer cells by activating ros stress-response
+  pathways.
+\newblock {\em PLoS ONE}, 9(4):1--14, 04 2014.
+
 \bibitem{Janeway2011}
 Kenneth Murphy.
 \newblock {\em Janeway's Immunobiology}.
@@ -33,6 +50,23 @@ Bernard~M Babior.
 A.~Fridman and G.~Friedman.
 \newblock {\em Plasma Medicine}.
 \newblock Wiley, 2013.
+
+\bibitem{Hirst2015}
+AM~Hirst, MS~Simms, VM~Mann, NJ~Maitland, D~O'Connell, and FM~Frame.
+\newblock Low-temperature plasma treatment induces dna damage leading to
+  necrotic cell death in primary prostate epithelial cells.
+\newblock {\em British journal of cancer}, 112(9):1536--1545, 2015.
+
+\bibitem{Fridman2008}
+Gregory Fridman, Gary Friedman, Alexander Gutsol, Anatoly~B Shekhter, Victor~N
+  Vasilets, and Alexander Fridman.
+\newblock Applied plasma medicine.
+\newblock {\em Plasma Processes and Polymers}, 5(6):503--533, 2008.
+
+\bibitem{PlasmaMedicineLaroussi}
+M.~Laroussi, M.G. Kong, G.~Morfill, and W.~Stolz.
+\newblock {\em Plasma Medicine}.
+\newblock Cambridge University Press, 2012.
 
 \bibitem{Christophorou2012}
 Loucas~G Christophorou and James~K Olthoff.
@@ -55,6 +89,18 @@ F~Brehmer, HA~Haenssle, G~Daeschlein, R~Ahmed, S~Pfeiffer, A~G{\"o}rlitz,
   controlled trial (nct01415622).
 \newblock {\em Journal of the European Academy of Dermatology and Venereology},
   29(1):148--155, 2015.
+
+\bibitem{SousaNCAGO2011}
+J.~S. Sousa, K.~Niemi, L.~J. Cox, Q.~Th. Algwari, T.~Gans, and D.~O’Connell.
+\newblock Cold atmospheric pressure plasma jets as sources of singlet delta
+  oxygen for biomedical applications.
+\newblock {\em Journal of Applied Physics}, 109(12), 2011.
+
+\bibitem{Wagenaars2012}
+E~Wagenaars, T~Gans, D~O'Connell, and K~Niemi.
+\newblock Two-photon absorption laser-induced fluorescence measurements of
+  atomic nitrogen in a radio-frequency atmospheric-pressure plasma jet.
+\newblock {\em Plasma Sources Science and Technology}, 21(4):042002, 2012.
 
 \bibitem{Schroter2015}
 Sandra Schr\"{o}ter, M.~Foucher, Kari Niemi, {James Peter} Dedrick, Nelson {de
@@ -95,12 +141,11 @@ J~L Zweier, P~Kuppusamy, and G~A Lutty.
 \newblock {\em Proceedings of the National Academy of Sciences},
   85(11):4046--4050, 1988.
 
-\bibitem{Ono1998}
-Ryo Ono and Tetsuji Oda.
-\newblock Measurement of hydroxyl radicals in an atmospheric pressure discharge
-  plasma by using laser-induced fluorescence.
-\newblock In {\em Industry Applications Conference, 1998. Thirty-Third IAS
-  Annual Meeting. The 1998 IEEE}, volume~3, pages 1777--1783. IEEE, 1998.
+\bibitem{BruggemanCS2012}
+Peter Bruggeman, Gilles Cunge, and Nader Sadeghi.
+\newblock Absolute oh density measurements by broadband uv absorption in
+  diffuse atmospheric-pressure he–h 2 o rf glow discharges.
+\newblock {\em Plasma Sources Science and Technology}, 21(3):035019, 2012.
 
 \bibitem{Reuter2015}
 Stephan Reuter, Joao~Santos Sousa, Gabi~Daniel Stancu, and Jean-Pierre~Hubertus
@@ -124,6 +169,15 @@ Y.~Hatano, Y.~Katsumura, and A.~Mozumder.
 \newblock CRC Press, 2010.
 \newblock p410. OH radicals have absoprtion band at 310nm which correlates to
   "free" .OH.
+
+\bibitem{DornNH1995}
+H.-P. Dorn, R.~Neuroth, and A.~Hofzumahaus.
+\newblock Investigation of oh absorption cross sections of rotational
+  transitions in the a 2 ∑ + ,   ( υ ′ = 0 ) ← x 2 Π ,   ( υ ″ =
+  0 ) band under atmospheric conditions: Implications for tropospheric
+  long-path absorption measurements.
+\newblock {\em Journal of Geophysical Research: Atmospheres},
+  100(D4):7397--7409, 1995.
 
 \bibitem{Alduchov1996}
 Oleg~A. Alduchov and Robert~E. Eskridge.
