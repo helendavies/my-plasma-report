@@ -16,6 +16,24 @@
 }
 }
 
+@Article{Aronson2010a,
+  author =    {Aronson, Naomi E. AND Wortmann, Glenn W. AND Byrne, William R. AND Howard, Robin S. AND Bernstein, Wendy B. AND Marovich, Mary A. AND Polhemus, Mark E. AND Yoon, In-Kyu AND Hummer, Kelly A. AND Gasser, Jr, Robert A. AND Oster, Charles N. AND Benson, Paul M.},
+  title =     {A Randomized Controlled Trial of Local Heat Therapy Versus Intravenous Sodium Stibogluconate for the Treatment of Cutaneous <italic>Leishmania major</italic> Infection},
+  journal =   {PLoS Negl Trop Dis},
+  year =      {2010},
+  volume =    {4},
+  number =    {3},
+  pages =     {1-8},
+  month =     {03},
+  abstract =  {<title>Author Summary</title>
+<p>Cutaneous leishmaniasis, a parasitic skin infection transmitted by the bite of a sand fly, can result in chronic skin sores and is estimated to affect more than 1.5 million persons worldwide. While the infection generally heals on its own in months to years, treatment can be expensive and difficult. We compared a heat treatment using the ThermoMed device to an (abbreviated) ten day course of intravenous Pentostam (a pentavalent antimony drug) in a population of U.S. soldiers who acquired their infections in Iraq. We found no statistically significant difference between the two treatments in the healing rate at two months. The heat treatment had less associated toxicity. Heat therapy is a ruggedized, battery operated method that could be adapted to humanitarian situations and less developed health care settings, likely with less cost and side effects than local treatment alternatives.</p>
+},
+  doi =       {10.1371/journal.pntd.0000628},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Aronson2010 A Randomized Controlled Trial of Local Heat Therapy Versus Intravenous Sodium Stibogluconate for the Treatment of Cutaneous Leishmania major Infection.PDF:PDF},
+  publisher = {Public Library of Science},
+  url =       {http://dx.doi.org/10.1371%2Fjournal.pntd.0000628}
+}
+
 @Article{Attri2015,
   author =    {Attri, Pankaj and Kim, Yong Hee and Park, Dae Hoon and Park, Ji Hoon and Hong, Young J and Uhm, Han Sup and Kim, Kyoung-Nam and Fridman, Alexander and Choi, Eun Ha},
   title =     {Generation mechanism of hydroxyl radical species and its lifetime prediction during the plasma-initiated ultraviolet (UV) photolysis},
@@ -24,6 +42,16 @@
   volume =    {5},
   file =      {:/Users/hld523/Google Drive/Rotation 1 Plasmaaaa/Papers/Attri2015 Generation mechanism of hydroxyl radical species and its lifetime prediction during the plasma-initiated ultraviolet (UV) photolysis.pdf:PDF},
   publisher = {Nature Publishing Group}
+}
+
+@Article{Ayala2014lipid,
+  author =    {Ayala, Antonio and Mu{\~n}oz, Mario F and Arg{\"u}elles, Sandro},
+  title =     {Lipid peroxidation: production, metabolism, and signaling mechanisms of malondialdehyde and 4-hydroxy-2-nonenal},
+  journal =   {Oxidative medicine and cellular longevity},
+  year =      {2014},
+  volume =    {2014},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Ayala2014 Lipid Peroxidation- Production, Metabolism, and Signaling Mechanisms of Malondialdehyde and 4-Hydroxy-2-Nonenal.pdf:PDF},
+  publisher = {Hindawi Publishing Corporation}
 }
 
 @Article{Babior2004,
@@ -38,11 +66,52 @@
   publisher = {Elsevier}
 }
 
+@InBook{Bender2012tissue,
+  pages =     {321--334},
+  title =     {Tissue Tolerable Plasma and Polihexanide: Are Synergistic Effects Possible to Promote Healing of Chronic wounds? In Vivo and In Vitro Results},
+  publisher = {Springer Netherlands},
+  year =      {2012},
+  author =    {Bender, Claudia P. and H{\"u}bner, Nils-Olaf and Weltmann, Klaus-Dieter and Scharf, Christian and Kramer, Axel},
+  editor =    {Machala, Zdenko and Hensel, Karol and Akishev, Yuri},
+  address =   {Dordrecht},
+  booktitle = {Plasma for Bio-Decontamination, Medicine and Food Security},
+  doi =       {10.1007/978-94-007-2852-3_25},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Bender2012  Tissue Tolerable Plasma and Polihexanide- Are Synergistic Effects Possible to Promote Healing of Chronic wounds? In Vivo and In Vitro Results .pdf:PDF},
+  isbn =      {978-94-007-2852-3},
+  keywords =  {Plasma},
+  url =       {http://dx.doi.org/10.1007/978-94-007-2852-3_25}
+}
+
 @Book{Block2001,
   title =     {Disinfection, sterilization, and preservation},
   publisher = {Lippincott Williams \& Wilkins},
   year =      {2001},
   author =    {Block, Seymour Stanton}
+}
+
+@Article{Bowler2001wound,
+  author =    {Bowler, PG and Duerden, BI and Armstrong, David G},
+  title =     {Wound microbiology and associated approaches to wound management},
+  journal =   {Clinical microbiology reviews},
+  year =      {2001},
+  volume =    {14},
+  number =    {2},
+  pages =     {244--269},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Bowler2001 Wound Microbiology and Associated Approaches to Wound Management.pdf:PDF},
+  publisher = {Am Soc Microbiol}
+}
+
+@Article{Brehmer2015alleviation,
+  author =  {Brehmer, F. and Haenssle, H.A. and Daeschlein, G. and Ahmed, R. and Pfeiffer, S. and Görlitz, A. and Simon, D. and Schön, M.P. and Wandke, D. and Emmert, S.},
+  title =   {Alleviation of chronic venous leg ulcers with a hand-held dielectric barrier discharge plasma generator (PlasmaDerm®VU-2010): results of a monocentric, two-armed, open, prospective, randomized and controlled trial (NCT01415622)},
+  journal = {Journal of the European Academy of Dermatology and Venereology},
+  year =    {2015},
+  volume =  {29},
+  number =  {1},
+  pages =   {148--155},
+  doi =     {10.1111/jdv.12490},
+  issn =    {1468-3083},
+  url =     {http://dx.doi.org/10.1111/jdv.12490}
 }
 
 @Article{BrehmerHD2015,
@@ -67,6 +136,29 @@
   pages =    {035019},
   abstract = {The measurement of radical densities in atmospheric-pressure plasmas has gained increasing importance in recent years in view of their crucial role in many applications. In this paper we present absolute OH density measurements by broadband UV absorption in diffuse atmospheric-pressure RF glow discharges in mixtures of He and H 2 O. The use of a 310 nm light-emitting diode as a light source and a very high resolution spectrometer (2.6 pm resolution) made the estimation of the total OH density possible by simultaneously measuring the absorption rates of different spectrally resolved rotational lines of the OH( A – X ) transition. For different RF powers and water concentrations, OH densities and gas temperatures ranging between 6 × 10 19 and 4 × 10 20 m −3 and 345 and 410 K, respectively, were obtained. The gas temperature T g was also measured by three different methods. T g deduced from the rotational temperature of N 2 ( C – B ) emission, nitrogen being present as a trace impurity, provided the most reliable value. The rotational temperature T r of the ground state OH( X ) presented values with a maximum deviation of 25 K compared with T g . To obtain the gas temperature from the emission intensities of OH( A – X ) rotational lines, the recorded intensities of different lines must be corrected for the effect of self-absorption inside the plasma.},
   url =      {http://stacks.iop.org/0963-0252/21/i=3/a=035019}
+}
+
+@Article{Chambers2009waves,
+  author =    {Chambers, Henry F and DeLeo, Frank R},
+  title =     {Waves of resistance: Staphylococcus aureus in the antibiotic era},
+  journal =   {Nature Reviews Microbiology},
+  year =      {2009},
+  volume =    {7},
+  number =    {9},
+  pages =     {629--641},
+  publisher = {Nature Publishing Group}
+}
+
+@Article{Chen2009blood,
+  author =    {Chen, Cheng-Yen and Fan, Hsin-Wen and Kuo, Spencer P and Chang, Jenghwa and Pedersen, Todd and Mills, Travis J and Huang, Cheng-Chiu},
+  title =     {Blood clotting by low-temperature air plasma},
+  journal =   {IEEE Transactions on Plasma Science},
+  year =      {2009},
+  volume =    {37},
+  number =    {6},
+  pages =     {993--999},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Chen2009 Blood Clotting by Low-Temperature Air Plasma.pdf:PDF},
+  publisher = {IEEE}
 }
 
 @Article{Cho2003,
@@ -105,9 +197,49 @@
   author =    {Christophorou, Loucas G and Olthoff, James K}
 }
 
-@Article{Dizdaroglu2012,
+@Article{Church2006burn,
+  author =   {Church, Deirdre and Elsayed, Sameer and Reid, Owen and Winston, Brent and Lindsay, Robert},
+  title =    {Burn Wound Infections},
+  journal =  {Clinical Microbiology Reviews},
+  year =     {2006},
+  volume =   {19},
+  number =   {2},
+  pages =    {403-434},
+  abstract = {Burns are one of the most common and devastating forms of trauma. Patients with serious thermal injury require immediate specialized care in order to minimize morbidity and mortality. Significant thermal injuries induce a state of immunosuppression that predisposes burn patients to infectious complications. A current summary of the classifications of burn wound infections, including their diagnosis, treatment, and prevention, is given. Early excision of the eschar has substantially decreased the incidence of invasive burn wound infection and secondary sepsis, but most deaths in severely burn-injured patients are still due to burn wound sepsis or complications due to inhalation injury. Burn patients are also at risk for developing sepsis secondary to pneumonia, catheter-related infections, and suppurative thrombophlebitis. The introduction of silver-impregnated devices (e.g., central lines and Foley urinary catheters) may reduce the incidence of nosocomial infections due to prolonged placement of these devices. Improved outcomes for severely burned patients have been attributed to medical advances in fluid resuscitation, nutritional support, pulmonary and burn wound care, and infection control practices.},
+  doi =      {10.1128/CMR.19.2.403-434.2006},
+  eprint =   {http://cmr.asm.org/content/19/2/403.full.pdf+html},
+  url =      {http://cmr.asm.org/content/19/2/403.abstract}
+}
+
+@Article{Daeschlein2012cold,
+  author =    {Daeschlein, Georg and Scholz, Sebastian and Ahmed, Raees and Majumdar, Abhijit and von Woedtke, Thomas and Haase, Hermann and Niggemeier, Maria and Kindel, Eckhard and Brandenburg, Ronny and Weltmann, Klaus Dieter and others},
+  title =     {Cold plasma is well-tolerated and does not disturb skin barrier or reduce skin moisture},
+  journal =   {JDDG: Journal der Deutschen Dermatologischen Gesellschaft},
+  year =      {2012},
+  volume =    {10},
+  number =    {7},
+  pages =     {509--515},
+  publisher = {Wiley Online Library}
+}
+
+@Article{Deloche1976high,
+  author =    {Deloche, R. and Monchicourt, P. and Cheret, M. and Lambert, F.},
+  title =     {High-pressure helium afterglow at room temperature},
+  journal =   {Phys. Rev. A},
+  year =      {1976},
+  volume =    {13},
+  pages =     {1140--1176},
+  month =     {Mar},
+  doi =       {10.1103/PhysRevA.13.1140},
+  issue =     {3},
+  numpages =  {0},
+  publisher = {American Physical Society},
+  url =       {http://link.aps.org/doi/10.1103/PhysRevA.13.1140}
+}
+
+@Article{Dizdaroglu2012oxidatively,
   author =   {Miral Dizdaroglu},
-  title =    {Oxidatively induced \{DNA\} damage: Mechanisms, repair and disease },
+  title =    {Oxidatively induced {DNA} damage: Mechanisms, repair and disease},
   journal =  {Cancer Letters },
   year =     {2012},
   volume =   {327},
@@ -136,6 +268,44 @@
   url =      {http://dx.doi.org/10.1029/94JD03323}
 }
 
+@Article{Eisenhauer2016chemical,
+  author =    {Eisenhauer, Peter and Chernets, Natalie and Song, You and Dobrynin, Danil and Pleshko, Nancy and Steinbeck, Marla J and Freeman, Theresa A},
+  title =     {Chemical modification of extracellular matrix by cold atmospheric plasma-generated reactive species affects chondrogenesis and bone formation},
+  journal =   {Journal of Tissue Engineering and Regenerative Medicine},
+  year =      {2016},
+  volume =    {10},
+  number =    {9},
+  pages =     {772--782},
+  publisher = {Wiley Online Library}
+}
+
+@Article{Emmert2013atmospheric,
+  author =   {Steffen Emmert and Franziska Brehmer and Holger HÃ€nÃle and Andreas Helmke and Nina Mertens and Raees Ahmed and Dirk Simon and Dirk Wandke and Wolfgang Maus-Friedrichs and Georg DÃ€schlein and Michael P. SchÃ¶n and Wolfgang ViÃ¶l},
+  title =    {Atmospheric pressure plasma in dermatology: Ulcus treatment and much more },
+  journal =  {Clinical Plasma Medicine },
+  year =     {2013},
+  volume =   {1},
+  number =   {1},
+  pages =    {24 - 29},
+  abstract = {Plasma in the sense of ionized gas can be referred to as the fourth state of matter following solids, liquids, and gases in view of their energy content. Application of high voltages across small gas filled spaces results in ionization of the air. Generally, two types of cold plasma can be discerned: direct plasma (e.g. dielectric barrier dischargeâDBD) and indirect plasma (plasma torch, plasma jet). In indirect plasma treatment, the plasma is produced in a remote cavity and ejected by gas flow onto the skin in the form of an effluent. In direct plasma treatment, the skin itself acts as the counter electrode. Advantageous features of direct plasma treatment include the higher plasma density as well as the induced high frequency electric current onto the skin. In plasma treatment antiinflammatory, antipruritic, antimicrobial, tissue stimulation, stimulation of microcirculation, and other therapeutic effects are achieved in a single treatment due to the combined action of ultraviolet radiation, reactive oxygen species (e.g. ozone), reactive nitrogen species, and electric fields. In line with other reports, we have already demonstrated the use of direct plasma treatment in skin disinfection, in atopic eczema (superinfected dermatitis), in modulating the epidermal barrier, as well as in chronic wound treatment. We as well as others did not notice any side effects of plasma treatment so far. In summary, cold atmospheric pressure plasma constitutes a new and innovative treatment option especially for superinfected skin diseases. These promising relatively new clinical applications warrant further carefully conducted translational research to delineate the modes of actions of plasma as well as potential long term side effects. This should lead to norms for the technical devices to allow a standardized treatment of given diseases in the mid-term. },
+  doi =      {http://dx.doi.org/10.1016/j.cpme.2012.11.002},
+  issn =     {2212-8166},
+  keywords = {Cold atmospheric pressure plasma (CAP)},
+  url =      {http://www.sciencedirect.com/science/article/pii/S2212816612000042}
+}
+
+@Article{Fang2011antimicrobial,
+  author =    {Fang, Ferric C},
+  title =     {Antimicrobial actions of reactive oxygen species},
+  journal =   {MBio},
+  year =      {2011},
+  volume =    {2},
+  number =    {5},
+  pages =     {e00141--11},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Fang2011 Antimicrobial Actions of Reactive Oxygen Species.pdf:PDF},
+  publisher = {American Society for Microbiology (ASM)}
+}
+
 @Article{Floyd1999,
   author =   {Robert A Floyd},
   title =    {Neuroinflammatory processes are important in neurodegenerative diseases: an hypothesis to explain the increased formation of reactive oxygen and nitrogen species as major factors involved in neurodegenerative disease development },
@@ -151,6 +321,51 @@
   url =      {http://www.sciencedirect.com/science/article/pii/S0891584998002937}
 }
 
+@Article{Franks2003health,
+  author =   {Peter J Franks and Philip A Morgan},
+  title =    {Health-related quality of life with chronic leg ulceration},
+  journal =  {Expert Review of Pharmacoeconomics \& Outcomes Research},
+  year =     {2003},
+  volume =   {3},
+  number =   {5},
+  pages =    {611-622},
+  abstract = { Chronic leg ulceration is a major cause of morbidity in the elderly. The existing evidence on the evaluation of health-related quality of life for patients suffering from this condition is reviewed. Research evidence was categorized into qualitative research; development and validation of disease-specific tools; cross sectional quantitative methods; and longitudinal and outcomes studies. Major themes associated with leg ulceration include ulcer pain, poor sleep quality, mobility deficit and the resulting consequences on the patientsâ social lives. Patients frequently adapt their lifestyles to avoid situations that may lead to further ulceration. While elderly women experience the poorest quality of life, it appears that leg ulceration has the greatest impact on young men. Greatest improvements over time are achieved for patients whose ulcers heal completely. Leg ulceration has a major impact on patientsâ health-related quality of life. Studies must consider this as an important outcome, particularly when complete healing is unlikely. },
+  doi =      {10.1586/14737167.3.5.611},
+  eprint =   { http://dx.doi.org/10.1586/14737167.3.5.611 },
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Franks2003 Health-related quality of life with chronic leg ulceration.pdf:PDF},
+  url =      { 
+        http://dx.doi.org/10.1586/14737167.3.5.611
+    
+}
+}
+
+@Article{Fridman2007comparison,
+  author =    {Fridman, Gregory and Brooks, Ari D and Balasubramanian, Manjula and Fridman, Alexander and Gutsol, Alexander and Vasilets, Victor N and Ayan, Halim and Friedman, Gary},
+  title =     {Comparison of direct and indirect effects of non-thermal atmospheric-pressure plasma on bacteria},
+  journal =   {Plasma Processes and Polymers},
+  year =      {2007},
+  volume =    {4},
+  number =    {4},
+  pages =     {370--375},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Fridman2007Comparison of Direct and Indirect Effects of Non-Thermal Atmospheric-Pressure Plasma on Bacteria.pdf:PDF},
+  publisher = {Wiley Online Library}
+}
+
+@Article{Fridman2007floating,
+  author =   {Fridman, Gregory and Shereshevsky, Alexey and Jost, Monika M. and Brooks, Ari D. and Fridman, Alexander and Gutsol, Alexander and Vasilets, Victor and Friedman, Gary},
+  title =    {Floating Electrode Dielectric Barrier Discharge Plasma in Air Promoting Apoptotic Behavior in Melanoma Skin Cancer Cell Lines},
+  journal =  {Plasma Chemistry and Plasma Processing},
+  year =     {2007},
+  volume =   {27},
+  number =   {2},
+  pages =    {163--176},
+  abstract = {Initiation of apoptosis, or programmed cell death, is an important issue in cancer treatment as cancer cells frequently have acquired the ability to block apoptosis and thus are more resistant to chemotherapeutic drugs. Targeted and perhaps selective destruction of cancerous tissue is desirable for many reasons, ranging from the enhancement of or aid to current medical methods to problems currently lacking a solution, i.e., lung cancer. Demonstrated in this publication is the inactivation (killing) of human Melanoma skin cancer cell lines, inÂ vitro, by Floating Electrode Dielectric Barrier Discharge (FE-DBD) plasma. Not only are these cells shown to be killed immediately by high doses of plasma treatment, but low doses are shown to promote apoptotic behavior as detected by TUNEL staining and subsequent flow cytometry. It is shown that plasma acts on the cells directly and not by ``poisoning'' the solution surrounding the cells, even through a layer of such solution. Potential mechanisms of interaction of plasma with cells are discussed and further steps are proposed to develop an understanding of such systems.},
+  doi =      {10.1007/s11090-007-9048-4},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Fridman2007 Floating Electrode Dielectric Barrier Discharge Plasma in Air Promoting Apoptotic Behavior in Melanoma Skin Cancer Cell Lines.pdf:PDF},
+  issn =     {1572-8986},
+  url =      {http://dx.doi.org/10.1007/s11090-007-9048-4}
+}
+
 @Article{Fridman2008,
   author =    {Fridman, Gregory and Friedman, Gary and Gutsol, Alexander and Shekhter, Anatoly B and Vasilets, Victor N and Fridman, Alexander},
   title =     {Applied plasma medicine},
@@ -163,14 +378,40 @@
   publisher = {Wiley Online Library}
 }
 
-@Book{Fridman2013PlasmaMedicine,
+@Book{Fridman2013plasmamedicine,
   title =     {Plasma Medicine},
   publisher = {Wiley},
   year =      {2013},
   author =    {Fridman, A. and Friedman, G.}
 }
 
-@Article{Graves2012,
+@InBook{Garlick2007engineering,
+  pages =     {207--239},
+  title =     {Engineering Skin to Study Human Disease -- Tissue Models for Cancer Biology and Wound Repair},
+  publisher = {Springer Berlin Heidelberg},
+  year =      {2007},
+  author =    {Garlick, Jonathan A.},
+  editor =    {Lee, Kyongbum and Kaplan, David},
+  address =   {Berlin, Heidelberg },
+  booktitle = {Tissue Engineering II: Basics of Tissue Engineering and Tissue Applications},
+  doi =       {10.1007/b137206},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Garlick2006 Engineering Skin to Study Human Disease – Tissue Models for Cancer Biology and Wound Repair.pdf:PDF},
+  isbn =      {978-3-540-36186-2},
+  url =       {http://dx.doi.org/10.1007/b137206}
+}
+
+@Article{Godebo2013multidrug,
+  author =    {Godebo, Girma and Kibru, Gebre and Tassew, Himanot},
+  title =     {Multidrug-resistant bacterial isolates in infected wounds at Jimma University Specialized Hospital, Ethiopia},
+  journal =   {Annals of clinical microbiology and antimicrobials},
+  year =      {2013},
+  volume =    {12},
+  number =    {1},
+  pages =     {1},
+  publisher = {BioMed Central}
+}
+
+@Article{Graves2012the,
   author =   {David B Graves},
   title =    {The emerging role of reactive oxygen and nitrogen species in redox biology and some implications for plasma applications to medicine and biology},
   journal =  {Journal of Physics D: Applied Physics},
@@ -182,7 +423,7 @@
   url =      {http://stacks.iop.org/0022-3727/45/i=26/a=263001}
 }
 
-@Article{Graves2014,
+@Article{Graves2014low,
   author =  {Graves, David B.},
   title =   {Low temperature plasma biomedicine: A tutorial reviewa)},
   journal = {Physics of Plasmas},
@@ -193,6 +434,41 @@
   eid =     {080901},
   file =    {:/Users/hld523/Google Drive/Rotation 1 Plasmaaaa/Papers/Graves 2014 Low temperature plasmas A review.pdf:PDF;:/Users/hld523/Documents/Guinea pigs/IMAG7745.jpg:JPG image},
   url =     {http://scitation.aip.org/content/aip/journal/pop/21/8/10.1063/1.4892534}
+}
+
+@Article{Gregori2001resolution,
+  author =   {Grégori, Gérald and Citterio, Sandra and Ghiani, Alessandra and Labra, Massimo and Sgorbati, Sergio and Brown, Spencer and Denis, Michel},
+  title =    {Resolution of Viable and Membrane-Compromised Bacteria in Freshwater and Marine Waters Based on Analytical Flow Cytometry and Nucleic Acid Double Staining},
+  journal =  {Applied and Environmental Microbiology},
+  year =     {2001},
+  volume =   {67},
+  number =   {10},
+  pages =    {4662-4670},
+  abstract = {The membrane integrity of a cell is a well-accepted criterion for characterizing viable (active or inactive) cells and distinguishing them from damaged and membrane-compromised cells. This information is of major importance in studies of the function of microbial assemblages in natural environments, in order to assign bulk activities measured by various methods to the very active cells that are effectively responsible for the observations. To achieve this task for bacteria in freshwater and marine waters, we propose a nucleic acid double-staining assay based on analytical flow cytometry, which allows us to distinguish viable from damaged and membrane-compromised bacteria and to sort out noise and detritus. This method is derived from the work of S. Barbesti et al. (Cytometry 40:214–218, 2000) which was conducted on cultured bacteria. The principle of this approach is to use simultaneously a permeant (SYBR Green; Molecular Probes) and an impermeant (propidium iodide) probe and to take advantage of the energy transfer which occurs between them when both probes are staining nucleic acids. A full quenching of the permeant probe fluorescence by the impermeant probe will point to cells with a compromised membrane, a partial quenching will indicate cells with a slightly damaged membrane, and a lack of quenching will characterize intact membrane cells identified as viable. In the present study, this approach has been adapted to bacteria in freshwater and marine waters of the Mediterranean region. It is fast and easy to use and shows that a large fraction of bacteria with low DNA content can be composed of viable cells. Admittedly, limitations stem from the unknown behavior of unidentified species present in natural environments which may depart from the established permeability properties with respect to the fluorescing dyes.},
+  doi =      {10.1128/AEM.67.10.4662-4670.2001},
+  eprint =   {http://aem.asm.org/content/67/10/4662.full.pdf+html},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Gregori2001 Resolution of Viable and Membrane-Compromised Bacteria in Freshwater and Marine Waters Based on Analytical Flow Cytometry and Nucleic Acid Double Staining.pdf:PDF},
+  url =      {http://aem.asm.org/content/67/10/4662.abstract}
+}
+
+@Article{haertel2014nonthermal,
+  author =    {Haertel, Beate and von Woedtke, Thomas and Weltmann, Klaus-Dieter and Lindequist, Ulrike},
+  title =     {Non-thermal atmospheric-pressure plasma possible application in wound healing},
+  journal =   {Biomolecules \& therapeutics},
+  year =      {2014},
+  volume =    {22},
+  number =    {6},
+  pages =     {477--490},
+  abstract =  {Non-thermal atmospheric-pressure plasma, also named cold plasma, is defined as a partly ionized gas. Therefore, it cannot be
+equated with plasma from blood; it is not biological in nature. Non-thermal atmospheric-pressure plasma is a new innovative approach
+in medicine not only for the treatment of wounds, but with a wide-range of other applications, as e.g. topical treatment
+of other skin diseases with microbial involvement or treatment of cancer diseases. This review emphasizes plasma effects on
+wound healing. Non-thermal atmospheric-pressure plasma can support wound healing by its antiseptic effects, by stimulation of
+proliferation and migration of wound relating skin cells, by activation or inhibition of integrin receptors on the cell surface or by its
+pro-angiogenic effect. We summarize the effects of plasma on eukaryotic cells, especially on keratinocytes in terms of viability,
+proliferation, DNA, adhesion molecules and angiogenesis together with the role of reactive oxygen species and other components
+of plasma. The outcome of first clinical trials regarding wound healing is pointed out.},
+  publisher = {The Korean Society of Applied Pharmacology}
 }
 
 @Book{Halliwell2007,
@@ -242,12 +518,164 @@
   publisher = {Springer}
 }
 
+@Article{Howell2005a,
+  author =    {Howell-Jones, RS and Wilson, MJ and Hill, Katja E and Howard, AJ and Price, Patricia Elaine and Thomas, David William},
+  title =     {A review of the microbiology, antibiotic usage and resistance in chronic skin wounds},
+  journal =   {Journal of Antimicrobial Chemotherapy},
+  year =      {2005},
+  volume =    {55},
+  number =    {2},
+  pages =     {143--149},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/HowellJones2005 A review of the microbiology, antibiotic usage and resistance in chronic skin wounds.pdf:PDF},
+  publisher = {Br Soc Antimicrob Chemo}
+}
+
+@Article{Isbary2010a,
+  author =    {Isbary, G. and Morfill, G. and Schmidt, H.U. and Georgi, M. and Ramrath, K. and Heinlin, J. and Karrer, S. and Landthaler, M. and Shimizu, T. and Steffes, B. and Bunk, W. and Monetti, R. and Zimmermann, J.L. and Pompl, R. and Stolz, W.},
+  title =     {A first prospective randomized controlled trial to decrease bacterial load using cold atmospheric argon plasma on chronic wounds in patients},
+  journal =   {British Journal of Dermatology},
+  year =      {2010},
+  volume =    {163},
+  number =    {1},
+  pages =     {78--82},
+  doi =       {10.1111/j.1365-2133.2010.09744.x},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Isbary2010 A first prospective randomized controlled trial to decrease bacterial load using cold atmospheric argon plasma on chronic wounds in patients.pdf:PDF},
+  issn =      {1365-2133},
+  keywords =  {argon plasma, chronic wounds, cold atmospheric plasma, infection, MRSA, plasma medicine},
+  publisher = {Blackwell Publishing Ltd},
+  url =       {http://dx.doi.org/10.1111/j.1365-2133.2010.09744.x}
+}
+
+@Article{Isbary2012successful,
+  author =    {Isbary, G. and Heinlin, J. and Shimizu, T. and Zimmermann, J.L. and Morfill, G. and Schmidt, H.-U. and Monetti, R. and Steffes, B. and Bunk, W. and Li, Y. and Klaempfl, T. and Karrer, S. and Landthaler, M. and Stolz, W.},
+  title =     {Successful and safe use of 2 min cold atmospheric argon plasma in chronic wounds: results of a randomized controlled trial},
+  journal =   {British Journal of Dermatology},
+  year =      {2012},
+  volume =    {167},
+  number =    {2},
+  pages =     {404--410},
+  abstract =  {Backgroundâ The development of antibiotic resistance by microorganisms is an increasing problem in medicine. In chronic wounds, bacterial colonization is associated with impaired healing. Cold atmospheric plasma is an innovative promising tool to deal with these problems.Objectivesâ The 5-min argon plasma treatment has already demonstrated efficacy in reducing bacterial numbers in chronic infected wounds in vivo. In this study we investigated a 2-min plasma treatment with the same device and the next-generation device, to assess safety and reduction in bacterial load, regardless of the kind of bacteria and their resistance level in chronic wounds.Methodsâ Twenty-four patients with chronic infected wounds were treated in a prospective randomized controlled phase II study with 2Â min of cold atmospheric argon plasma every day: 14 with MicroPlaSter alpha device, 10 with MicroPlaSter beta device (next-generation device) in addition to standard wound care. The patient acted as his/her own control. Bacterial species were detected by standard bacterial swabs and bacterial load by semiquantitative count on nitrocellulose filters. The plasma settings were the same as in the previous phase II study in which wounds were exposed for 5Â min to argon plasma.Resultsâ Analysis of 70 treatments in 14 patients with the MicroPlaSter alpha device revealed a significant (40%, PÂ <Â 0Â·016) reduction in bacterial load in plasma-treated wounds, regardless of the species of bacteria. Analysis of 137 treatments in 10 patients with the MicroPlaSter beta device showed a highly significant reduction (23Â·5%, PÂ <Â 0Â·008) in bacterial load. No side-effects occurred and the treatment was well tolerated.Conclusionsâ A 2-min treatment with either of two cold atmospheric argon plasma devices is a safe, painless and effective technique to decrease the bacterial load in chronic wounds.},
+  doi =       {10.1111/j.1365-2133.2012.10923.x},
+  issn =      {1365-2133},
+  publisher = {Blackwell Publishing Ltd},
+  url =       {http://dx.doi.org/10.1111/j.1365-2133.2012.10923.x}
+}
+
+@Article{Isbary2013cold,
+  author =   {G. Isbary and W. Stolz and T. Shimizu and R. Monetti and W. Bunk and H.-U. Schmidt and G.E. Morfill and T.G. KlÃ€mpfl and B. Steffes and H.M. Thomas and J. Heinlin and S. Karrer and M. Landthaler and J.L. Zimmermann},
+  title =    {Cold atmospheric argon plasma treatment may accelerate wound healing in chronic wounds: Results of an open retrospective randomized controlled study in vivo },
+  journal =  {Clinical Plasma Medicine },
+  year =     {2013},
+  volume =   {1},
+  number =   {2},
+  pages =    {25 - 30},
+  abstract = {Abstract Previous studies reported a significant reduction in bacterial load in chronic wounds in patients with cold argon plasma. This open retrospective study evaluated effects on wound healing in vivo using the MicroPlaSter alpha device, with wound healing a secondary endpoint. Chronic wounds of various etiologies in 70 patients (Group A) were treated with plasma for 3â7 min. Wound dimensions before and after treatment were compared for plasma-treated and control wounds. Subgroup analyses were performed for all chronic venous ulcers (n=27, Group B) and 5 min plasma treatment of chronic venous ulcers (n=18, Group C). Patient acted as own control. In Group A plasma-treated wounds showed a greater reduction in width and length than control wounds. Reduction rates were non-significant. In Group B a significantly greater reduction in width was measured in plasma-treated ulcers compared to controls, but not in ulcer length. Group C showed again a significant reduction in width with plasma treatment but not in ulcer length. This study suggests that wound healing may be accelerated, particularly for chronic venous ulcers. },
+  doi =      {http://dx.doi.org/10.1016/j.cpme.2013.06.001},
+  issn =     {2212-8166},
+  keywords = {Plasma},
+  url =      {http://www.sciencedirect.com/science/article/pii/S2212816613000188}
+}
+
+@Article{Isbary2013nonthermal,
+  author =   {G. Isbary and J.L. Zimmermann and T. Shimizu and Y.-F. Li and G.E. Morfill and H.M. Thomas and B. Steffes and J. Heinlin and S. Karrer and W. Stolz},
+  title =    {Non-thermal plasmaâMore than five years of clinical experience },
+  journal =  {Clinical Plasma Medicine },
+  year =     {2013},
+  volume =   {1},
+  number =   {1},
+  pages =    {19 - 23},
+  abstract = {Non-thermal plasma technology emerged the medical field in an age of increasing bacterial and fungal resistance and global concerns about hygiene in different health care settings. Thus, the expectations regarding this new promising tool are very high. After teething problems different non-thermal plasma technologies were developed and used in different clinical trials in patients possessing chronic and acute wounds, diverse skin and itching diseases. The results from these trials and the preceding in vitro and ex vivo experiments opened up new fields of applications, which one had not thought of before. More than 5 years of clinical experience so far demonstrated that this plasma technology could be applied in a safe and effective setting to human beings. However, the potential and knowledge is far from being completely exhausted. },
+  doi =      {http://dx.doi.org/10.1016/j.cpme.2012.11.001},
+  issn =     {2212-8166},
+  keywords = {Plasma medicine},
+  url =      {http://www.sciencedirect.com/science/article/pii/S2212816612000030}
+}
+
+@Book{Janev2012elementary,
+  title =     {Elementary processes in hydrogen-helium plasmas: cross sections and reaction rate coefficients},
+  publisher = {Springer Science \& Business Media},
+  year =      {2012},
+  author =    {Janev, Ratko K and Langer, William D and Douglass Jr, E and others},
+  volume =    {4}
+}
+
 @Book{Janeway2011,
   title =     {Janeway's Immunobiology},
   publisher = {Garland Science},
   year =      {2011},
   author =    {Kenneth Murphy},
   edition =   {8th}
+}
+
+@Article{Joshi2010control,
+  author =   {Suresh G. Joshi and Michelle Paff and Gary Friedman and Greg Fridman and Alexander Fridman and Ari D. Brooks},
+  title =    {Control of methicillin-resistant Staphylococcus aureus in planktonic form and biofilms: A biocidal efficacy study of nonthermal dielectric-barrier discharge plasma },
+  journal =  {American Journal of Infection Control },
+  year =     {2010},
+  volume =   {38},
+  number =   {4},
+  pages =    {293 - 301},
+  note =     {Special Issue: Multidrug-resistant Organisms },
+  abstract = {Background Bacterial contamination of surfaces with methicillin-resistant Staphylococcus aureus (MRSA) is a serious problem in the hospital environment and is responsible for significant nosocomial infections. The pathogenic contaminants form biofilms, which are difficult to treat with routine biocides. Thus, a continuous search for novel disinfection methods is essential for effective infection control measures. This demonstration of a novel technique for the control of virulent pathogens in planktonic form as well as in established biofilms may provide a progressive alternative to standard methodology. Methods We evaluated a novel technique of normal atmospheric nonthermal plasma known as floating-electrode dielectric-barrier discharge (FE-DBD) plasma against a control of planktonic and biofilm forms of Escherichia coli, S aureus, multidrug-resistant methicillin-resistant S aureus (MRSA) -95 (clinical isolate), -USA300, and -USA400, using widely accepted techniques such as colony count assay, LIVE/DEAD BacLight Bacterial Viability assay, and \{XTT\} (2,3-Bis(2-methoxy-4-nitro-5-sulfophenyl)-2H-tetrazolium-5-carboxanilide) assay. Results Exposure of free living planktonic forms of E coli, S aureus, and \{MRSA\} were rapidly inactivated by \{DBD\} plasma. Approximately 107 bacterial cells were completely (100%) killed, whereas 108 and 109 were reduced by approximately 90% to 95% and 40% to 45%, respectively, in less than 60 seconds (7.8 J/cm2) and completely disinfected in â€120 seconds. In established biofilms, the susceptibility of \{MRSA\} \{USA400\} was comparable with \{USA300\} but less susceptible than \{MRSA95\} (clinical isolate), S aureus, and E coli (P &lt; .05) to FE-DBD plasma, and plasma was able to kill \{MRSA\} more than 60% within 15 seconds (1.95 J/cm2). The killing responses were plasma exposure-time dependent, and cell density dependent. The plasma was able disinfect surfaces in a less than 120 seconds. Conclusion Application of \{DBD\} plasma can be a valuable decontamination technique for the removal of planktonic and biofilm-embedded bacteria such as \{MRSA\} -USA 300, -USA 400, methicillin-sensitive S aureus (MSSA), and E coli, the more common hospital contaminants. Of interest, E coli was more resistant than S aureus phenotypes. },
+  doi =      {http://dx.doi.org/10.1016/j.ajic.2009.11.002},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Joshi2010 Control of methicillin-resistant Staphylococcus aureus in planktonic form and biofilms- A biocidal efficacy study of nonthermal dielectric-barrier discharge plasma.pdf:PDF},
+  issn =     {0196-6553},
+  keywords = {Dielectric-Barrier Discharge plasma},
+  url =      {http://www.sciencedirect.com/science/article/pii/S0196655309009377}
+}
+
+@Article{Joshi2011nonthermal,
+  author =   {Joshi, Suresh G. and Cooper, Moogega and Yost, Adam and Paff, Michelle and Ercan, Utku K. and Fridman, Gregory and Friedman, Gary and Fridman, Alexander and Brooks, Ari D.},
+  title =    {Nonthermal Dielectric-Barrier Discharge Plasma-Induced Inactivation Involves Oxidative {DNA} Damage and Membrane Lipid Peroxidation in {E}scherichia coli},
+  journal =  {Antimicrobial Agents and Chemotherapy},
+  year =     {2011},
+  volume =   {55},
+  number =   {3},
+  pages =    {1053-1062},
+  abstract = {Oxidative stress leads to membrane lipid peroxidation, which yields products causing variable degrees of detrimental oxidative modifications in cells. Reactive oxygen species (ROS) are the key regulators in this process and induce lipid peroxidation in Escherichia coli. Application of nonthermal (cold) plasma is increasingly used for inactivation of surface contaminants. Recently, we reported a successful application of nonthermal plasma, using a floating-electrode dielectric-barrier discharge (FE-DBD) technique for rapid inactivation of bacterial contaminants in normal atmospheric air (S. G. Joshi et al., Am. J. Infect. Control 38:293-301, 2010). In the present report, we demonstrate that FE-DBD plasma-mediated inactivation involves membrane lipid peroxidation in E. coli. Dose-dependent ROS, such as singlet oxygen and hydrogen peroxide-like species generated during plasma-induced oxidative stress, were responsible for membrane lipid peroxidation, and ROS scavengers, such as α-tocopherol (vitamin E), were able to significantly inhibit the extent of lipid peroxidation and oxidative DNA damage. These findings indicate that this is a major mechanism involved in FE-DBD plasma-mediated inactivation of bacteria.},
+  doi =      {10.1128/AAC.01002-10},
+  eprint =   {http://aac.asm.org/content/55/3/1053.full.pdf+html},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Joshi2011 Nonthermal Dielectric-Barrier Discharge Plasma-Induced Inactivation Involves Oxidative DNA Damage and Membrane Lipid Peroxidation in Escherichia coli.pdf:PDF},
+  url =      {http://aac.asm.org/content/55/3/1053.abstract}
+}
+
+@Article{Kammerlander2011a,
+  author =   {G.Kammerlander and O.Assadian and T.Eberlein and P.Zweitmuller and S.Luchsinger and A.Andriessen},
+  title =    {A clinical evaluation of the effcacy and safety of singlet oxygen in cleansing and disinfecting stagnating wounds},
+  journal =  {Journal of Wound Care},
+  year =     {2011},
+  volume =   {20},
+  number =   {4},
+  pages =    {149-158},
+  note =     {PMID: 21537301},
+  abstract = { Objective: This cohort study evaluated the clinical efficacy of singlet oxygen, ActiMaris (AM) a hypertonic (3\%) ionised (pH 9.8) sea water solution. It was assumed that when used for wound cleansing, disinfection and the reduction of inflammation, AM would be safe and effective. Method: Between May 2008 and May 2009, ambulant patients presenting at one of four wound healing centres were included in the study. Patients had critically colonised and/or infected, malodorous wounds, covered with slough/fibrin or wounds showing inflammation of the periwound skin. Wounds were assessed in terms of percentage changes in fibrin, slough and granulation tissue, they were assessed clinically and high resolution digital photographs were scored by a physician who was blinded to treatment allocation. Results were compared at baseline (week 0) and following 42 days of AM treatment (week 6). Results: Seventy-three patients were included in the analysis. Dressing changes were at 2-day intervals on average, and the median treatment period was 46.04 days (range: 3â197). At 42 days, 33\% (n=24) of included wounds had healed, 57\% (n=42) had improved and 10\% (n=7) remained stagnant. Cleansing and wound disinfection with AM was effective. In 31 patients (42\%) wounds had showed clinical signs and symptoms of critical colonisation and/or infection at day 0, whereas at day 42 the infection was completely eradicated. Inflammation was reduced in 60\% (n=44) of cases and patients did not report pain or discomfort when using AM. Conclusion: The use of singlet oxygen was shown to be safe and the results of this study indicate AM to be useful for wound cleansing, disinfection, reducing inflammation and promoting wound healing. Confict of interest: The centres were supplied with the study product by the sponsor. The authors have no financial interest in writing this article. },
+  doi =      {10.12968/jowc.2011.20.4.149},
+  eprint =   { http://dx.doi.org/10.12968/jowc.2011.20.4.149 },
+  url =      { 
+        http://dx.doi.org/10.12968/jowc.2011.20.4.149
+    
+}
+}
+
+@Article{Kepp2011cell,
+  author =    {Kepp, Oliver and Galluzzi, Lorenzo and Lipinski, Marta and Yuan, Junying and Kroemer, Guido},
+  title =     {Cell death assays for drug discovery},
+  journal =   {Nature reviews Drug discovery},
+  year =      {2011},
+  volume =    {10},
+  number =    {3},
+  pages =     {221--237},
+  publisher = {Nature Publishing Group}
+}
+
+@Article{Kihla2014risk,
+  author =    {Kihla, Akoachere Jane-Francis Tatah and Ngunde, Palle John and Mbianda, Soupsop Evelyn and Nkwelang, Gerard and Ndip, Roland Ndip},
+  title =     {Risk factors for wound infection in health care facilities in Buea, Cameroon: aerobic bacterial pathogens and antibiogram of isolates},
+  journal =   {Pan African Medical Journal},
+  year =      {2014},
+  volume =    {18},
+  number =    {1},
+  publisher = {African Field Epidemiology Network}
 }
 
 @Article{Kim2014,
@@ -262,6 +690,189 @@
   doi =      {10.1007/s11090-014-9538-0},
   issn =     {1572-8986},
   url =      {http://dx.doi.org/10.1007/s11090-014-9538-0}
+}
+
+@Article{Kojtari2014chemistry,
+  author =    {Kojtari, Arben and Ercan, Utku K and Smith, Josh and Friedman, Gary and Sensenig, Richard B and Tyagi, Somedev and Joshi, Suresh G and Ji, Hai-Feng and Brooks, Ari D},
+  title =     {Chemistry for antimicrobial properties of water treated with non-equilibrium plasma},
+  journal =   {Journal of Nanomedicine \& Biotherapeutic Discovery},
+  year =      {2014},
+  volume =    {2014},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Kojtari2013 Chemistry for Antimicrobial Properties of Water Treated With NonEquilibrium Plasma.pdf:PDF},
+  publisher = {OMICS International}
+}
+
+@Article{Kolb2008cold,
+  author =  {Kolb, J. F. and Mohamed, A.-A H. and Price, R. O. and Swanson, R. J. and Bowman, A. and Chiavarini, R. L. and Stacey, M. and Schoenbach, K. H.},
+  title =   {Cold atmospheric pressure air plasma jet for medical applications},
+  journal = {Applied Physics Letters},
+  year =    {2008},
+  volume =  {92},
+  number =  {24},
+  doi =     {http://dx.doi.org/10.1063/1.2940325},
+  eid =     {241501},
+  url =     {http://scitation.aip.org/content/aip/journal/apl/92/24/10.1063/1.2940325}
+}
+
+@Article{Kong2009plasma,
+  author =    {Kong, Michael G and Kroesen, G and Morfill, G and Nosenko, T and Shimizu, T and Van Dijk, J and Zimmermann, JL},
+  title =     {Plasma medicine: an introductory review},
+  journal =   {New Journal of Physics},
+  year =      {2009},
+  volume =    {11},
+  number =    {11},
+  pages =     {115012},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Kong2009 Plasma medicine- an introductory review.pdf:PDF},
+  publisher = {IOP Publishing}
+}
+
+@Article{Korachi2009an,
+  author =   {May Korachi and ZiÅan Turan and Kenan ÅentÃŒrk and Fikrettin Åahin and Necdet Aslan},
+  title =    {An investigation into the biocidal effect of high voltage AC/DC atmospheric corona discharges on bacteria, yeasts, fungi and algae },
+  journal =  {Journal of Electrostatics },
+  year =     {2009},
+  volume =   {67},
+  number =   {4},
+  pages =    {678 - 685},
+  abstract = {A newly developed, low cost plasma system that works at atmospheric pressure and operates with both \{DC\} or \{AC\} high voltage power supplies was presented. This system was tested for its biocidal effect on a wide range of micro-organisms in water. Optimal killing parameters such as time, temperature and \{AC\} and \{DC\} high voltage power levels were tested for bacteria (Escherichia coli, Staphylococcus aureus, Pseudomonas aeruginosa, Streptococcus mutans, Bacillus subtilis), yeast (Candida albicans), fungi (Aspergillus niger) and green algae. Results show this system to have a very efficient biocidal effect on most bacteria, algae and fungi in water. },
+  doi =      {http://dx.doi.org/10.1016/j.elstat.2009.03.002},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Korachi2009 An investigation into the biocidal effect of high voltage AC\:DC atmospheric corona discharges on bacteria, yeasts, fungi and algae.pdf:PDF},
+  issn =     {0304-3886},
+  keywords = {Plasma sterilization},
+  url =      {http://www.sciencedirect.com/science/article/pii/S0304388609001053}
+}
+
+@Article{Kramer2013suitability,
+  author =   {A. Kramer and J. Lademann and C. Bender and A. Sckell and B. Hartmann and S. MÃŒnch and P. Hinz and A. Ekkernkamp and R. Matthes and I. Koban and I. Partecke and C.D. Heidecke and K. Masur and S. Reuter and K.D. Weltmann and S. Koch and O. Assadian},
+  title =    {Suitability of tissue tolerable plasmas (TTP) for the management of chronic wounds },
+  journal =  {Clinical Plasma Medicine },
+  year =     {2013},
+  volume =   {1},
+  number =   {1},
+  pages =    {11 - 18},
+  abstract = {Abstract This review considers qualifying standards of wound management, explains the hypothesis for the applicability of tissue tolerable plasma (TTP) and lists the \{TTP\} effects relevant for wound healing. \{TTP\} fulfils these requirements in-vitro and in-vivo together with its demonstrated good tissue tolerability. Cases of treatment of chronic wounds in pets are presented which healed by \{TTP\} in combination with polihexanide or octenidine within 3 to 24 weeks. It may be concluded that \{TTP\} is a new option for the treatment of chronic wounds. },
+  doi =      {http://dx.doi.org/10.1016/j.cpme.2013.03.002},
+  issn =     {2212-8166},
+  keywords = {Tissue Tolerable Plasmas (TTP)},
+  url =      {http://www.sciencedirect.com/science/article/pii/S2212816613000048}
+}
+
+@Article{Lademann2013risk,
+  author =   {J. Lademann and C. Ulrich and A. Patzelt and H. Richter and F. Kluschke and M. Klebes and O. Lademann and A. Kramer and K.D. Weltmann and B. Lange-Asschenfeldt},
+  title =    {Risk assessment of the application of tissue-tolerable plasma on human skin },
+  journal =  {Clinical Plasma Medicine },
+  year =     {2013},
+  volume =   {1},
+  number =   {1},
+  pages =    {5 - 10},
+  abstract = {The results of the risk assessment of the tissue-tolerable plasma (TTP) jet kINPen medÂ® and first results of pilot clinical studies are presented. Producing an atmospheric pressure plasma, this plasma jet entails no risk for humans in terms of temperature increase, \{UV\} radiation or free radical formation by the plasma. The antiseptic efficacy in vitro on porcine skin and in vivo on human skin was compared to that of octenidine. \{TTP\} could significantly reduce the bacterial load in comparison to untreated skin. However, the slightly reduced antiseptic properties of \{TTP\} are attributed to the current parameter set-up and technical limitations. },
+  doi =      {http://dx.doi.org/10.1016/j.cpme.2013.01.001},
+  issn =     {2212-8166},
+  keywords = {Skin antisepsis},
+  url =      {http://www.sciencedirect.com/science/article/pii/S2212816613000024}
+}
+
+@Article{Laroussi1999images,
+  author =   {M. Laroussi and G. S. Sayler and B. B. Glascock and B. McCurdy and M. E. Pearce and N. G. Bright and C. M. Malott},
+  title =    {Images of biological samples undergoing sterilization by a glow discharge at atmospheric pressure},
+  journal =  {IEEE Transactions on Plasma Science},
+  year =     {1999},
+  volume =   {27},
+  number =   {1},
+  pages =    {34-35},
+  month =    {Feb},
+  doi =      {10.1109/27.763016},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Laroussi1999images.pdf:PDF},
+  issn =     {0093-3813},
+  keywords = {biological techniques;glow discharges;microorganisms;plasma applications;plasma pressure;E. coli population;Escherichia coli bacteria;Luria-Bertani broth;atmospheric pressure;bacteria;biological applications;biological samples;complete kill;exposure time;gas;glow discharge;liquid medium;plasma power density;plasma treatment;sterilization;strain PER 322;tetracycline;treatment time;Atmospheric-pressure plasmas;Dielectrics;Electrodes;Glow discharges;Helium;Microorganisms;Plasma applications;Plasma density;Plasma temperature;Voltage}
+}
+
+@Article{Laroussi2002nonthermal,
+  author =   {M. Laroussi},
+  title =    {Nonthermal decontamination of biological media by atmospheric-pressure plasmas: review, analysis, and prospects},
+  journal =  {IEEE Transactions on Plasma Science},
+  year =     {2002},
+  volume =   {30},
+  number =   {4},
+  pages =    {1409-1415},
+  month =    {Aug},
+  doi =      {10.1109/TPS.2002.804220},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Laroussi2002 Nonthermal Decontamination of Biological Media by Atmospheric-Pressure Plasmas- Review, Analysis, and Prospects.pdf:PDF},
+  issn =     {0093-3813},
+  keywords = {biological effects of radiation;biological techniques;corona;discharges (electric);microorganisms;plasma applications;UV radiation;analysis;atmospheric-pressure plasma jet;atmospheric-pressure plasmas;bacteria;barrier discharge;biological media;cold plasmas;corona discharge;diffuse dielectric-barrier discharge;electrical discharge;germicidal effects;inactivation kinetics;micro-organism;nonequilibrium discharge devices;nonequilibrium plasmas;nonthermal decontamination;prospects;review;water disinfection;Atmospheric-pressure plasmas;Chemical processes;Corona;Decontamination;Dielectric devices;Kinetic theory;Microorganisms;Plasma applications;Plasma chemistry;Plasma devices}
+}
+
+@Article{Laroussi2003plasma,
+  author =   {M Laroussi and D A Mendis and M Rosenberg},
+  title =    {Plasma interaction with microbes},
+  journal =  {New Journal of Physics},
+  year =     {2003},
+  volume =   {5},
+  number =   {1},
+  pages =    {41},
+  abstract = {The germicidal effects of a non-equilibrium atmospheric pressure plasma generated by a novel resistive barrier discharge on representatives of the two classes of bacteria (Gram-negative and Gram-positive) are discussed. The plasma exposure, while being lethal to both bacterial classes, also produced gross structural damage in the Gram-negative E.Â coli while none was observed in the more structurally robust Gram-positive Bacillus subtilis . An electrophysical process involving the role of the electrostatic tension on a charged body in a plasma is invoked to explain both observations. Since the efficacy of this electrophysical process depends not only on the tensile strength of the bacterial cell wall but also on its shape and texture, the need for more experimental studies, using a wide range of bacteria belonging to various morphological groups, is suggested. Ways to further test the validity of this electrophysical lysis mechanism for Gram-negative bacteria on one hand, and also to extend its operation to the more robust Gram-positive bacteria on the other, are suggested.},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Laroussi2003 Plasma interaction with microbes.pdf:PDF},
+  url =      {http://stacks.iop.org/1367-2630/5/i=1/a=341}
+}
+
+@Article{Laroussi2004evaluation,
+  author =   {M. Laroussi and F. Leipold},
+  title =    {Evaluation of the roles of reactive species, heat, and \{UV\} radiation in the inactivation of bacterial cells by air plasmas at atmospheric pressure },
+  journal =  {International Journal of Mass Spectrometry},
+  year =     {2004},
+  volume =   {233},
+  number =   {1â3},
+  pages =    {81 - 86},
+  note =     {Special Issue: In honour of Tilmann Mark },
+  abstract = {Recently, non-equilibrium, atmospheric pressure air plasmas have been shown to possess excellent germicidal properties. A number of studies have shown that air plasmas are capable of inactivating a wide range of microorganisms in the matter of few seconds to few minutes. However, until now little information regarding quantitative measurements of the various plasma agents that can potentially participate in the inactivation process has been published. In this paper, emission spectroscopy and gas detection are used to evaluate important plasma inactivation factors such as \{UV\} radiation and reactive species. Our measurements show that for non-equilibrium, atmospheric pressure air plasmas, it is the oxygen-based and nitrogen-based reactive species that play the most important role in the inactivation process. },
+  doi =      {http://dx.doi.org/10.1016/j.ijms.2003.11.016},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Laroussi2004 Evaluation of the roles of reactive species, heat, and UV radiation in the inactivation of bacterial cells by air plasmas at atmospheric pressure.pdf:PDF},
+  issn =     {1387-3806},
+  keywords = {Microorganism},
+  url =      {http://www.sciencedirect.com/science/article/pii/S138738060400003X}
+}
+
+@Article{Laroussi2005low,
+  author =    {Laroussi, Mounir},
+  title =     {Low temperature plasma-based sterilization: overview and state-of-the-art},
+  journal =   {Plasma processes and polymers},
+  year =      {2005},
+  volume =    {2},
+  number =    {5},
+  pages =     {391--400},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Laroussi2005 Low Temperature Plasma-Based Sterilization- Overview and State-of-the-Art.pdf:PDF},
+  publisher = {Wiley Online Library}
+}
+
+@Article{Lin2012development,
+  author =   {K.-M. Lin and C.-T. Hung and F.-N. Hwang and M.R. Smith and Y.-W. Yang and J.-S. Wu},
+  title =    {Development of a parallel semi-implicit two-dimensional plasma fluid modeling code using finite-volume method },
+  journal =  {Computer Physics Communications },
+  year =     {2012},
+  volume =   {183},
+  number =   {6},
+  pages =    {1225 - 1236},
+  abstract = {In this paper, the development of a two-dimensional plasma fluid modeling code using the cell-centered finite-volume method and its parallel implementation on distributed memory machines is reported. Simulated discharge currents agree very well with the measured data in a planar dielectric barrier discharge (DBD). Parallel performance of simulating helium \{DBD\} solved by the different degrees of overlapping of additive Schwarz method (ASM) preconditioned generalized minimal residual method (GMRES) for different modeling equations is investigated for a small and a large test problem, respectively, employing up to 128 processors. For the large test problem, almost linear speedup can be obtained by using up to 128 processors. Finally, a large-scale realistic two-dimensional \{DBD\} problem is employed to demonstrate the capability of the developed fluid modeling code for simulating the low-temperature plasma with complex chemical reactions. },
+  doi =      {http://dx.doi.org/10.1016/j.cpc.2012.02.001},
+  issn =     {0010-4655},
+  keywords = {Additive Schwarz method (ASM)},
+  url =      {http://www.sciencedirect.com/science/article/pii/S0010465512000501}
+}
+
+@Article{Liu2010inactivation,
+  author =    {Liu, Fuxiang and Sun, Peng and Bai, Na and Tian, Ye and Zhou, Haixia and Wei, Shicheng and Zhou, Yanheng and Zhang, Jue and Zhu, Weidong and Becker, Kurt and Fang, Jing},
+  title =     {Inactivation of Bacteria in an Aqueous Environment by a Direct-Current, Cold-Atmospheric-Pressure Air Plasma Microjet},
+  journal =   {Plasma Processes and Polymers},
+  year =      {2010},
+  volume =    {7},
+  number =    {3-4},
+  pages =     {231--236},
+  doi =       {10.1002/ppap.200900070},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Liu2010 Inactivation of Bacteria in an AqueousEnvironment by a Direct-Current, Cold-Atmospheric-Pressure Air Plasma Microjet.pdf:PDF},
+  issn =      {1612-8869},
+  keywords =  {bacteria, cell membranes, cold plasma, plasma microjets},
+  publisher = {WILEY-VCH Verlag},
+  url =       {http://dx.doi.org/10.1002/ppap.200900070}
 }
 
 @Article{Ma2014,
@@ -279,6 +890,56 @@
   url =       {http://dx.doi.org/10.1371%2Fjournal.pone.0091947}
 }
 
+@Article{Markosyan2014PumpKin,
+  author =   {A.H. Markosyan and A. Luque and F.J. Gordillo-VÃ¡zquez and U. Ebert},
+  title =    {PumpKin: A tool to find principal pathways in plasma chemical models },
+  journal =  {Computer Physics Communications },
+  year =     {2014},
+  volume =   {185},
+  number =   {10},
+  pages =    {2697 - 2702},
+  abstract = {Abstract PumpKin is a software package to find all principal pathways, i.e.Â the dominant reaction sequences, in chemical reaction systems. Although many tools are available to integrate numerically arbitrarily complex chemical reaction systems, few tools exist in order to analyze the results and interpret them in relatively simple terms. In particular, due to the large disparity in the lifetimes of the interacting components, it is often useful to group reactions into pathways that recycle the fastest species. This allows a researcher to focus on the slow chemical dynamics, eliminating the shortest timescales. Based on the algorithm described by Lehmann (2004), PumpKin automates the process of finding such pathways, allowing the user to analyze complex kinetics and to understand the consumption and production of a certain species of interest. We designed PumpKin with an emphasis on plasma chemical systems but it can also be applied to atmospheric modeling and to industrial applications such as plasma medicine and plasma-assisted combustion. Program Summary Program title: PumpKin Catalogue identifier: AETG_v1_0 Program summary URL:http://cpc.cs.qub.ac.uk/summaries/AETG_v1_0.html Program obtainable from: \{CPC\} Program Library, Queenâs University, Belfast, N. Ireland Licensing provisions: Standard \{CPC\} licence, http://cpc.cs.qub.ac.uk/licence/licence.html No. of lines in distributed program, including test data, etc.: 18753 No. of bytes in distributed program, including test data, etc.: 7011133 Distribution format: tar.gz Programming language: C + + . Computer: All computers with a C/C + + compiler. Operating system: All platforms with a C/C + + compiler. Classification: 16.12, 16.14, 19.11, 19.8. External routines: \{GLPK\} (GNU linear programming kit) Nature of problem: Analyzing complex chemical models. Solution method: Combining reactions into pathways that recycle short-lived species Running time: Runtime depends on the input files sizes and userâs configuration. For typical use cases we estimate runtime in the order of minutes. },
+  doi =      {http://dx.doi.org/10.1016/j.cpc.2014.05.019},
+  issn =     {0010-4655},
+  keywords = {PumpKin},
+  url =      {http://www.sciencedirect.com/science/article/pii/S0010465514001842}
+}
+
+@Article{Martens2007computer,
+  author =   {Martens, Tom and Bogaerts, Annemie and Brok, Wouter and van Dijk, Jan},
+  title =    {Computer simulations of a dielectric barrier discharge used for analytical spectrometry},
+  journal =  {Analytical and Bioanalytical Chemistry},
+  year =     {2007},
+  volume =   {388},
+  number =   {8},
+  pages =    {1583--1594},
+  abstract = {A model developed for a dielectric barrier discharge (DBD) in helium, used as a new spectroscopic source in analytical chemistry, is presented in this paper. The model is based on the fluid approach and describes the behavior of electrons, He+ and                                                                           {\$}{\$}{\{}{\backslash}text{\{}He{\}}{\}}^{\{} + {\}}{\_}{\{}2{\}} {\$}{\$}                 ions, He metastable atoms, He atoms in higher excited levels, and He2 dimers. The He ground-state atoms are regarded as background gas. The characteristic effect of charging/discharging of the dielectrics which cover both electrodes is also simulated. Typical results of the model include the distribution of potential inside the plasma (and the potential drop across the dielectrics), the electric current and gap voltage as a function of time for a given applied potential profile, the spatial and temporal number-density profiles of the different plasma species, and the relative contributions of the mechanisms of their production and loss.},
+  doi =      {10.1007/s00216-007-1269-0},
+  issn =     {1618-2650},
+  url =      {http://dx.doi.org/10.1007/s00216-007-1269-0}
+}
+
+@Misc{MattekWebsite,
+  author = {https://www.mattek.com/product-category/tissue-models/epidermft/},
+  title =  {Accessed 30/08/2016},
+  url =    {https://www.mattek.com/product-category/tissue-models/epidermft/}
+}
+
+@Article{Mendis2000a,
+  author =   {D. A. Mendis and M. Rosenberg and F. Azam},
+  title =    {A note on the possible electrostatic disruption of bacteria},
+  journal =  {IEEE Transactions on Plasma Science},
+  year =     {2000},
+  volume =   {28},
+  number =   {4},
+  pages =    {1304-1306},
+  month =    {Aug},
+  doi =      {10.1109/27.893321},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Mendis2000 A Note on the Possible Electrostatic Disruption of Bacteria.pdf:PDF},
+  issn =     {0093-3813},
+  keywords = {biological effects of fields;biomembranes;cellular biophysics;electrostatics;glow discharges;microorganisms;scanning electron microscopy;tensile strength;transmission electron microscopy;Escherichia coli;bacteria;bacterium;cell disruption;cells;electrophysical mechanism;electrostatic charge;electrostatic disruption;electrostatic stress;outer cell membranes;physical disruption;plasma glow discharges;scanning electron photomicrographs;sterilisation;surface irregularity;surface roughness;tensile strength;transmission electron photomicrographs;Atmospheric modeling;Atmospheric-pressure plasmas;Biomembranes;Cells (biology);Electrons;Electrostatics;Glow discharges;Microorganisms;Rough surfaces;Tensile stress}
+}
+
 @Article{Miller2007,
   author =  {Miller, Johanna},
   title =   {Time-resolved electric-field measurements probe plasma breakdown},
@@ -292,7 +953,19 @@
   url =     {http://scitation.aip.org/content/aip/magazine/physicstoday/article/60/5/10.1063/1.2743113}
 }
 
-@Article{Niemi2013,
+@Article{Moreau2008nonthermal,
+  author =    {Moreau, M and Orange, N and Feuilloley, MGJ},
+  title =     {Non-thermal plasma technologies: new tools for bio-decontamination},
+  journal =   {Biotechnology advances},
+  year =      {2008},
+  volume =    {26},
+  number =    {6},
+  pages =     {610--617},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Moreau2008 Non-thermal plasma technologies- New tools for bio-decontamination.pdf:PDF},
+  publisher = {Elsevier}
+}
+
+@Article{Niemi2013absolute,
   author =  {Niemi, K. and O'Connell, D. and de Oliveira, N. and Joyeux, D. and Nahon, L. and Booth, J. P. and Gans, T.},
   title =   {Absolute atomic oxygen and nitrogen densities in radio-frequency driven atmospheric pressure cold plasmas: Synchrotron vacuum ultra-violet high-resolution Fourier-transform absorption measurements},
   journal = {Applied Physics Letters},
@@ -305,6 +978,19 @@
   url =     {http://scitation.aip.org/content/aip/journal/apl/103/3/10.1063/1.4813817}
 }
 
+@Article{Olofsson2016fighting,
+  author =   {Olofsson, Tobias C. and Butler, {\'E}ile and Lindholm, Christina and Nilson, Bo and Michanek, Per and V{\'a}squez, Alejandra},
+  title =    {Fighting Off Wound Pathogens in Horses with Honeybee Lactic Acid Bacteria},
+  journal =  {Current Microbiology},
+  year =     {2016},
+  pages =    {1--11},
+  abstract = {In the global perspective of antibiotic resistance, it is urgent to find potent topical antibiotics for the use in human and animal infection. Healing of equine wounds, particularly in the limbs, is difficult due to hydrostatic factors and exposure to environmental contaminants, which can lead to heavy bio-burden/biofilm formation and sometimes to infection. Therefore, antibiotics are often prescribed. Recent studies have shown that honeybee-specific lactic acid bacteria (LAB), involved in honey production, and inhibit human wound pathogens. The aim of this pilot study was to investigate the effects on the healing of hard-to-heal equine wounds after treatment with these LAB symbionts viable in a heather honey formulation. For this, we included ten horses with wound duration of >1Â year, investigated the wound microbiota, and treated wounds with the novel honeybee LAB formulation. We identified the microbiota using MALDI-TOF mass spectrometry and DNA sequencing. In addition, the antimicrobial properties of the honeybee LAB formulation were tested against all wound isolates in vitro. Our results indicate a diverse wound microbiota including fifty-three bacterial species that showed 90Â {\%} colonization by at least one species of Staphylococcus. Treatment with the formulation promoted wound healing in all cases already after the first application and the wounds were either completely healed (nÂ =Â 3) in less than 20Â days or healing was in progress. Furthermore, the honeybee LAB formulation inhibited all pathogens when tested in vitro. Consequently, this new treatment option presents as a powerful candidate for the topical treatment of hard-to-heal wounds in horses.},
+  doi =      {10.1007/s00284-016-1080-2},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Olofsson2016 Fighting Off Wound Pathogens in Horses with Honeybee Lactic Acid Bacteria.pdf:PDF},
+  issn =     {1432-0991},
+  url =      {http://dx.doi.org/10.1007/s00284-016-1080-2}
+}
+
 @InProceedings{Ono1998,
   author =       {Ono, Ryo and Oda, Tetsuji},
   title =        {Measurement of hydroxyl radicals in an atmospheric pressure discharge plasma by using laser-induced fluorescence},
@@ -314,6 +1000,18 @@
   pages =        {1777--1783},
   organization = {IEEE},
   file =         {:/Users/hld523/Google Drive/Rotation 1 Plasmaaaa/Papers/Ono1998 Measurement of Hydroxyl Radicals in an Atmospheric Pressure Discharge Plasma by Using Laser-Induced Fluorescence .pdf:PDF}
+}
+
+@Article{Pastar2014epithelialization,
+  author =    {Pastar, Irena and Stojadinovic, Olivera and Yin, Natalie C and Ramirez, Horacio and Nusbaum, Aron G and Sawaya, Andrew and Patel, Shailee B and Khalid, Laiqua and Isseroff, Rivkah R and Tomic-Canic, Marjana},
+  title =     {Epithelialization in wound healing: a comprehensive review},
+  journal =   {Advances in wound care},
+  year =      {2014},
+  volume =    {3},
+  number =    {7},
+  pages =     {445--464},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Pastar2013 Epithelialization in Wound Healing- A Comprehensive Review.pdf:PDF},
+  publisher = {Mary Ann Liebert, Inc. 140 Huguenot Street, 3rd Floor New Rochelle, NY 10801 USA}
 }
 
 @Article{PhamHuy2008,
@@ -338,6 +1036,78 @@
   publisher = {Springer}
 }
 
+@Book{PlasmaMedicineLaroussi,
+  title =     {Plasma Medicine},
+  publisher = {Cambridge University Press},
+  year =      {2012},
+  author =    {Laroussi, M. and Kong, M.G. and Morfill, G. and Stolz, W.}
+}
+
+@Article{Pompl2009the,
+  author =   {Rene Pompl and Ferdinand Jamitzky and Tetsuji Shimizu and Bernd Steffes and Wolfram Bunk and Hans-Ulrich Schmidt and Matthias Georgi and Katrin Ramrath and Wilhelm Stolz and Robert W Stark and Takuya Urayama and Shuitsu Fujii and Gregor Eugen Morfill},
+  title =    {The effect of low-temperature plasma on bacteria as observed by repeated AFM imaging},
+  journal =  {New Journal of Physics},
+  year =     {2009},
+  volume =   {11},
+  number =   {11},
+  pages =    {115023},
+  abstract = {Research on low-temperature atmospheric plasma sources (LTAPS) has grown strongly over the last few years, in part driven by possible medical ' inÂ vivo ' applications. LTAPS offer new technology for medicine and biomedical engineering. Important application examples include in situ production of reactive molecules and ions, delivery at the molecular level, contact-free and self-sterilizing devices. An important issue is the efficient bactericidal effect of LTAPS, which has already been studied widely in vitro . In spite of the many investigations, details of the plasma effect on bacteria are still largely unknown. To contribute to a better understanding of the sterilization process, we investigated the morphological changes of bacteria using atomic force microscopy before and after plasma treatment at high resolution. We examined both gram-positive and gram-negative bacteria at different plasma exposure times. Additionally, the effect of UV radiation as one agent in the plasma was investigated separately. Our results suggest that several sterilizing mechanisms exist and they proceed at different timescales.},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Pompl2009 The effect of low-temperature plasma on bacteria as observed by repeated AFM imaging.pdf:PDF},
+  url =      {http://stacks.iop.org/1367-2630/11/i=11/a=115023}
+}
+
+@Article{Posnett2008burden,
+  author =  {Posnett, John and Franks, PJ},
+  title =   {The burden of chronic wounds in the UK},
+  journal = {Diabetic Medicine},
+  year =    {2008},
+  volume =  {14},
+  number =  {5},
+  pages =   {S7--S85}
+}
+
+@Article{Pouvesle1988study,
+  author =  {Pouvesle, J. M. and Khacef, A. and Stevefelt, J. and Jahani, H. and Gylys, V. T. and Collins, C. B.},
+  title =   {Study of twoâbody and threeâbody channels for the reaction of metastable helium atoms with selected atomic and molecular species},
+  journal = {The Journal of Chemical Physics},
+  year =    {1988},
+  volume =  {88},
+  number =  {5},
+  pages =   {3061-3071},
+  doi =     {http://dx.doi.org/10.1063/1.453949},
+  url =     {http://scitation.aip.org/content/aip/journal/jcp/88/5/10.1063/1.453949}
+}
+
+@Article{Privatmaldonado2016spatial,
+  author =    {Privat-Maldonado, Angela and O'Connell, Deborah and Welch, Emma and Vann, Roddy and Woude, Marjan van der},
+  title =     {Spatial Dependence of DNA Damage in Bacteria due to Low-Temperature Plasma Application as Assessed at the Single Cell Level},
+  journal =   {Scientific Reports},
+  year =      {2016},
+  volume =    {6},
+  pages =     {35646},
+  month =     {10},
+  doi =       {10.1038/srep35646},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/PrivatMaldonado2016 Spatial Dependence of DNA Damage in Bacteria due to LowTemperature Plasma Application as Assessed at the Single Cell Level.pdf:PDF},
+  issn =      {2045-2322},
+  publisher = {Nature Publishing Group},
+  url =       {http:https://dx.doi.org/10.1038/srep35646}
+}
+
+@InBook{Rasmussen2013classical,
+  pages =     {161--175},
+  title =     {Classical Human Epidermal Keratinocyte Cell Culture},
+  publisher = {Humana Press},
+  year =      {2013},
+  author =    {Rasmussen, Cathy and Thomas-Virnig, Christina and Allen-Hoffmann, B. Lynn},
+  editor =    {Randell, H. Scott and Fulcher, Leslie M.},
+  address =   {Totowa, NJ},
+  booktitle = {Epithelial Cell Culture Protocols: Second Edition},
+  doi =       {10.1007/978-1-62703-125-7_11},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Rasmussen2012 Classical Human Epidermal Keratinocyte Cell Culture .pdf:PDF},
+  isbn =      {978-1-62703-125-7},
+  url =       {http://dx.doi.org/10.1007/978-1-62703-125-7_11}
+}
+
 @Article{Reuter2015,
   author =   {Stephan Reuter and Joao Santos Sousa and Gabi Daniel Stancu and Jean-Pierre Hubertus van Helden},
   title =    {Review on VUV to MIR absorption spectroscopy of atmospheric pressure plasma jets},
@@ -351,11 +1121,38 @@
   url =      {http://stacks.iop.org/0963-0252/24/i=5/a=054001}
 }
 
-@InBook{Schroter2015,
+@Article{Savagner2005,
+  author =    {Savagner, Pierre and Kusewitt, Donna F. and Carver, Ethan A. and Magnino, Fabrice and Choi, Chagsun and Gridley, Thomas and Hudson, Laurie G.},
+  title =     {Developmental transcription factor slug is required for effective re-epithelialization by adult keratinocytes},
+  journal =   {Journal of Cellular Physiology},
+  year =      {2005},
+  volume =    {202},
+  number =    {3},
+  pages =     {858--866},
+  doi =       {10.1002/jcp.20188},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Savagner2005 Developmental Transcription Factor Slug Is Required for Effective Re-epithelialization by Adult Keratinocytes.pdf:PDF},
+  issn =      {1097-4652},
+  publisher = {Wiley Subscription Services, Inc., A Wiley Company},
+  url =       {http://dx.doi.org/10.1002/jcp.20188}
+}
+
+@InBook{Schroter2015atomic,
   title =     {Atomic oxygen and hydroxyl density measurements in an atmospheric pressure RF-plasma with water admixtures using UV and synchrotron VUV absorption spectroscopy},
   year =      {2015},
   author =    {Sandra Schr\"{o}ter and M. Foucher and Kari Niemi and Dedrick, {James Peter} and {de Oliveira}, Nelson and Denis Joyeux and Laurent Nahon and Erik Wagenaars and Timo Gans and Jean-Paul Booth and Deborah O'Connell},
   booktitle = {Proc 22nd ISPC}
+}
+
+@Article{Shimizu2013water,
+  author =   {K Shimizu and N Masamura and M Blajan},
+  title =    {Water Purification by Using Microplasma Treatment},
+  journal =  {Journal of Physics: Conference Series},
+  year =     {2013},
+  volume =   {441},
+  number =   {1},
+  pages =    {012005},
+  abstract = {Dielectric barrier discharge microplasma generated at the surface of water is proposed as a solution for water treatment. It is an economical and an ecological technology for water treatment due to its generation at atmospheric pressure and low discharge voltage. Microplasma electrodes were placed at small distance above the water thus active species and radicals were flown by the gas towards the water surface and furthermore reacted with the target to be decomposed. Indigo carmine was chosen as the target to be decomposed by the effect of active species and radicals generated between the electrodes. Air, oxygen, nitrogen and argon were used as discharge gases. Measurement of absorbance showed the decomposition of indigo carmine by microplasma treatment. Active species and radicals of oxygen origin so called ROS (reactive oxidative species) were considered to be the main factor in indigo carmine decomposition. The decomposition rate increased with the increase of the treatment time as shown by the spectrophotometer analysis. Discharge voltage also influenced the decomposition process.},
+  url =      {http://stacks.iop.org/1742-6596/441/i=1/a=012005}
 }
 
 @Article{SousaNCAGO2011,
@@ -371,9 +1168,77 @@
   url =     {http://scitation.aip.org/content/aip/journal/jap/109/12/10.1063/1.3601347}
 }
 
-@Article{Valko2007,
+@Article{Stafford2004O2,
+  author =  {Stafford, D. Shane and Kushner, Mark J.},
+  title =   {O2(Î1) production in HeâO2 mixtures in flowing low pressure plasmas},
+  journal = {Journal of Applied Physics},
+  year =    {2004},
+  volume =  {96},
+  number =  {5},
+  pages =   {2451-2465},
+  doi =     {http://dx.doi.org/10.1063/1.1768615},
+  url =     {http://scitation.aip.org/content/aip/journal/jap/96/5/10.1063/1.1768615}
+}
+
+@Article{Stevefelt1982reaction,
+  author =  {Stevefelt, J. and Pouvesle, J. M. and Bouchoule, A.},
+  title =   {Reaction kinetics of a high pressure helium fast discharge afterglow},
+  journal = {The Journal of Chemical Physics},
+  year =    {1982},
+  volume =  {76},
+  number =  {8},
+  pages =   {4006-4015},
+  doi =     {http://dx.doi.org/10.1063/1.443521},
+  url =     {http://scitation.aip.org/content/aip/journal/jcp/76/8/10.1063/1.443521;jsessionid=-gIap2B8-mEBavR1UwpCY8mr.x-aip-live-06}
+}
+
+@Article{sun2008n,
+  author =    {Sun, Yan and Dowd, Scot E and Smith, Ethan and Rhoads, Dan D and Wolcott, Randall D},
+  title =     {In vitro multispecies Lubbock chronic wound biofilm model},
+  journal =   {Wound repair and regeneration},
+  year =      {2008},
+  volume =    {16},
+  number =    {6},
+  pages =     {805--813},
+  file =      {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Sun2008 In vitro multispecies Lubbock chronic wound biofilm model.pdf:PDF},
+  publisher = {Wiley Online Library}
+}
+
+@Article{Twomey2011correlation,
+  author =   {Twomey, B. and Nindrayog, A. and Niemi, K. and Graham, W. G. and Dowling, D. P.},
+  title =    {Correlation Between the Electrical and Optical Properties of an Atmospheric Pressure Plasma During Siloxane Coating Deposition},
+  journal =  {Plasma Chemistry and Plasma Processing},
+  year =     {2011},
+  volume =   {31},
+  number =   {1},
+  pages =    {139--156},
+  abstract = {The effect of varying process parameters on atmospheric plasma characteristics and properties of nanometre thick siloxane coatings is investigated in a reel-to-reel deposition process. Varying plasma operation modes were observed with increasing applied power for helium and helium/oxygen plasmas. The electrical and optical behaviour of the dielectric barrier discharge were determined from current/voltage, emission spectroscopy and time resolved light emission measurements. As applied power increased, multiple discharge events occurred, producing a uniform multi-peak pseudoglow discharge, resulting in an increase in the discharge gas temperature. The effects of different operating modes on coating oxidation and growth rates were examined by injecting hexamethyldisiloxane liquid precursor into the chamber under varying operating conditions. A quenching effect on the plasma was observed, causing a decrease in plasma input power and emission intensity. Siloxane coatings deposited in helium plasmas had a higher organic component and higher growth rates than those deposited in helium/oxygen plasmas.},
+  doi =      {10.1007/s11090-010-9266-z},
+  issn =     {1572-8986},
+  url =      {http://dx.doi.org/10.1007/s11090-010-9266-z}
+}
+
+@Article{Valavanidis20098,
+  author =   {Athanasios Valavanidis and Thomais Vlachogianni and Constantinos Fiotakis},
+  title =    {8-hydroxy-2'-deoxyguanosine (8-{OHdG}): A Critical Biomarker of Oxidative Stress and Carcinogenesis},
+  journal =  {Journal of Environmental Science and Health, Part C},
+  year =     {2009},
+  volume =   {27},
+  number =   {2},
+  pages =    {120-139},
+  abstract = { There is extensive experimental evidence that oxidative damage permanently occurs to lipids of cellular membranes, proteins, and DNA. In nuclear and mitochondrial DNA, 8-hydroxy-2â² -deoxyguanosine (8-OHdG) or 8-oxo-7,8-dihydro-2â² -deoxyguanosine (8-oxodG) is one of the predominant forms of free radical-induced oxidative lesions, and has therefore been widely used as a biomarker for oxidative stress and carcinogenesis. Studies showed that urinary 8-OHdG is a good biomarker for risk assessment of various cancers and degenerative diseases. The most widely used method of quantitative analysis is high-performance liquid chromatography (HPLC) with electrochemical detection (EC), gas chromatography-mass spectrometry (GC-MS), and HPLC tandem mass spectrometry. In order to resolve the methodological problems encountered in measuring quantitatively 8-OHdG, the European Standards Committee for Oxidative DNA Damage was set up in 1997 to resolve the artifactual oxidation problems during the procedures of isolation and purification of oxidative DNA products. The biomarker 8-OHdG or 8-oxodG has been a pivotal marker for measuring the effect of endogenous oxidative damage to DNA and as a factor of initiation and promotion of carcinogenesis. The biomarker has been used to estimate the DNA damage in humans after exposure to cancer-causing agents, such as tobacco smoke, asbestos fibers, heavy metals, and polycyclic aromatic hydrocarbons. In recent years, 8-OHdG has been used widely in many studies not only as a biomarker for the measurement of endogenous oxidative DNA damage but also as a risk factor for many diseases including cancer. },
+  doi =      {10.1080/10590500902885684},
+  eprint =   { http://dx.doi.org/10.1080/10590500902885684 },
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Valavanidis2009 8-hydroxy-2′ -deoxyguanosine (8-OHdG)- A Critical Biomarker of Oxidative Stress and Carcinogenesis.pdf:PDF},
+  url =      { 
+        http://dx.doi.org/10.1080/10590500902885684
+    
+}
+}
+
+@Article{Valko2007free,
   author =   {Marian Valko and Dieter Leibfritz and Jan Moncol and Mark T.D. Cronin and Milan Mazur and Joshua Telser},
-  title =    {Free radicals and antioxidants in normal physiological functions and human disease },
+  title =    {Free radicals and antioxidants in normal physiological functions and human disease},
   journal =  {The International Journal of Biochemistry \& Cell Biology },
   year =     {2007},
   volume =   {39},
@@ -381,9 +1246,40 @@
   pages =    {44 - 84},
   abstract = {Reactive oxygen species (ROS) and reactive nitrogen species (RNS, e.g. nitric oxide, NO) are well recognised for playing a dual role as both deleterious and beneficial species. \{ROS\} and \{RNS\} are normally generated by tightly regulated enzymes, such as \{NO\} synthase (NOS) and NAD(P)H oxidase isoforms, respectively. Overproduction of \{ROS\} (arising either from mitochondrial electron-transport chain or excessive stimulation of NAD(P)H) results in oxidative stress, a deleterious process that can be an important mediator of damage to cell structures, including lipids and membranes, proteins, and DNA. In contrast, beneficial effects of ROS/RNS (e.g. superoxide radical and nitric oxide) occur at low/moderate concentrations and involve physiological roles in cellular responses to noxia, as for example in defence against infectious agents, in the function of a number of cellular signalling pathways, and the induction of a mitogenic response. Ironically, various ROS-mediated actions in fact protect cells against ROS-induced oxidative stress and re-establish or maintain âredox balanceâ termed also âredox homeostasisâ. The âtwo-facedâ character of \{ROS\} is clearly substantiated. For example, a growing body of evidence shows that \{ROS\} within cells act as secondary messengers in intracellular signalling cascades which induce and maintain the oncogenic phenotype of cancer cells, however, \{ROS\} can also induce cellular senescence and apoptosis and can therefore function as anti-tumourigenic species. This review will describe the: (i) chemistry and biochemistry of ROS/RNS and sources of free radical generation; (ii) damage to DNA, to proteins, and to lipids by free radicals; (iii) role of antioxidants (e.g. glutathione) in the maintenance of cellular âredox homeostasisâ; (iv) overview of ROS-induced signaling pathways; (v) role of \{ROS\} in redox regulation of normal physiological functions, as well as (vi) role of \{ROS\} in pathophysiological implications of altered redox regulation (human diseases and ageing). Attention is focussed on the ROS/RNS-linked pathogenesis of cancer, cardiovascular disease, atherosclerosis, hypertension, ischemia/reperfusion injury, diabetes mellitus, neurodegenerative diseases (Alzheimer's disease and Parkinson's disease), rheumatoid arthritis, and ageing. Topics of current debate are also reviewed such as the question whether excessive formation of free radicals is a primary cause or a downstream consequence of tissue injury. },
   doi =      {http://dx.doi.org/10.1016/j.biocel.2006.07.001},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Valko2007 Free radicals and antioxidants in normal physiological functions and human disease.pdf:PDF},
   issn =     {1357-2725},
   keywords = {Oxidative stress},
   url =      {http://www.sciencedirect.com/science/article/pii/S1357272506002196}
+}
+
+@Article{Velnar2009the,
+  author =   {Velnar, T and Bailey, T and Smrkolj, V},
+  title =    {The Wound Healing Process: An Overview of the Cellular and Molecular Mechanisms},
+  journal =  {Journal of International Medical Research},
+  year =     {2009},
+  volume =   {37},
+  number =   {5},
+  pages =    {1528-1542},
+  abstract = {Wound healing remains a challenging clinical problem and correct, efficient wound management is essential. Much effort has been focused on wound care with an emphasis on new therapeutic approaches and the development of technologies for acute and chronic wound management. Wound healing involves multiple cell populations, the extracellular matrix and the action of soluble mediators such as growth factors and cytokines. Although the process of healing is continuous, it may be arbitrarily divided into four phases: (i) coagulation and haemostasis; (ii) inflammation; (iii) proliferation; and (iv) wound remodelling with scar tissue formation. The correct approach to wound management may effectively influence the clinical outcome. This review discusses wound classification, the physiology of the wound healing process and the methods used in wound management.},
+  doi =      {10.1177/147323000903700531},
+  eprint =   {http://imr.sagepub.com/content/37/5/1528.full.pdf+html},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Velnar2009 The Wound Healing Process- an Overview of the Cellular and Molecular Mechanisms.pdf:PDF},
+  url =      {http://imr.sagepub.com/content/37/5/1528.abstract}
+}
+
+@Article{Wagenaars2011an,
+  author =   {E. Wagenaars and M. van der Woude and R. Vann},
+  title =    {An Atmospheric-Pressure Low-Temperature Plasma Jet for Growth Inhibition of Escherichia Coli},
+  journal =  {IEEE Transactions on Plasma Science},
+  year =     {2011},
+  volume =   {39},
+  number =   {11},
+  pages =    {2346-2347},
+  month =    {Nov},
+  doi =      {10.1109/TPS.2011.2153881},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Wagenaars2011 An Atmospheric-Pressure Low-Temperature Plasma Jet for Growth Inhibition of Escherichia Coli.pdf:PDF},
+  issn =     {0093-3813},
+  keywords = {biological effects of ionising radiation;cellular biophysics;microorganisms;plasma applications;plasma jets;plasma pressure;plasma temperature;Escherichia coli growth inhibition;atmospheric pressure plasma jet;discharge cycle;low temperature plasma jet;plasma bullet cell growth inhibition mechanisms;plasma bullet development;plasma bullet discharge behavior;pressure 1 atm;time resolved imaging;Discharges;Electrodes;Electron tubes;Glass;Imaging;Microorganisms;Plasmas;Atmospheric-pressure plasmas;biological interaction;plasma devices}
 }
 
 @Article{Wagenaars2012,
@@ -396,6 +1292,19 @@
   pages =    {042002},
   abstract = {The first direct measurements of atomic nitrogen species in a radio-frequency atmospheric-pressure plasma jet (APPJ) are presented. Atomic nitrogen radicals play a key role in new plasma medicine applications of APPJs. The measurements were performed with a two-photon absorption laser-induced fluorescence diagnostic, using 206.65Â nm laser photons for the excitation of ground-state N atoms and observing fluorescence light around 744Â nm. The APPJ was run with a helium gas flow of 1Â slm and varying small admixtures of molecular nitrogen of 0â0.7Â vol%. A maximum in the measured N concentration was observed for an admixture of 0.25Â vol% N 2 .},
   url =      {http://stacks.iop.org/0963-0252/21/i=4/a=042002}
+}
+
+@Article{Walsh2010three,
+  author =   {J L Walsh and F Iza and N B Janson and V J Law and M G Kong},
+  title =    {Three distinct modes in a cold atmospheric pressure plasma jet},
+  journal =  {Journal of Physics D: Applied Physics},
+  year =     {2010},
+  volume =   {43},
+  number =   {7},
+  pages =    {075201},
+  abstract = {Cold atmospheric pressure helium plasma jets are increasingly used in many processing applications, due to a distinct combination of their inherent plasma stability with excellent reaction chemistry often enhanced downstream. Despite their widespread usage, it remains largely unknown whether cold atmospheric plasma jets maintain similar characteristics from breakdown to arcing or whether they possess different operating modes. In addition to their known ability to produce a fast moving train of discrete luminous clusters along the jet length, commonly known as plasma bullets, this paper reports evidence of two additional modes of operation, namely a chaotic mode and a continuous mode in an atmospheric helium plasma jet. Through detailed electrical and optical characterization, it is shown that immediately following breakdown the plasma jet operates in a deterministic chaotic mode. With increasing input power, the discharge becomes periodic and the jet plasma is found to produce at least one strong plasma bullet every cycle of the applied voltage. Further increase in input power eventually leads to the continuous mode in which excited species are seen to remain within the inter-electrode space throughout the entire cycle of the applied voltage. Transition from the chaotic, through the bullet, to the continuous modes is abrupt and distinct, with each mode having a unique set of operating characteristics. For the bullet mode, direct evidence is presented to demonstrate that the evolution of the plasma jet involves a repeated sequence of generation, collapse and regeneration of the plasma head occurring at locations progressively towards the instantaneous cathode. These offer previously unavailable insight into plasma jet formation mechanisms and the potential of matching plasma jet modes to specific needs of a given processing application.},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Walsh2010 Three distinct modes in a cold atmospheric pressure plasma jet.pdf:PDF},
+  url =      {http://stacks.iop.org/0022-3727/43/i=7/a=075201}
 }
 
 @Article{Weltmann2009,
@@ -411,6 +1320,33 @@
   keywords =  {Atmospheric pressure},
   publisher = {WILEY-VCH Verlag},
   url =       {http://dx.doi.org/10.1002/ctpp.200910067}
+}
+
+@Article{Westgate2010chronic,
+  author =  {Westgate, Samantha J and Percival, Steven L and Knottenbelt, Derek C and Clegg, Peter D and Cochrane, Christine A},
+  title =   {﻿﻿﻿﻿Chronic equine wounds: what is the role of infection and biofilms?﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿.},
+  journal = {Wounds: a compendium of clinical research and practice},
+  year =    {2010},
+  volume =  {22},
+  number =  {6},
+  pages =   {138--145},
+  file =    {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Westgate2010Chronic Equine Wounds- What Is the Role of Infection and Biofilms.pdf:PDF}
+}
+
+@Article{Westgate2011microbiology,
+  author =   {S.J. Westgate and S.L. Percival and D.C. Knottenbelt and P.D. Clegg and C.A. Cochrane},
+  title =    {Microbiology of equine wounds and evidence of bacterial biofilms },
+  journal =  {Veterinary Microbiology },
+  year =     {2011},
+  volume =   {150},
+  number =   {1â2},
+  pages =    {152 - 159},
+  abstract = {Horse wounds have a high risk of becoming infected due to their environment. Infected wounds harbour diverse populations of microorganisms, however in some cases these microorganisms can be difficult to identify and fail to respond to antibiotic treatment, resulting in chronic non-healing wounds. In human wounds this has been attributed to the ability of bacteria to survive in a biofilm phenotypic state. Biofilms are known to delay wound healing, principally due to their recalcitrance towards antimicrobial therapies and components of the innate immune response. This study describes the presence of bacterial biofilms within equine wounds. Thirteen 8-mm diameter tissue samples were collected from (n = 18) chronic wounds. Following histological staining, samples were observed for evidence of biofilms. Fifty one wounds and control skin sites were sampled using sterile swabs. Control skin sites were on the uninjured side of the horse at the same anatomical location as the wound. The isolated bacteria were cultured aerobically and anaerobically. The biofilm forming potential of all the isolated bacteria was determined using a standard crystal violet microtitre plate assay. Stained tissue samples provided evidence of biofilms within 61.5% (8 out of 13) equine wounds. In total 340 bacterial isolates were identified from all the equine wound and skin samples. Pseudomonas aeruginosa and Enterococcus faecium were the most predominantly isolated bacterial species from equine wound and skin samples respectively. Staphylococcus was the most commonly isolated genus in both environments. Bacteria cultured from chronic and acute wounds showed significantly (P &lt; 0.05) higher biofilm forming potential than bacteria isolated from skin. This paper highlights preliminary evidence supporting the presence of biofilms and a high microbial diversity in equine chronic wounds. The presence of biofilms in equine wounds partly explains the reluctance of many lower limb wounds to heal. Non-healing limb wounds in horses are a well documented welfare and economic concern. This knowledge can be used to shape future treatments in order to increase the healing rate and decrease the costs and suffering associate with equine wounds. },
+  doi =      {http://dx.doi.org/10.1016/j.vetmic.2011.01.003},
+  file =     {:/Users/hld523/Google Drive/Plasmaaaaaaaaaaa/Papers/Westgate2011 Microbiology of equine wounds and evidence of bacterial biofilms.pdf:PDF},
+  issn =     {0378-1135},
+  keywords = {Biofilm},
+  url =      {http://www.sciencedirect.com/science/article/pii/S0378113511000071}
 }
 
 @Article{Zweier1988,
