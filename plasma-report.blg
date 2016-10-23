@@ -2,12 +2,13 @@ This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: plasma-report.aux
 The style file: unsrt.bst
-Database file #1: MyPapers.bib
-Warning--empty chapter and pages in Schroter2015
-Warning--empty publisher in Schroter2015
+Database file #1: /Users/hld523/Bibliography/MyPapers.bib
+Warning--I didn't find a database entry for "Schroter2015"
+Warning--empty chapter and pages in Schroter2015atomic
+Warning--empty publisher in Schroter2015atomic
 You've used 31 entries,
             1791 wiz_defined-function locations,
-            671 strings with 10909 characters,
+            673 strings with 11022 characters,
 and the built_in function-call counts, 7201 in all, are:
 = -- 571
 > -- 434
@@ -46,4 +47,4 @@ warning$ -- 2
 while$ -- 59
 width$ -- 33
 write$ -- 339
-(There were 2 warnings)
+(There were 3 warnings)

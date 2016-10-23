@@ -11,7 +11,7 @@ Denham Harman et~al.
 \newblock Aging: a theory based on free radical and radiation chemistry.
 \newblock {\em Journal of Gerontology}, 1955.
 
-\bibitem{Valko2007}
+\bibitem{Valko2007free}
 Marian Valko, Dieter Leibfritz, Jan Moncol, Mark~T.D. Cronin, Milan Mazur, and
   Joshua Telser.
 \newblock Free radicals and antioxidants in normal physiological functions and
@@ -73,7 +73,7 @@ Loucas~G Christophorou and James~K Olthoff.
 \newblock {\em Fundamental electron interactions with plasma processing gases}.
 \newblock Springer Science \& Business Media, 2012.
 
-\bibitem{Graves2012}
+\bibitem{Graves2012the}
 David~B Graves.
 \newblock The emerging role of reactive oxygen and nitrogen species in redox
   biology and some implications for plasma applications to medicine and
@@ -102,15 +102,6 @@ E~Wagenaars, T~Gans, D~O'Connell, and K~Niemi.
   atomic nitrogen in a radio-frequency atmospheric-pressure plasma jet.
 \newblock {\em Plasma Sources Science and Technology}, 21(4):042002, 2012.
 
-\bibitem{Schroter2015}
-Sandra Schr\"{o}ter, M.~Foucher, Kari Niemi, {James Peter} Dedrick, Nelson {de
-  Oliveira}, Denis Joyeux, Laurent Nahon, Erik Wagenaars, Timo Gans, Jean-Paul
-  Booth, and Deborah O'Connell.
-\newblock {\em Atomic oxygen and hydroxyl density measurements in an
-  atmospheric pressure RF-plasma with water admixtures using UV and synchrotron
-  VUV absorption spectroscopy}.
-\newblock 2015.
-
 \bibitem{Halliwell2007}
 B~Halliwell and J.M.C Gutteridge.
 \newblock {\em Free Radicals in Biology and Medicine}.
@@ -121,9 +112,9 @@ Seymour~Stanton Block.
 \newblock {\em Disinfection, sterilization, and preservation}.
 \newblock Lippincott Williams \& Wilkins, 2001.
 
-\bibitem{Dizdaroglu2012}
+\bibitem{Dizdaroglu2012oxidatively}
 Miral Dizdaroglu.
-\newblock Oxidatively induced \{DNA\} damage: Mechanisms, repair and disease.
+\newblock Oxidatively induced {DNA} damage: Mechanisms, repair and disease.
 \newblock {\em Cancer Letters}, 327(1–2):26 -- 47, 2012.
 \newblock Special Issue: Oxidative Stress-Based Cancer Biomarkers.
 
@@ -141,6 +132,15 @@ J~L Zweier, P~Kuppusamy, and G~A Lutty.
 \newblock {\em Proceedings of the National Academy of Sciences},
   85(11):4046--4050, 1988.
 
+\bibitem{Schroter2015atomic}
+Sandra Schr\"{o}ter, M.~Foucher, Kari Niemi, {James Peter} Dedrick, Nelson {de
+  Oliveira}, Denis Joyeux, Laurent Nahon, Erik Wagenaars, Timo Gans, Jean-Paul
+  Booth, and Deborah O'Connell.
+\newblock {\em Atomic oxygen and hydroxyl density measurements in an
+  atmospheric pressure RF-plasma with water admixtures using UV and synchrotron
+  VUV absorption spectroscopy}.
+\newblock 2015.
+
 \bibitem{BruggemanCS2012}
 Peter Bruggeman, Gilles Cunge, and Nader Sadeghi.
 \newblock Absolute oh density measurements by broadband uv absorption in
@@ -154,7 +154,7 @@ Stephan Reuter, Joao~Santos Sousa, Gabi~Daniel Stancu, and Jean-Pierre~Hubertus
   plasma jets.
 \newblock {\em Plasma Sources Science and Technology}, 24(5):054001, 2015.
 
-\bibitem{Niemi2013}
+\bibitem{Niemi2013absolute}
 K.~Niemi, D.~O'Connell, N.~de~Oliveira, D.~Joyeux, L.~Nahon, J.~P. Booth, and
   T.~Gans.
 \newblock Absolute atomic oxygen and nitrogen densities in radio-frequency
